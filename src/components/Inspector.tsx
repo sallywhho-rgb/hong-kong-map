@@ -192,13 +192,19 @@ function ScheduleBody({
         </div>
       ) : (
         <>
-          <DirectionBlock label={upLabel} trains={result.up} />
-          <DirectionBlock label={downLabel} trains={result.down} />
+          <DirectionBlock label={directionTitle(upLabel, result.up)} trains={result.up} />
+          <DirectionBlock label={directionTitle(downLabel, result.down)} trains={result.down} />
         </>
       )}
       {updated ? <p className="text-xs text-stone-500">資料時間 {updated}</p> : null}
     </div>
   )
+}
+
+function directionTitle(fallback: string, trains: Train[]) {
+  const names = [...new Set(trains.map((train) => train.destination).filter((name) => name && name !== "未有目的地"))]
+  if (names.length === 0 || names.length > 2) return fallback
+  return `往${names.join("／")}`
 }
 
 function DirectionBlock({ label, trains }: { label: string; trains: Train[] }) {

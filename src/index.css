@@ -15,20 +15,23 @@ body {
   background: #d9d3c7;
 }
 
-.maplibregl-ctrl-attrib {
+.map-root .maplibregl-ctrl-attrib {
   font-size: 11px;
+  line-height: 16px;
+  white-space: normal;
+  background: #fff;
+  border-radius: 4px;
 }
 
 .map-root .maplibregl-ctrl-bottom-right {
-  bottom: 10px;
-  left: 10px;
+  bottom: 8px;
+  left: 8px;
   right: auto;
-  max-width: min(20rem, 46vw);
+  max-width: calc(100% - 16px);
 }
 
 .map-root .maplibregl-ctrl-bottom-left {
-  bottom: 58px;
-  left: 10px;
+  left: 8px;
 }
 
 @media (max-width: 1023px) {

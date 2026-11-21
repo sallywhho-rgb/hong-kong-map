@@ -48,6 +48,7 @@ export function MapView({
     const container = containerRef.current
     if (!container) return
 
+    let alive = true
     const map = new Map({
       container,
       style: "https://tiles.openfreemap.org/styles/liberty",
@@ -59,6 +60,7 @@ export function MapView({
       ],
       attributionControl: {
         customAttribution: "到站班次：港鐵 · 快拍：運輸署",
+        compact: false,
       },
     })
     map.dragRotate.disable()
@@ -66,23 +68,24 @@ export function MapView({
     map.addControl(new NavigationControl({ showCompass: false }), "bottom-left")
     mapRef.current = map
 
-    map.on("load", () => {
-      map.addSource("rail", { type: "geojson", data: railGeoJson() })
-      map.addLayer({
-        id: "rail-casing",
-        type: "line",
-        source: "rail",
-        layout: { "line-cap": "round", "line-join": "round" },
-        paint: { "line-color": "#ffffff", "line-width": 7, "line-opacity": 0.9 },
-      })
-      map.addLayer({
-        id: "rail-line",
-        type: "line",
-        source: "rail",
-        layout: { "line-cap": "round", "line-join": "round" },
-        paint: { "line-color": ["get", "color"], "line-width": 3.5, "line-opacity": 0.95 },
-      })
+    const placeZoom = () => {
+      const zoom = container.querySelector<HTMLElement>(".maplibregl-ctrl-bottom-left")
+      const credit = container.querySelector<HTMLElement>(".maplibregl-ctrl-bottom-right")
+      if (!zoom || !credit) return
+      if (window.matchMedia("(max-width: 1023px)").matches) {
+        zoom.style.bottom = ""
+        return
+      }
+      zoom.style.bottom = `${credit.offsetHeight + 16}px`
+    }
+    placeZoom()
+    const credit = container.querySelector(".maplibregl-ctrl-bottom-right")
+    const creditObserver = credit ? new ResizeObserver(placeZoom) : null
+    if (credit) creditObserver?.observe(credit)
+    window.addEventListener("resize", placeZoom)
 
+    map.on("load", () => {
+      if (!alive) return
       map.addSource("cameras", {
         type: "geojson",
         data: cameraGeoJson(),
@@ -103,18 +106,6 @@ export function MapView({
         },
       })
       map.addLayer({
-        id: "camera-count",
-        type: "symbol",
-        source: "cameras",
-        filter: ["has", "point_count"],
-        layout: {
-          "text-field": ["get", "point_count_abbreviated"],
-          "text-font": ["Noto Sans Bold"],
-          "text-size": 12,
-        },
-        paint: { "text-color": "#fff7ed" },
-      })
-      map.addLayer({
         id: "cameras",
         type: "circle",
         source: "cameras",
@@ -124,6 +115,38 @@ export function MapView({
           "circle-radius": 5,
           "circle-stroke-width": 1.5,
           "circle-stroke-color": "#ffffff",
+        },
+      })
+
+      map.addSource("rail", { type: "geojson", data: railGeoJson() })
+      map.addLayer({
+        id: "rail-casing",
+        type: "line",
+        source: "rail",
+        layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-color": "#ffffff", "line-width": 7, "line-opacity": 0.95 },
+      })
+      map.addLayer({
+        id: "rail-line",
+        type: "line",
+        source: "rail",
+        layout: { "line-cap": "round", "line-join": "round" },
+        paint: { "line-color": ["get", "color"], "line-width": 3.5, "line-opacity": 1 },
+      })
+      map.addLayer({
+        id: "camera-count",
+        type: "symbol",
+        source: "cameras",
+        filter: ["has", "point_count"],
+        layout: {
+          "text-field": ["get", "point_count_abbreviated"],
+          "text-font": ["Noto Sans Bold"],
+          "text-size": 12,
+        },
+        paint: {
+          "text-color": "#fff7ed",
+          "text-halo-color": "#c2410c",
+          "text-halo-width": 1.2,
         },
       })
 
@@ -188,20 +211,33 @@ export function MapView({
         const center = cluster.geometry.coordinates as [number, number]
         const source = map.getSource("cameras") as GeoJSONSource
         const clusterId = Number(cluster.properties?.cluster_id)
-        void source.getClusterExpansionZoom(clusterId).then((zoom) => {
-          map.easeTo({ center, zoom })
-        })
+        if (!Number.isFinite(clusterId)) return
+        void source
+          .getClusterExpansionZoom(clusterId)
+          .then((zoom) => {
+            if (!alive) return
+            map.easeTo({ center, zoom })
+          })
+          .catch(() => {})
       })
 
+      setStyleError(false)
       setReady(true)
+      placeZoom()
     })
 
     map.on("error", (event) => {
-      const message = event.error instanceof Error ? event.error.message : String(event.error ?? "")
-      if (/style|sprite|glyph|ajax/i.test(message)) setStyleError(true)
+      if (!alive || map.isStyleLoaded()) return
+      const error = event.error as { url?: string; message?: string } | undefined
+      const url = typeof error?.url === "string" ? error.url : ""
+      const message = event.error instanceof Error ? event.error.message : String(error?.message ?? "")
+      if (url.includes("/styles/") || /style/i.test(message)) setStyleError(true)
     })
 
     return () => {
+      alive = false
+      creditObserver?.disconnect()
+      window.removeEventListener("resize", placeZoom)
       map.remove()
       mapRef.current = null
       setReady(false)
