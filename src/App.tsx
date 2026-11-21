@@ -51,7 +51,10 @@ export default function App() {
         onSelectCamera={chooseCamera}
       />
 
-      <header className="pointer-events-auto absolute top-4 left-4 z-30 w-[min(24rem,calc(100%-6.5rem))] rounded-2xl border border-stone-200 bg-white/95 p-3 shadow-xl backdrop-blur">
+      <header
+        id="map-header"
+        className="pointer-events-auto absolute top-4 left-4 z-30 w-[min(24rem,calc(100%-6.5rem))] rounded-2xl border border-stone-200 bg-white/95 p-3 shadow-xl backdrop-blur"
+      >
         <p className="text-xs tracking-wide text-stone-500">香港</p>
         <h1 className="text-xl font-semibold text-stone-950">智慧城市地圖</h1>
         <p className="mt-1 text-sm leading-6 text-stone-600">
@@ -65,6 +68,9 @@ export default function App() {
             placeholder="搜尋車站或快拍地點"
             aria-label="搜尋車站或快拍地點"
           />
+          <p className="sr-only" role="status">
+            {searchStatus(query, results.stations.length, results.cameras.length)}
+          </p>
           {query.trim() ? (
             <div className="absolute top-12 right-0 left-0 z-40 max-h-72 overflow-y-auto rounded-xl border border-stone-200 bg-white shadow-lg">
               {results.stations.length === 0 && results.cameras.length === 0 ? (
@@ -139,7 +145,19 @@ export default function App() {
           </ul>
         </details>
         <p className="mt-3 text-[11px] leading-4 text-stone-500">
-          底圖 OpenFreeMap © OpenMapTiles。路軌形狀與底圖資料來自 OpenStreetMap。到站班次由港鐵提供，快拍由運輸署提供。
+          底圖{" "}
+          <a className="underline" href="https://openfreemap.org/" target="_blank" rel="noreferrer">
+            OpenFreeMap
+          </a>{" "}
+          ©{" "}
+          <a className="underline" href="https://www.openmaptiles.org/" target="_blank" rel="noreferrer">
+            OpenMapTiles
+          </a>
+          。路軌形狀與底圖資料來自{" "}
+          <a className="underline" href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">
+            OpenStreetMap
+          </a>
+          。到站班次由港鐵提供，快拍由運輸署提供。
         </p>
       </header>
 
@@ -152,6 +170,12 @@ export default function App() {
       />
     </main>
   )
+}
+
+function searchStatus(query: string, stations: number, cameras: number) {
+  if (!query.trim()) return ""
+  const total = stations + cameras
+  return total === 0 ? "找不到符合的地點" : `找到 ${total} 個地點`
 }
 
 function searchPlaces(query: string) {

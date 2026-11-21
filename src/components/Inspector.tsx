@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { fetchSchedule, formatClock, formatMinutes } from "@/lib/schedule"
+import { fetchSchedule, formatClock, formatMinutes, minutesUntil, scheduleClock } from "@/lib/schedule"
 import { cameraImageUrl, cameras, lineByCode, orderedLines, stationByCode } from "@/lib/transit"
 import type { LineCode, ScheduleResult, Selection, Train } from "@/lib/types"
 import { useEffect, useState } from "react"
@@ -13,6 +13,7 @@ type InspectorProps = {
 export function Inspector({ selection, onClose, onLineChange }: InspectorProps) {
   return (
     <aside
+      id="place-inspector"
       className={
         selection
           ? "pointer-events-auto absolute inset-x-4 bottom-4 z-20 flex max-h-[48%] flex-col overflow-hidden rounded-2xl border border-stone-200 bg-white/95 shadow-2xl backdrop-blur lg:inset-x-auto lg:top-4 lg:right-4 lg:bottom-4 lg:w-[380px] lg:max-h-none"
@@ -77,6 +78,7 @@ function StationCard({
 }) {
   const station = stationByCode.get(code)
   const [attempt, setAttempt] = useState(0)
+  const [now, setNow] = useState(() => Date.now())
   const requestKey = `${code}:${line}:${attempt}`
   const [loadedKey, setLoadedKey] = useState(requestKey)
   const [result, setResult] = useState<ScheduleResult>({ kind: "loading" })
@@ -86,17 +88,41 @@ function StationCard({
   }
 
   useEffect(() => {
-    const controller = new AbortController()
-    void fetchSchedule(line, code, controller.signal)
-      .then((next) => {
-        if (!controller.signal.aborted) setResult(next)
-      })
-      .catch((error: unknown) => {
-        if (controller.signal.aborted) return
-        console.error(error)
-        setResult({ kind: "error", message: "暫時未能取得班次，請稍後再試。" })
-      })
-    return () => controller.abort()
+    const timer = window.setInterval(() => setNow(Date.now()), 15_000)
+    return () => window.clearInterval(timer)
+  }, [])
+
+  useEffect(() => {
+    let cancelled = false
+    let refreshTimer = 0
+    let controller = new AbortController()
+
+    const load = () => {
+      controller.abort()
+      controller = new AbortController()
+      const signal = controller.signal
+      void fetchSchedule(line, code, signal)
+        .then((next) => {
+          if (cancelled || signal.aborted) return
+          setResult((current) => (next.kind === "error" && current.kind === "ready" ? current : next))
+          refreshTimer = window.setTimeout(load, 10_000)
+        })
+        .catch((error: unknown) => {
+          if (cancelled || signal.aborted) return
+          console.error(error)
+          setResult((current) =>
+            current.kind === "ready" ? current : { kind: "error", message: "暫時未能取得班次，請稍後再試。" },
+          )
+          refreshTimer = window.setTimeout(load, 10_000)
+        })
+    }
+
+    load()
+    return () => {
+      cancelled = true
+      window.clearTimeout(refreshTimer)
+      controller.abort()
+    }
   }, [code, line, attempt])
 
   if (!station) {
@@ -143,11 +169,24 @@ function StationCard({
           <p className="mt-3 text-xs text-stone-500">轉車站可以切換路綫，再看該綫的到站班次。</p>
         ) : null}
 
-        <div className="mt-4" role="status">
+        <p className="sr-only" role="status">
+          {scheduleStatus(result, now)}
+        </p>
+        <div className="mt-4">
           {result.kind === "loading" ? <p className="text-sm text-stone-600">正在讀取到站班次…</p> : null}
           {result.kind === "error" ? (
             <div className="rounded-xl bg-stone-100 px-3 py-3">
               <p className="text-sm text-stone-800">{result.message}</p>
+              {result.href ? (
+                <a
+                  className="mt-2 inline-block text-sm text-stone-900 underline"
+                  href={result.href}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  港鐵特別安排
+                </a>
+              ) : null}
               <Button className="mt-3" size="sm" variant="outline" onClick={() => setAttempt((value) => value + 1)}>
                 再試一次
               </Button>
@@ -156,6 +195,7 @@ function StationCard({
           {result.kind === "ready" ? (
             <ScheduleBody
               result={result}
+              now={now}
               upLabel={activeLine?.upLabel ?? "上行"}
               downLabel={activeLine?.downLabel ?? "下行"}
               racecourse={station.code === "RAC"}
@@ -167,19 +207,33 @@ function StationCard({
   )
 }
 
+function scheduleStatus(result: ScheduleResult, now: number) {
+  if (result.kind === "loading") return "正在讀取到站班次"
+  if (result.kind === "error") return result.message
+  const clock = scheduleClock(result, now)
+  const trains = [...result.up, ...result.down]
+  if (trains.length === 0) return "暫無到站班次"
+  return trains
+    .map((train) => `${formatMinutes(minutesUntil(train.time, clock))} 往${train.destination}`)
+    .join("，")
+}
+
 function ScheduleBody({
   result,
+  now,
   upLabel,
   downLabel,
   racecourse,
 }: {
   result: Extract<ScheduleResult, { kind: "ready" }>
+  now: number
   upLabel: string
   downLabel: string
   racecourse: boolean
 }) {
   const none = result.up.length === 0 && result.down.length === 0
   const updated = formatClock(result.updated)
+  const clock = scheduleClock(result, now)
   return (
     <div className="space-y-3">
       {result.delay ? (
@@ -192,8 +246,8 @@ function ScheduleBody({
         </div>
       ) : (
         <>
-          <DirectionBlock label={directionTitle(upLabel, result.up)} trains={result.up} />
-          <DirectionBlock label={directionTitle(downLabel, result.down)} trains={result.down} />
+          <DirectionBlock label={directionTitle(upLabel, result.up)} trains={result.up} clock={clock} />
+          <DirectionBlock label={directionTitle(downLabel, result.down)} trains={result.down} clock={clock} />
         </>
       )}
       {updated ? <p className="text-xs text-stone-500">資料時間 {updated}</p> : null}
@@ -207,7 +261,7 @@ function directionTitle(fallback: string, trains: Train[]) {
   return `往${names.join("／")}`
 }
 
-function DirectionBlock({ label, trains }: { label: string; trains: Train[] }) {
+function DirectionBlock({ label, trains, clock }: { label: string; trains: Train[]; clock: number }) {
   return (
     <section className="rounded-xl border border-stone-200 px-3 py-2">
       <h3 className="text-sm font-medium text-stone-800">{label}</h3>
@@ -217,7 +271,7 @@ function DirectionBlock({ label, trains }: { label: string; trains: Train[] }) {
         <ul className="mt-2 space-y-2">
           {trains.map((train, index) => (
             <li key={`${train.destination}-${train.time}-${index}`} className="text-sm text-stone-800">
-              <span className="font-semibold">{formatMinutes(train.minutes)}</span>
+              <span className="font-semibold">{formatMinutes(minutesUntil(train.time, clock))}</span>
               <span className="text-stone-600">
                 {" "}
                 · 往{train.destination}

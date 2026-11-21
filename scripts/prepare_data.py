@@ -334,6 +334,14 @@ def build_network(rows: list[dict], cache: dict) -> dict:
     return {"lines": lines, "stations": station_list}
 
 
+# The Transport Department table puts AID10120 several kilometres south of
+# Shenzhen Bay Bridge, beside Yuen Long Highway. The camera caption and the
+# other six northbound cameras keep it on the bridge, opposite AID10201.
+CAMERA_COORDINATE_FIXES = {
+    "AID10120": (22.476958, 113.954874),
+}
+
+
 def build_cameras(rows: list[dict]) -> list[dict]:
     cameras = []
     seen = set()
@@ -344,6 +352,8 @@ def build_cameras(rows: list[dict]) -> list[dict]:
         seen.add(key)
         latitude = float(row["latitude"])
         longitude = float(row["longitude"])
+        if key in CAMERA_COORDINATE_FIXES:
+            latitude, longitude = CAMERA_COORDINATE_FIXES[key]
         if not (22.13 <= latitude <= 22.58 and 113.80 <= longitude <= 114.50):
             raise SystemExit(f"快拍點超出香港範圍：{key}")
         cameras.append(

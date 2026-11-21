@@ -46,7 +46,6 @@ export type TrafficCamera = {
 export type Train = {
   destination: string
   platform: string
-  minutes: string
   time: string
   delayed: boolean
 }
@@ -55,13 +54,15 @@ export type ScheduleView = {
   kind: "ready"
   delay: boolean
   updated: string
+  serverNowMs: number | null
+  fetchedAt: number
   up: Train[]
   down: Train[]
 }
 
 export type ScheduleResult =
   | { kind: "loading" }
-  | { kind: "error"; message: string }
+  | { kind: "error"; message: string; href?: string }
   | ScheduleView
 
 export type Selection =

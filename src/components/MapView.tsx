@@ -60,7 +60,6 @@ export function MapView({
       ],
       attributionControl: {
         customAttribution: "路軌：OpenStreetMap · 到站班次：港鐵 · 快拍：運輸署",
-        compact: false,
       },
     })
     map.dragRotate.disable()
@@ -69,10 +68,13 @@ export function MapView({
     mapRef.current = map
 
     const placeZoom = () => {
+      const narrow = window.matchMedia("(max-width: 1023px)").matches
       const zoom = container.querySelector<HTMLElement>(".maplibregl-ctrl-bottom-left")
       const credit = container.querySelector<HTMLElement>(".maplibregl-ctrl-bottom-right")
+      const attrib = container.querySelector<HTMLElement>(".maplibregl-ctrl-attrib")
+      if (attrib) attrib.classList.toggle("maplibregl-compact", narrow)
       if (!zoom || !credit) return
-      if (window.matchMedia("(max-width: 1023px)").matches) {
+      if (narrow) {
         zoom.style.bottom = ""
         return
       }
@@ -293,11 +295,43 @@ export function MapView({
   useEffect(() => {
     const map = mapRef.current
     if (!map || !ready || !focus) return
-    map.easeTo({
-      center: [focus.lng, focus.lat],
-      zoom: Math.max(map.getZoom(), focus.zoom),
-      duration: 700,
+    let frame = 0
+    let lastOverlap = -1
+
+    const move = () => {
+      const narrow = window.matchMedia("(max-width: 1023px)").matches
+      const mapRect = map.getContainer().getBoundingClientRect()
+      const panel = document.getElementById("place-inspector")?.getBoundingClientRect()
+      const header = document.getElementById("map-header")?.getBoundingClientRect()
+      let top = narrow && header ? Math.max(0, Math.round(header.bottom - mapRect.top)) : 0
+      let bottom = narrow && panel ? Math.max(0, Math.round(mapRect.bottom - panel.top)) : 0
+      const minBand = 72
+      if (top + bottom > mapRect.height - minBand) {
+        bottom = Math.max(0, Math.round(mapRect.height - top - minBand))
+      }
+      const signature = top * 10000 + bottom
+      if (lastOverlap >= 0 && Math.abs(signature - lastOverlap) < 12) return
+      lastOverlap = signature
+      map.easeTo({
+        center: [focus.lng, focus.lat],
+        zoom: Math.max(map.getZoom(), focus.zoom),
+        duration: 700,
+        padding: { top, bottom, left: 0, right: 0 },
+      })
+    }
+
+    frame = requestAnimationFrame(() => {
+      frame = requestAnimationFrame(move)
     })
+    const panel = document.getElementById("place-inspector")
+    const header = document.getElementById("map-header")
+    const observer = window.matchMedia("(max-width: 1023px)").matches ? new ResizeObserver(() => move()) : null
+    if (panel) observer?.observe(panel)
+    if (header) observer?.observe(header)
+    return () => {
+      cancelAnimationFrame(frame)
+      observer?.disconnect()
+    }
   }, [ready, focus])
 
   return (

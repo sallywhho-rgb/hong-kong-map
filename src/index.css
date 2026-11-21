@@ -36,7 +36,12 @@ body {
 
 @media (max-width: 1023px) {
   .map-root .maplibregl-ctrl-bottom-right {
-    display: none;
+    top: 80px;
+    right: 8px;
+    bottom: auto;
+    left: auto;
+    max-width: min(18rem, calc(100% - 16px));
+    z-index: 2;
   }
 
   .map-root .maplibregl-ctrl-bottom-left {
