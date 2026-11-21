@@ -39,4 +39,12 @@ python3 scripts/prepare_data.py
 
 ## 正式發佈
 
-驗收完成前，只在開發預覽使用。驗收通過後，才發佈到 Cloudflare Workers 免費方案，使用 `workers.dev` 網址，不買自訂網域，也不開啟 Workers Caching。按現時免費方案，這個靜態網站預計費用是 0 美元。
+正式版使用 Cloudflare Workers 的靜態資源，網址在 `workers.dev`。沒有自訂網域，沒有 Worker 程式，也沒有開啟 Workers Caching。靜態檔案的請求按 Cloudflare 說明不另收費，儲存同樣不另收費。
+
+```bash
+npm run deploy
+```
+
+這會先建置網站，再發佈名為 `hong-kong-map` 的 Worker。帳戶的 `workers.dev` 子網域是 `sallywhho`，網站網址會是 `https://hong-kong-map.sallywhho.workers.dev`。
+
+Cloudflare 要求先驗證帳戶電郵，才能建立 Worker。驗證完成後再執行上面的指令。
