@@ -1,5 +1,6 @@
 import camerasJson from "@/data/cameras.json"
 import networkJson from "@/data/network.json"
+import railGeometryJson from "@/data/rail-geometry.json"
 import type { LineCode, Network, RailLine, Station, TrafficCamera } from "@/lib/types"
 
 export const network = networkJson as Network
@@ -21,11 +22,13 @@ export function stationName(code: string) {
   return stationByCode.get(code)?.nameZh ?? code
 }
 
+const railTracks = railGeometryJson.lines as Record<LineCode, number[][][]>
+
 export function railGeoJson() {
   return {
     type: "FeatureCollection" as const,
     features: lines.flatMap((line) =>
-      line.paths.map((path) => ({
+      railTracks[line.code].map((coordinates) => ({
         type: "Feature" as const,
         properties: {
           code: line.code,
@@ -34,11 +37,7 @@ export function railGeoJson() {
         },
         geometry: {
           type: "LineString" as const,
-          coordinates: path.map((code) => {
-            const station = stationByCode.get(code)
-            if (!station) throw new Error(`缺少車站座標：${code}`)
-            return [station.lng, station.lat]
-          }),
+          coordinates,
         },
       })),
     ),

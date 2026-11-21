@@ -59,7 +59,7 @@ export function MapView({
         [114.6, 22.68],
       ],
       attributionControl: {
-        customAttribution: "到站班次：港鐵 · 快拍：運輸署",
+        customAttribution: "路軌：OpenStreetMap · 到站班次：港鐵 · 快拍：運輸署",
         compact: false,
       },
     })

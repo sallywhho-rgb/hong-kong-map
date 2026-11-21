@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "data": "python3 scripts/prepare_data.py",
+    "geometry": "python3 scripts/prepare_geometry.py",
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {

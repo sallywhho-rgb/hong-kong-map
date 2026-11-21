@@ -139,7 +139,7 @@ export default function App() {
           </ul>
         </details>
         <p className="mt-3 text-[11px] leading-4 text-stone-500">
-          底圖 OpenFreeMap © OpenMapTiles，資料來自 OpenStreetMap。到站班次由港鐵提供，快拍由運輸署提供。
+          底圖 OpenFreeMap © OpenMapTiles。路軌形狀與底圖資料來自 OpenStreetMap。到站班次由港鐵提供，快拍由運輸署提供。
         </p>
       </header>
 
