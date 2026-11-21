@@ -10,6 +10,8 @@ const cameraByKey = new Map(cameras.map((camera) => [camera.key, camera]))
 
 export default function App() {
   const [showMtr, setShowMtr] = useState(true)
+  const [showTrains, setShowTrains] = useState(true)
+  const [trainStatus, setTrainStatus] = useState("")
   const [showCameras, setShowCameras] = useState(true)
   const [selection, setSelection] = useState<Selection | null>(null)
   const [focus, setFocus] = useState<MapFocus | null>(null)
@@ -44,11 +46,13 @@ export default function App() {
     <main className="relative h-full">
       <MapView
         showMtr={showMtr}
+        showTrains={showTrains}
         showCameras={showCameras}
         selection={selection}
         focus={focus}
         onSelectStation={chooseStation}
         onSelectCamera={chooseCamera}
+        onTrainStatus={setTrainStatus}
       />
 
       <header
@@ -125,6 +129,19 @@ export default function App() {
           </Button>
           <Button
             size="sm"
+            variant={showTrains ? "default" : "outline"}
+            aria-pressed={showTrains}
+            onClick={() => {
+              setShowTrains((current) => {
+                if (!current) setShowMtr(true)
+                return !current
+              })
+            }}
+          >
+            列車
+          </Button>
+          <Button
+            size="sm"
             variant={showCameras ? "default" : "outline"}
             aria-pressed={showCameras}
             onClick={() => setShowCameras((value) => !value)}
@@ -132,6 +149,9 @@ export default function App() {
             交通快拍
           </Button>
         </div>
+        {showTrains && showMtr ? (
+          <p className="mt-2 text-xs leading-5 text-stone-600">{trainStatus || "列車會沿路軌移動。"}</p>
+        ) : null}
 
         <details className="mt-3">
           <summary className="cursor-pointer text-sm text-stone-600">港鐵綫顏色</summary>
@@ -157,7 +177,7 @@ export default function App() {
           <a className="underline" href="https://www.openstreetmap.org/copyright" target="_blank" rel="noreferrer">
             OpenStreetMap
           </a>
-          。到站班次由港鐵提供，快拍由運輸署提供。
+          。到站班次由港鐵提供。列車位置是按到站時間沿路軌估計，不是列車的實際定位。快拍由運輸署提供。
         </p>
       </header>
 

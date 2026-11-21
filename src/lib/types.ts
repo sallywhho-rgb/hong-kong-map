@@ -45,6 +45,7 @@ export type TrafficCamera = {
 
 export type Train = {
   destination: string
+  destinationCode: string
   platform: string
   time: string
   delayed: boolean

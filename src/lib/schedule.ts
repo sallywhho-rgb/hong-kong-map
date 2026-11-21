@@ -67,10 +67,16 @@ export function scheduleClock(view: { serverNowMs: number | null; fetchedAt: num
   return view.serverNowMs + (now - view.fetchedAt)
 }
 
-export function minutesUntil(arrival: string, currentMs: number) {
+export function secondsUntil(arrival: string, currentMs: number) {
   const arrivalMs = parseHongKong(arrival)
-  if (arrivalMs == null) return ""
-  const minutes = Math.round((arrivalMs - currentMs) / 60_000)
+  if (arrivalMs == null) return null
+  return (arrivalMs - currentMs) / 1000
+}
+
+export function minutesUntil(arrival: string, currentMs: number) {
+  const seconds = secondsUntil(arrival, currentMs)
+  if (seconds == null) return ""
+  const minutes = Math.round(seconds / 60)
   return minutes <= 0 ? "0" : String(minutes)
 }
 
@@ -90,6 +96,7 @@ function presentTrain(train: RawTrain): Train | null {
   const destinationCode = train.dest?.trim() || ""
   return {
     destination: destinationCode ? stationName(destinationCode) : "未有目的地",
+    destinationCode,
     platform: train.plat?.trim() || "",
     time: train.time?.trim() || "",
     delayed: train.isdelay === "Y" || train.Isdelay === "Y",

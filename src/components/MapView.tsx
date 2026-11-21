@@ -1,10 +1,11 @@
+import { startTrainMotion } from "@/lib/trains"
 import {
   cameraGeoJson,
   railGeoJson,
   stationGeoJson,
 } from "@/lib/transit"
 import type { MapFocus, Selection } from "@/lib/types"
-import { Map, NavigationControl, setWorkerUrl } from "maplibre-gl"
+import { Map, NavigationControl, Popup, setWorkerUrl } from "maplibre-gl"
 import type { GeoJSONSource, Map as MapLibreMap } from "maplibre-gl"
 import { useEffect, useRef, useState } from "react"
 import workerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url"
@@ -13,24 +14,48 @@ import "maplibre-gl/dist/maplibre-gl.css"
 setWorkerUrl(workerUrl)
 
 const MTR_LAYERS = ["rail-casing", "rail-line", "stations", "station-labels"]
+const TRAIN_LAYERS = ["trains", "train-heading"]
+const EMPTY_TRAINS = { type: "FeatureCollection" as const, features: [] }
+
+function trainArrow() {
+  const canvas = document.createElement("canvas")
+  canvas.width = 32
+  canvas.height = 32
+  const context = canvas.getContext("2d")
+  if (!context) return { width: 32, height: 32, data: new Uint8Array(32 * 32 * 4) }
+  context.fillStyle = "#ffffff"
+  context.beginPath()
+  context.moveTo(16, 4)
+  context.lineTo(26, 26)
+  context.lineTo(16, 20)
+  context.lineTo(6, 26)
+  context.closePath()
+  context.fill()
+  const image = context.getImageData(0, 0, 32, 32)
+  return { width: 32, height: 32, data: image.data }
+}
 const CAMERA_LAYERS = ["camera-clusters", "camera-count", "cameras"]
 
 type MapViewProps = {
   showMtr: boolean
+  showTrains: boolean
   showCameras: boolean
   selection: Selection | null
   focus: MapFocus | null
   onSelectStation: (code: string) => void
   onSelectCamera: (key: string) => void
+  onTrainStatus: (note: string) => void
 }
 
 export function MapView({
   showMtr,
+  showTrains,
   showCameras,
   selection,
   focus,
   onSelectStation,
   onSelectCamera,
+  onTrainStatus,
 }: MapViewProps) {
   const containerRef = useRef<HTMLDivElement>(null)
   const mapRef = useRef<MapLibreMap | null>(null)
@@ -38,11 +63,14 @@ export function MapView({
   const [styleError, setStyleError] = useState(false)
   const selectStationRef = useRef(onSelectStation)
   const selectCameraRef = useRef(onSelectCamera)
+  const trainStatusRef = useRef(onTrainStatus)
+  const trainPopupRef = useRef<Popup | null>(null)
 
   useEffect(() => {
     selectStationRef.current = onSelectStation
     selectCameraRef.current = onSelectCamera
-  }, [onSelectStation, onSelectCamera])
+    trainStatusRef.current = onTrainStatus
+  }, [onSelectStation, onSelectCamera, onTrainStatus])
 
   useEffect(() => {
     const container = containerRef.current
@@ -135,6 +163,32 @@ export function MapView({
         layout: { "line-cap": "round", "line-join": "round" },
         paint: { "line-color": ["get", "color"], "line-width": 3.5, "line-opacity": 1 },
       })
+      map.addSource("trains", { type: "geojson", data: EMPTY_TRAINS })
+      map.addLayer({
+        id: "trains",
+        type: "circle",
+        source: "trains",
+        paint: {
+          "circle-color": ["get", "color"],
+          "circle-radius": 8,
+          "circle-stroke-width": 2,
+          "circle-stroke-color": "#ffffff",
+        },
+      })
+      map.addImage("train-arrow", trainArrow(), { pixelRatio: 2 })
+      map.addLayer({
+        id: "train-heading",
+        type: "symbol",
+        source: "trains",
+        layout: {
+          "icon-image": "train-arrow",
+          "icon-size": 0.8,
+          "icon-rotate": ["get", "bearing"],
+          "icon-rotation-alignment": "map",
+          "icon-allow-overlap": true,
+          "icon-ignore-placement": true,
+        },
+      })
       map.addLayer({
         id: "camera-count",
         type: "symbol",
@@ -194,8 +248,20 @@ export function MapView({
       pointCursor("stations")
       pointCursor("cameras")
       pointCursor("camera-clusters")
+      pointCursor("trains")
 
       map.on("click", (event) => {
+        const trainHit = map.queryRenderedFeatures(event.point, { layers: ["trains"] })[0]
+        const trainTitle = trainHit?.properties?.title
+        if (trainTitle && trainHit.geometry.type === "Point") {
+          trainPopupRef.current?.remove()
+          trainPopupRef.current = new Popup({ closeButton: false, offset: 12 })
+            .setLngLat(trainHit.geometry.coordinates as [number, number])
+            .setText(`${trainHit.properties?.line ?? ""} · ${trainTitle} · 按到站時間估計`)
+            .addTo(map)
+          return
+        }
+        trainPopupRef.current?.remove()
         const stationHit = map.queryRenderedFeatures(event.point, { layers: ["stations"] })[0]
         const stationCode = stationHit?.properties?.code
         if (stationCode) {
@@ -240,6 +306,7 @@ export function MapView({
       alive = false
       creditObserver?.disconnect()
       window.removeEventListener("resize", placeZoom)
+      trainPopupRef.current?.remove()
       map.remove()
       mapRef.current = null
       setReady(false)
@@ -251,9 +318,11 @@ export function MapView({
     if (!map || !ready) return
     const mtr = showMtr ? "visible" : "none"
     const camera = showCameras ? "visible" : "none"
+    const trains = showMtr && showTrains ? "visible" : "none"
     for (const layer of MTR_LAYERS) map.setLayoutProperty(layer, "visibility", mtr)
     for (const layer of CAMERA_LAYERS) map.setLayoutProperty(layer, "visibility", camera)
-  }, [ready, showMtr, showCameras])
+    for (const layer of TRAIN_LAYERS) map.setLayoutProperty(layer, "visibility", trains)
+  }, [ready, showMtr, showCameras, showTrains])
 
   useEffect(() => {
     const map = mapRef.current
@@ -291,6 +360,23 @@ export function MapView({
       5,
     ])
   }, [ready, selection])
+
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !ready) return
+    const source = map.getSource("trains") as GeoJSONSource | undefined
+    if (!showMtr || !showTrains) {
+      source?.setData(EMPTY_TRAINS)
+      trainStatusRef.current("")
+      return
+    }
+    return startTrainMotion((frame) => {
+      if (!mapRef.current) return
+      const trains = mapRef.current.getSource("trains") as GeoJSONSource | undefined
+      trains?.setData(frame.geojson)
+      trainStatusRef.current(frame.note)
+    })
+  }, [ready, showMtr, showTrains])
 
   useEffect(() => {
     const map = mapRef.current
