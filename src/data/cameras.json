@@ -1,0 +1,8106 @@
+[
+  {
+    "key": "AID01101",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海旁道近福群大樓 - 東行 [AID01101]",
+    "lat": 22.248083,
+    "lng": 114.152525
+  },
+  {
+    "key": "AID01102",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海旁道近海暉大廈 - 東行 [AID01102]",
+    "lat": 22.247127,
+    "lng": 114.157715
+  },
+  {
+    "key": "AID01103",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近香港仔工業學校 - 東行 [AID01103]",
+    "lat": 22.248635,
+    "lng": 114.162148
+  },
+  {
+    "key": "AID01104",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道行車天橋近安盛匯 - 東行 [AID01104]",
+    "lat": 22.248374,
+    "lng": 114.165815
+  },
+  {
+    "key": "AID01105",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道行車天橋近本利發工業大廈 - 東行 [AID01105]",
+    "lat": 22.249683,
+    "lng": 114.168638
+  },
+  {
+    "key": "AID01106",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近香港醫學專科學院 - 東行 [AID01106]",
+    "lat": 22.250442,
+    "lng": 114.171878
+  },
+  {
+    "key": "AID01107",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔隧道近黃竹坑醫院 - 東行 [AID01107]",
+    "lat": 22.249991,
+    "lng": 114.176292
+  },
+  {
+    "key": "AID01108",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "黃泥涌峽天橋近馬場 - 北行 [AID01108]",
+    "lat": 22.271863,
+    "lng": 114.180125
+  },
+  {
+    "key": "AID01109",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近木球會 - 北行 [AID01109]",
+    "lat": 22.276595,
+    "lng": 114.181076
+  },
+  {
+    "key": "AID01110",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近灣仔消防局 - 北行 [AID01110]",
+    "lat": 22.279349,
+    "lng": 114.181212
+  },
+  {
+    "key": "AID01111",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "康莊道近香港理工大學 - 北行（1）[AID01111]",
+    "lat": 22.30412,
+    "lng": 114.180999
+  },
+  {
+    "key": "AID01112",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "康莊道近香港理工大學 - 北行（2）[AID01112]",
+    "lat": 22.304924,
+    "lng": 114.181339
+  },
+  {
+    "key": "AID01113",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "公主道近君頤峰 - 北行[AID01113]",
+    "lat": 22.310288,
+    "lng": 114.178165
+  },
+  {
+    "key": "AID01114",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近愛民邨 - 北行 [AID01114]",
+    "lat": 22.313313,
+    "lng": 114.176884
+  },
+  {
+    "key": "AID01115",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近余振強紀念中學 - 北行 [AID01115]",
+    "lat": 22.318506,
+    "lng": 114.178981
+  },
+  {
+    "key": "AID01116",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近聖約翰救傷隊九龍救護站 - 北行 [AID01116]",
+    "lat": 22.320746,
+    "lng": 114.17868
+  },
+  {
+    "key": "AID01117",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近聖佐治大廈 - 北行 [AID01117]",
+    "lat": 22.324358,
+    "lng": 114.178311
+  },
+  {
+    "key": "AID01118",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近九龍塘會 - 北行 [AID01118]",
+    "lat": 22.328431,
+    "lng": 114.178476
+  },
+  {
+    "key": "AID01119",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近對衡道- 北行 [AID01119]",
+    "lat": 22.332522,
+    "lng": 114.178767
+  },
+  {
+    "key": "AID01120",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近九龍東軍營(1)- 北行 [AID01120]",
+    "lat": 22.334969,
+    "lng": 114.178884
+  },
+  {
+    "key": "AID01121",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近九龍東軍營(2) - 北行 [AID01121]",
+    "lat": 22.338482,
+    "lng": 114.179146
+  },
+  {
+    "key": "AID01122",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近和域道 - 北行 [AID01122]",
+    "lat": 22.341904,
+    "lng": 114.178932
+  },
+  {
+    "key": "AID01123",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "獅子山隧道公路近九龍入口 - 北行 [AID01123]",
+    "lat": 22.345218,
+    "lng": 114.18133
+  },
+  {
+    "key": "AID01124",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近收費廣場 - 北行 [AID01124]",
+    "lat": 22.359279,
+    "lng": 114.175185
+  },
+  {
+    "key": "AID01125",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近世界花園 - 北行 [AID01125]",
+    "lat": 22.363424,
+    "lng": 114.179845
+  },
+  {
+    "key": "AID01126",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近隔田村 - 北行 (1) [AID01126]",
+    "lat": 22.365447,
+    "lng": 114.183632
+  },
+  {
+    "key": "AID01127",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近隔田村 - 北行 (2) [AID01127]",
+    "lat": 22.367009,
+    "lng": 114.185982
+  },
+  {
+    "key": "AID01128",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近豐盛苑 - 北行 [AID01128]",
+    "lat": 22.371145,
+    "lng": 114.189215
+  },
+  {
+    "key": "AID01129",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近博康邨 - 北行 [AID01129]",
+    "lat": 22.373817,
+    "lng": 114.192973
+  },
+  {
+    "key": "AID01130",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近基督書院 - 北行 [AID01130]",
+    "lat": 22.374485,
+    "lng": 114.195702
+  },
+  {
+    "key": "AID01131",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近沙田圍新村 - 北行 [AID01131]",
+    "lat": 22.376246,
+    "lng": 114.198663
+  },
+  {
+    "key": "AID01132",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近威爾斯親王醫院 - 北行 [AID01132]",
+    "lat": 22.380905,
+    "lng": 114.200596
+  },
+  {
+    "key": "AID01133",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近城門河 - 北行(1) [AID01133]",
+    "lat": 22.383714,
+    "lng": 114.201422
+  },
+  {
+    "key": "AID01134",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近城門河 - 北行 [AID01134]",
+    "lat": 22.387525,
+    "lng": 114.200675
+  },
+  {
+    "key": "AID01135",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近香港專業教育學院(沙田分校) - 北行 [AID01135]",
+    "lat": 22.390162,
+    "lng": 114.199005
+  },
+  {
+    "key": "AID01136",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近火炭鐵路大樓 - 北行 [AID01136]",
+    "lat": 22.394018,
+    "lng": 114.199084
+  },
+  {
+    "key": "AID01201",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "獅子山隧道公路近九龍出口 - 南行 [AID01201]",
+    "lat": 22.34567,
+    "lng": 114.181563
+  },
+  {
+    "key": "AID01202",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近和域道 - 南行 [AID01202]",
+    "lat": 22.342401,
+    "lng": 114.178748
+  },
+  {
+    "key": "AID01203",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近聯合道 - 南行 [AID01203]",
+    "lat": 22.338915,
+    "lng": 114.179165
+  },
+  {
+    "key": "AID01204",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近九龍東軍營 - 南行 [AID01204]",
+    "lat": 22.334969,
+    "lng": 114.178913
+  },
+  {
+    "key": "AID01205",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近美國國際學校 - 南行 [AID01205]",
+    "lat": 22.332522,
+    "lng": 114.178874
+  },
+  {
+    "key": "AID01206",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近九龍塘會 - 南行 [AID01206]",
+    "lat": 22.328422,
+    "lng": 114.178602
+  },
+  {
+    "key": "AID01207",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道近聖佐治大廈 - 南行 [AID01207]",
+    "lat": 22.323988,
+    "lng": 114.178282
+  },
+  {
+    "key": "AID01208",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近聖約翰救傷隊九龍救護站 - 南行 [AID01208]",
+    "lat": 22.321306,
+    "lng": 114.178262
+  },
+  {
+    "key": "AID01209",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近余振強紀念中學 - 南行 [AID01209]",
+    "lat": 22.318497,
+    "lng": 114.179
+  },
+  {
+    "key": "AID01210",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近愛民邨 - 南行 [AID01210]",
+    "lat": 22.313313,
+    "lng": 114.176913
+  },
+  {
+    "key": "AID01211",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近愛民邨 - 南行(2) [AID01211]",
+    "lat": 22.310297,
+    "lng": 114.178175
+  },
+  {
+    "key": "AID01212",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道近京士柏道花園 - 南行 [AID01212]",
+    "lat": 22.309457,
+    "lng": 114.178825
+  },
+  {
+    "key": "AID01213",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "康莊道近香港理工大學 - 南行 [AID01213]",
+    "lat": 22.305592,
+    "lng": 114.181523
+  },
+  {
+    "key": "AID01214",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近伊利莎伯大廈 - 南行 [AID01214]",
+    "lat": 22.280722,
+    "lng": 114.180697
+  },
+  {
+    "key": "AID01215",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近永德大廈 - 南行 [AID01215]",
+    "lat": 22.278211,
+    "lng": 114.181212
+  },
+  {
+    "key": "AID01216",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "黃泥涌峽天橋近馬場 - 南行 [AID01216]",
+    "lat": 22.273317,
+    "lng": 114.179601
+  },
+  {
+    "key": "AID01217",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔隧道近收費廣場 - 西行 [AID01217]",
+    "lat": 22.250596,
+    "lng": 114.177563
+  },
+  {
+    "key": "AID01218",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近黃竹坑體育館 - 西行 [AID01218]",
+    "lat": 22.250054,
+    "lng": 114.173712
+  },
+  {
+    "key": "AID01219",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道行車近黃竹坑遊樂場 - 西行 [AID01219]",
+    "lat": 22.250072,
+    "lng": 114.169434
+  },
+  {
+    "key": "AID01220",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道行車天橋近長德工業大廈 - 西行 [AID01220]",
+    "lat": 22.248274,
+    "lng": 114.165049
+  },
+  {
+    "key": "AID01221",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近香港仔警署 - 西行 [AID01221]",
+    "lat": 22.248626,
+    "lng": 114.16177
+  },
+  {
+    "key": "AID01222",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海旁道近逸港居 - 西行 [AID01222]",
+    "lat": 22.247615,
+    "lng": 114.159044
+  },
+  {
+    "key": "AID01223",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海旁道近香港仔巴士總站 - 西行 [AID01223]",
+    "lat": 22.247479,
+    "lng": 114.15464
+  },
+  {
+    "key": "AID02104",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近匯景花園 - 西行 [AID02104]",
+    "lat": 22.306946,
+    "lng": 114.233106
+  },
+  {
+    "key": "AID02105",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近裁判法院 - 西行 [AID02105]",
+    "lat": 22.30888,
+    "lng": 114.229613
+  },
+  {
+    "key": "AID02106",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近麗港城 - 西行 [AID02106]",
+    "lat": 22.308122,
+    "lng": 114.226798
+  },
+  {
+    "key": "AID02107",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近宏利金融中心 - 西行 [AID02107]",
+    "lat": 22.306515,
+    "lng": 114.224555
+  },
+  {
+    "key": "AID02108",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近觀塘碼頭 - 北行 [AID02108]",
+    "lat": 22.307889,
+    "lng": 114.220868
+  },
+  {
+    "key": "AID02109",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍麵粉廠 - 北行 [AID02109]",
+    "lat": 22.311511,
+    "lng": 114.217948
+  },
+  {
+    "key": "AID02110",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近綠景 - 北行 [AID02110]",
+    "lat": 22.313182,
+    "lng": 114.216327
+  },
+  {
+    "key": "AID02111",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍貨倉 - 北行 [AID02111]",
+    "lat": 22.315513,
+    "lng": 114.214037
+  },
+  {
+    "key": "AID02112",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近啟德消防局 - 北行 [AID02112]",
+    "lat": 22.317012,
+    "lng": 114.211466
+  },
+  {
+    "key": "AID02113",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近企業廣場五期 - 北行 [AID02113]",
+    "lat": 22.318873,
+    "lng": 114.207555
+  },
+  {
+    "key": "AID02114",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍灣展貿 - 北行 [AID02114]",
+    "lat": 22.322838,
+    "lng": 114.204469
+  },
+  {
+    "key": "AID02115",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍灣公園 - 北行 [AID02115]",
+    "lat": 22.327606,
+    "lng": 114.20512
+  },
+  {
+    "key": "AID02116",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近彩虹邨 - 北行 [AID02116]",
+    "lat": 22.333232,
+    "lng": 114.20516
+  },
+  {
+    "key": "AID02117",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "大老山公路近志蓮淨院 - 北行 [AID02117]",
+    "lat": 22.338425,
+    "lng": 114.203433
+  },
+  {
+    "key": "AID02118",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山隧道近收費廣場 - 北行 [AID02118]",
+    "lat": 22.378267,
+    "lng": 114.210782
+  },
+  {
+    "key": "AID02119",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近駕駛學院 - 北行 [AID02119]",
+    "lat": 22.382367,
+    "lng": 114.210346
+  },
+  {
+    "key": "AID02120",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近浸會大學 (石門) - 北行 [AID02120]",
+    "lat": 22.387767,
+    "lng": 114.211163
+  },
+  {
+    "key": "AID02121",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近安心街 - 北行 [AID02121]",
+    "lat": 22.392301,
+    "lng": 114.20928
+  },
+  {
+    "key": "AID02122",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近划艇中心 - 北行 [AID02122]",
+    "lat": 22.39659,
+    "lng": 114.210233
+  },
+  {
+    "key": "AID02123",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田醫院 - 北行 [AID02123]",
+    "lat": 22.399976,
+    "lng": 114.212477
+  },
+  {
+    "key": "AID02124",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近亞公角運動場 - 北行 [AID02124]",
+    "lat": 22.402702,
+    "lng": 114.215634
+  },
+  {
+    "key": "AID02125",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近大水坑單車公園 - 北行 [AID02125]",
+    "lat": 22.406007,
+    "lng": 114.217752
+  },
+  {
+    "key": "AID02126",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近水警北分區基地 - 北行 [AID02126]",
+    "lat": 22.409385,
+    "lng": 114.213723
+  },
+  {
+    "key": "AID02127",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田凱悅酒店 - 北行 [AID02127]",
+    "lat": 22.411842,
+    "lng": 114.21214
+  },
+  {
+    "key": "AID02201",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "大老山公路近志蓮淨院 - 南行 [AID02201]",
+    "lat": 22.34024,
+    "lng": 114.203822
+  },
+  {
+    "key": "AID02202",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "大老山公路近彩虹邨 - 南行 [AID02202]",
+    "lat": 22.33531,
+    "lng": 114.204637
+  },
+  {
+    "key": "AID02203",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近啟晴邨 - 南行 [AID02203]",
+    "lat": 22.332375,
+    "lng": 114.205112
+  },
+  {
+    "key": "AID02204",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近宏天廣場 - 南行 [AID02204]",
+    "lat": 22.327191,
+    "lng": 114.204907
+  },
+  {
+    "key": "AID02205",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍灣展貿 - 南行 [AID02205]",
+    "lat": 22.323769,
+    "lng": 114.204343
+  },
+  {
+    "key": "AID02206",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近企業廣場五期 - 南行 [AID02206]",
+    "lat": 22.319253,
+    "lng": 114.207225
+  },
+  {
+    "key": "AID02207",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍灣驗車中心 - 南行 [AID02207]",
+    "lat": 22.317067,
+    "lng": 114.210476
+  },
+  {
+    "key": "AID02208",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍貨倉 - 南行 [AID02208]",
+    "lat": 22.316172,
+    "lng": 114.213387
+  },
+  {
+    "key": "AID02209",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近萬兆豐中心 - 南行 [AID02209]",
+    "lat": 22.312848,
+    "lng": 114.216648
+  },
+  {
+    "key": "AID02210",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近九龍麵粉廠 - 南行 [AID02210]",
+    "lat": 22.311159,
+    "lng": 114.218278
+  },
+  {
+    "key": "AID02211",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近觀塘碼頭 - 東行 [AID02211]",
+    "lat": 22.30863,
+    "lng": 114.220296
+  },
+  {
+    "key": "AID02212",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近觀塘污水處理廠 - 東行 [AID02212]",
+    "lat": 22.306299,
+    "lng": 114.222284
+  },
+  {
+    "key": "AID02213",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近宏利金融中心 - 東行 [AID02213]",
+    "lat": 22.30638,
+    "lng": 114.224196
+  },
+  {
+    "key": "AID02214",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近日升中心 - 東行 [AID02214]",
+    "lat": 22.308519,
+    "lng": 114.227798
+  },
+  {
+    "key": "AID02215",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近匯景花園 - 東行 [AID02215]",
+    "lat": 22.308283,
+    "lng": 114.232116
+  },
+  {
+    "key": "AID03101",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近電車廠 - 東行 [AID03101]",
+    "lat": 22.287996,
+    "lng": 114.137923
+  },
+  {
+    "key": "AID03102",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西近西區副食品批發市場 - 東行 [AID03102]",
+    "lat": 22.288701,
+    "lng": 114.138835
+  },
+  {
+    "key": "AID03103",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西近中山紀念公園 - 西行 (1) [AID03103]",
+    "lat": 22.288513,
+    "lng": 114.146356
+  },
+  {
+    "key": "AID03104",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西近中山紀念公園 - 西行 (2) [AID03104]",
+    "lat": 22.288693,
+    "lng": 114.14326
+  },
+  {
+    "key": "AID03106",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近百周年變電站 - 北行 [AID03106]",
+    "lat": 22.307804,
+    "lng": 114.160735
+  },
+  {
+    "key": "AID03107",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近奧海公園 - 北行 [AID03107]",
+    "lat": 22.314243,
+    "lng": 114.16119
+  },
+  {
+    "key": "AID03108",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近港鐵奧運站 - 北行 (1) [AID03108]",
+    "lat": 22.317701,
+    "lng": 114.159831
+  },
+  {
+    "key": "AID03109",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近港鐵奧運站 - 北行 (2) [AID03109]",
+    "lat": 22.319363,
+    "lng": 114.159093
+  },
+  {
+    "key": "AID03110",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近大角咀變電站 - 北行 [AID03110]",
+    "lat": 22.324311,
+    "lng": 114.155695
+  },
+  {
+    "key": "AID03111",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近港鐵南昌站 - 北行 [AID03111]",
+    "lat": 22.327137,
+    "lng": 114.152511
+  },
+  {
+    "key": "AID03112",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近興華街西 - 北行 [AID03112]",
+    "lat": 22.328979,
+    "lng": 114.149511
+  },
+  {
+    "key": "AID03113",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近聖公會聖安德烈小學 - 北行 [AID03113]",
+    "lat": 22.330288,
+    "lng": 114.146376
+  },
+  {
+    "key": "AID03114",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近青沙公路 - 北行 [AID03114]",
+    "lat": 22.33166,
+    "lng": 114.142774
+  },
+  {
+    "key": "AID03115",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青朗公路近帝景軒 - 北行 [AID03115]",
+    "lat": 22.369209,
+    "lng": 114.076838
+  },
+  {
+    "key": "AID03116",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青朗公路近大欖隧道九龍入口 - 北行 [AID03116]",
+    "lat": 22.371446,
+    "lng": 114.073623
+  },
+  {
+    "key": "AID03117",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近港鐵八鄉維修中心 - 北行 (1) [AID03117]",
+    "lat": 22.423447,
+    "lng": 114.064201
+  },
+  {
+    "key": "AID03118",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近港鐵八鄉維修中心 - 北行 (2) [AID03118]",
+    "lat": 22.428133,
+    "lng": 114.063926
+  },
+  {
+    "key": "AID03119",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近港鐵錦上路站 - 北行 (1) [AID03119]",
+    "lat": 22.431952,
+    "lng": 114.062767
+  },
+  {
+    "key": "AID03120",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近港鐵錦上路站 - 北行 (2) [AID03120]",
+    "lat": 22.435021,
+    "lng": 114.060734
+  },
+  {
+    "key": "AID03121",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦田公路 - 北行 (1) [AID03121]",
+    "lat": 22.437548,
+    "lng": 114.057954
+  },
+  {
+    "key": "AID03122",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦田公路 - 北行 (2) [AID03122]",
+    "lat": 22.440056,
+    "lng": 114.054464
+  },
+  {
+    "key": "AID03123",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦田公路 - 北行 (3) [AID03123]",
+    "lat": 22.443123,
+    "lng": 114.051003
+  },
+  {
+    "key": "AID03124",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近青山公路元朗段 - 北行 (1) [AID03124]",
+    "lat": 22.447186,
+    "lng": 114.04893
+  },
+  {
+    "key": "AID03125",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近青山公路元朗段 - 北行 (2) [AID03125]",
+    "lat": 22.449641,
+    "lng": 114.048248
+  },
+  {
+    "key": "AID03201",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青朗公路近大欖隧道九龍出口 - 南行 [AID03201]",
+    "lat": 22.3739,
+    "lng": 114.069689
+  },
+  {
+    "key": "AID03202",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青葵公路近華潤國際物流中心 - 南行 [AID03202]",
+    "lat": 22.33462,
+    "lng": 114.1356
+  },
+  {
+    "key": "AID03203",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近海麗邨 - 南行 [AID03203]",
+    "lat": 22.332824,
+    "lng": 114.140076
+  },
+  {
+    "key": "AID03204",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近興華街 - 南行 [AID03204]",
+    "lat": 22.329367,
+    "lng": 114.148686
+  },
+  {
+    "key": "AID03205",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近港鐵南昌站 - 南行 [AID03205]",
+    "lat": 22.32684,
+    "lng": 114.152909
+  },
+  {
+    "key": "AID03206",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近大角咀變電站 - 南行 [AID03206]",
+    "lat": 22.324004,
+    "lng": 114.155977
+  },
+  {
+    "key": "AID03207",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近奧海城海濱公園 - 南行 [AID03207]",
+    "lat": 22.321313,
+    "lng": 114.158006
+  },
+  {
+    "key": "AID03208",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近港鐵奧運站 - 南行 [AID03208]",
+    "lat": 22.318957,
+    "lng": 114.159287
+  },
+  {
+    "key": "AID03209",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近海輝道海濱公園 - 南行 [AID03209]",
+    "lat": 22.31688,
+    "lng": 114.160171
+  },
+  {
+    "key": "AID03210",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近奧海公園 - 南行 [AID03210]",
+    "lat": 22.314685,
+    "lng": 114.161054
+  },
+  {
+    "key": "AID03211",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路近百周年變電站 - 南行 [AID03211]",
+    "lat": 22.307009,
+    "lng": 114.160919
+  },
+  {
+    "key": "AID04101",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "城西道近堅尼地城游泳池 - 東行 [AID04101]",
+    "lat": 22.286595,
+    "lng": 114.131461
+  },
+  {
+    "key": "AID04102",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近匯港中心 - 東行 [AID04102]",
+    "lat": 22.287445,
+    "lng": 114.13607
+  },
+  {
+    "key": "AID04103",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近西港中心 - 東行 [AID04103]",
+    "lat": 22.288999,
+    "lng": 114.139961
+  },
+  {
+    "key": "AID04104",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近中山紀念公園 - 東行 [AID04104]",
+    "lat": 22.289081,
+    "lng": 114.14293
+  },
+  {
+    "key": "AID04105",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近中區警署 - 東行 [AID04105]",
+    "lat": 22.288224,
+    "lng": 114.149083
+  },
+  {
+    "key": "AID04106",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近和富中心 - 東行 [AID04106]",
+    "lat": 22.293264,
+    "lng": 114.197166
+  },
+  {
+    "key": "AID04107",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近北角渡輪碼頭 - 東行 [AID04107]",
+    "lat": 22.293869,
+    "lng": 114.201426
+  },
+  {
+    "key": "AID04108",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近廉政公署總部大樓 - 東行 [AID04108]",
+    "lat": 22.294121,
+    "lng": 114.205405
+  },
+  {
+    "key": "AID04109",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近北角政府合署 - 東行 [AID04109]",
+    "lat": 22.293181,
+    "lng": 114.208588
+  },
+  {
+    "key": "AID04110",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園二期 - 東行 [AID04110]",
+    "lat": 22.291167,
+    "lng": 114.211789
+  },
+  {
+    "key": "AID04111",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園一期 - 東行 [AID04111]",
+    "lat": 22.289549,
+    "lng": 114.215962
+  },
+  {
+    "key": "AID04112",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近太古城 - 東行 [AID04112]",
+    "lat": 22.287525,
+    "lng": 114.221696
+  },
+  {
+    "key": "AID04113",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近太安樓 - 東行 [AID04113]",
+    "lat": 22.284156,
+    "lng": 114.221947
+  },
+  {
+    "key": "AID04114",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近聖馬可中學 - 東行 [AID04114]",
+    "lat": 22.281302,
+    "lng": 114.224634
+  },
+  {
+    "key": "AID04115",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近愛蝶灣 - 東行 [AID04115]",
+    "lat": 22.279973,
+    "lng": 114.229786
+  },
+  {
+    "key": "AID04116",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近杏花邨 - 南行 (1) [AID04116]",
+    "lat": 22.282247,
+    "lng": 114.234076
+  },
+  {
+    "key": "AID04117",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近杏花邨 - 南行 (2) [AID04117]",
+    "lat": 22.27876,
+    "lng": 114.236656
+  },
+  {
+    "key": "AID04118",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近杏花邨 - 南行 (3) [AID04118]",
+    "lat": 22.275292,
+    "lng": 114.238585
+  },
+  {
+    "key": "AID04119",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近專業教育學院 - 南行 [AID04119]",
+    "lat": 22.271165,
+    "lng": 114.239078
+  },
+  {
+    "key": "AID04120",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近柴灣公園 - 南行 [AID04120]",
+    "lat": 22.267481,
+    "lng": 114.237631
+  },
+  {
+    "key": "AID04121",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近廉政公署總部大樓 - 東行 [AID04121]",
+    "lat": 22.293796,
+    "lng": 114.205657
+  },
+  {
+    "key": "AID04122",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近北角政府合署 - 東行 [AID04122]",
+    "lat": 22.293199,
+    "lng": 114.207695
+  },
+  {
+    "key": "AID04201",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近柴灣地鐵站 - 北行 [AID04201]",
+    "lat": 22.2646,
+    "lng": 114.237426
+  },
+  {
+    "key": "AID04202",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近東區醫院 - 北行 [AID04202]",
+    "lat": 22.268971,
+    "lng": 114.238
+  },
+  {
+    "key": "AID04203",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近專業教育學院 - 北行 [AID04203]",
+    "lat": 22.27167,
+    "lng": 114.238874
+  },
+  {
+    "key": "AID04204",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近杏花邨 - 北行 (1) [AID04204]",
+    "lat": 22.276403,
+    "lng": 114.237605
+  },
+  {
+    "key": "AID04205",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近杏花邨 - 北行 (2) [AID04205]",
+    "lat": 22.278986,
+    "lng": 114.236539
+  },
+  {
+    "key": "AID04206",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近香港海防博物館 - 北行 [AID04206]",
+    "lat": 22.281362,
+    "lng": 114.234832
+  },
+  {
+    "key": "AID04207",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近愛蝶灣 - 西行 [AID04207]",
+    "lat": 22.281264,
+    "lng": 114.230184
+  },
+  {
+    "key": "AID04208",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近愛東邨 - 西行 [AID04208]",
+    "lat": 22.280615,
+    "lng": 114.225818
+  },
+  {
+    "key": "AID04209",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近太安樓 - 西行 [AID04209]",
+    "lat": 22.281329,
+    "lng": 114.22444
+  },
+  {
+    "key": "AID04210",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近太古城 - 西行 (1) [AID04210]",
+    "lat": 22.286008,
+    "lng": 114.221434
+  },
+  {
+    "key": "AID04211",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近太古城 - 西行 (2) [AID04211]",
+    "lat": 22.288429,
+    "lng": 114.219037
+  },
+  {
+    "key": "AID04212",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園一期 - 西行 (1) [AID04212]",
+    "lat": 22.288446,
+    "lng": 114.220105
+  },
+  {
+    "key": "AID04213",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園一期 - 西行 (2) [AID04213]",
+    "lat": 22.289107,
+    "lng": 114.215767
+  },
+  {
+    "key": "AID04214",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園二期 - 西行 [AID04214]",
+    "lat": 22.290878,
+    "lng": 114.211925
+  },
+  {
+    "key": "AID04215",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近北角政府合署 - 西行 [AID04215]",
+    "lat": 22.292883,
+    "lng": 114.208782
+  },
+  {
+    "key": "AID04216",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近渡輪碼頭 - 西行 [AID04216]",
+    "lat": 22.293931,
+    "lng": 114.20522
+  },
+  {
+    "key": "AID04217",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近凱悅酒店 - 西行 [AID04217]",
+    "lat": 22.293508,
+    "lng": 114.199116
+  },
+  {
+    "key": "AID04218",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近信德中心 - 西行 [AID04218]",
+    "lat": 22.287529,
+    "lng": 114.151528
+  },
+  {
+    "key": "AID04219",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近上環消防局 - 西行 [AID04219]",
+    "lat": 22.288423,
+    "lng": 114.147967
+  },
+  {
+    "key": "AID04220",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近中山紀念公園 - 西行 [AID04220]",
+    "lat": 22.288891,
+    "lng": 114.143959
+  },
+  {
+    "key": "AID04221",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西天橋近萬怡酒店 - 西行 [AID04221]",
+    "lat": 22.288177,
+    "lng": 114.138447
+  },
+  {
+    "key": "AID04222",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近東區海底隧道 - 西行 [AID04222]",
+    "lat": 22.289514,
+    "lng": 114.214011
+  },
+  {
+    "key": "AID05101",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近觀塘官立小學 - 西行 [AID05101]",
+    "lat": 22.315421,
+    "lng": 114.218259
+  },
+  {
+    "key": "AID05102",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近牛頭角賽馬會診所 - 西行 [AID05102]",
+    "lat": 22.316731,
+    "lng": 114.21562
+  },
+  {
+    "key": "AID05103",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近九龍灣驗車中心 - 西行 [AID05103]",
+    "lat": 22.318177,
+    "lng": 114.211738
+  },
+  {
+    "key": "AID05104",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近九龍灣車輛扣留及驗車中心 - 西行 [AID05104]",
+    "lat": 22.318882,
+    "lng": 114.207797
+  },
+  {
+    "key": "AID05109",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "漆咸道北近港鐵何文田站 - 西行 [AID05109]",
+    "lat": 22.308536,
+    "lng": 114.182921
+  },
+  {
+    "key": "AID05110",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道近槍會山軍營 - 西行 [AID05110]",
+    "lat": 22.305881,
+    "lng": 114.178233
+  },
+  {
+    "key": "AID05111",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道近拔萃女書院 - 西行 [AID05111]",
+    "lat": 22.308003,
+    "lng": 114.172371
+  },
+  {
+    "key": "AID05113",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道天橋近駿發花園 - 北行 [AID05113]",
+    "lat": 22.311706,
+    "lng": 114.16714
+  },
+  {
+    "key": "AID05114",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "渡船街近櫻桃街公園 - 北行 [AID05114]",
+    "lat": 22.313268,
+    "lng": 114.166829
+  },
+  {
+    "key": "AID05115",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊西近櫻桃街公園 - 北行 (1) [AID05115]",
+    "lat": 22.316844,
+    "lng": 114.166276
+  },
+  {
+    "key": "AID05116",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊西近櫻桃街公園 - 北行 (2) [AID05116]",
+    "lat": 22.318478,
+    "lng": 114.164179
+  },
+  {
+    "key": "AID05117",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊西近福全街 - 北行 [AID05117]",
+    "lat": 22.322777,
+    "lng": 114.161985
+  },
+  {
+    "key": "AID05118",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近通州街公園 - 北行 [AID05118]",
+    "lat": 22.32675,
+    "lng": 114.1595
+  },
+  {
+    "key": "AID05119",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近欽州街西 - 北行 [AID05119]",
+    "lat": 22.328556,
+    "lng": 114.157044
+  },
+  {
+    "key": "AID05120",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近西九龍法院大樓 - 北行 [AID05120]",
+    "lat": 22.331481,
+    "lng": 114.153355
+  },
+  {
+    "key": "AID05121",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近荔枝角港鐵站 - 北行 [AID05121]",
+    "lat": 22.335571,
+    "lng": 114.148539
+  },
+  {
+    "key": "AID05122",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近荔枝角消防局 - 北行 [AID05122]",
+    "lat": 22.336347,
+    "lng": 114.144103
+  },
+  {
+    "key": "AID05123",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近地利亞修女紀念學校(吉利徑) - 北行 [AID05123]",
+    "lat": 22.337078,
+    "lng": 114.140016
+  },
+  {
+    "key": "AID05124",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近葵涌交匯處 - 北行 [AID05124]",
+    "lat": 22.337989,
+    "lng": 114.134774
+  },
+  {
+    "key": "AID05125",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近匡智張玉瓊晨輝學校 - 北行 [AID05125]",
+    "lat": 22.343405,
+    "lng": 114.128831
+  },
+  {
+    "key": "AID05126",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近港鐵荔景站 - 北行 [AID05126]",
+    "lat": 22.348172,
+    "lng": 114.124898
+  },
+  {
+    "key": "AID05127",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近荔景邨 - 北行 [AID05127]",
+    "lat": 22.351243,
+    "lng": 114.125693
+  },
+  {
+    "key": "AID05128",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近葵涌公園 - 北行 [AID05128]",
+    "lat": 22.356073,
+    "lng": 114.122808
+  },
+  {
+    "key": "AID05129",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近永健工業大廈 - 北行 [AID05129]",
+    "lat": 22.358511,
+    "lng": 114.120176
+  },
+  {
+    "key": "AID05130",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近永基路五人足球場 - 北行 [AID05130]",
+    "lat": 22.362032,
+    "lng": 114.118563
+  },
+  {
+    "key": "AID05131",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近荃灣駕駛考試中心 - 北行 [AID05131]",
+    "lat": 22.364144,
+    "lng": 114.115804
+  },
+  {
+    "key": "AID05132",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近荃灣體育館 - 北行 [AID05132]",
+    "lat": 22.366319,
+    "lng": 114.112978
+  },
+  {
+    "key": "AID05133",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近港鐵荃灣西站 - 北行 [AID05133]",
+    "lat": 22.369506,
+    "lng": 114.109695
+  },
+  {
+    "key": "AID05134",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近海盛花園 - 北行 [AID05134]",
+    "lat": 22.372367,
+    "lng": 114.106693
+  },
+  {
+    "key": "AID05135",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近江南工業大廈 - 西行 [AID05135]",
+    "lat": 22.374208,
+    "lng": 114.103129
+  },
+  {
+    "key": "AID05201",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近麗城花園一期停車場 - 東行 [AID05201]",
+    "lat": 22.373792,
+    "lng": 114.101255
+  },
+  {
+    "key": "AID05202",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近海盛花園 - 南行 [AID05202]",
+    "lat": 22.372015,
+    "lng": 114.107062
+  },
+  {
+    "key": "AID05203",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近港鐵荃灣西站 - 南行 [AID05203]",
+    "lat": 22.369217,
+    "lng": 114.110006
+  },
+  {
+    "key": "AID05204",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近荃灣體育館 - 南行 [AID05204]",
+    "lat": 22.366401,
+    "lng": 114.113065
+  },
+  {
+    "key": "AID05205",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近永基路五人足球場 - 南行 (1) [AID05205]",
+    "lat": 22.36261,
+    "lng": 114.118087
+  },
+  {
+    "key": "AID05206",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近永基路五人足球場 - 南行 (2) [AID05206]",
+    "lat": 22.359567,
+    "lng": 114.119709
+  },
+  {
+    "key": "AID05207",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近葵涌公園 - 南行 [AID05207]",
+    "lat": 22.356552,
+    "lng": 114.122283
+  },
+  {
+    "key": "AID05208",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近葵順街遊樂場 - 南行 [AID05208]",
+    "lat": 22.354223,
+    "lng": 114.12475
+  },
+  {
+    "key": "AID05209",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近港鐵荔景站 - 南行 (1) [AID05209]",
+    "lat": 22.349735,
+    "lng": 114.125567
+  },
+  {
+    "key": "AID05210",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近港鐵荔景站 - 南行 (2) [AID05210]",
+    "lat": 22.346547,
+    "lng": 114.124957
+  },
+  {
+    "key": "AID05211",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近匡智張玉瓊晨輝學校 - 南行 [AID05211]",
+    "lat": 22.344019,
+    "lng": 114.127423
+  },
+  {
+    "key": "AID05212",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近港鐵美孚站 - 南行 [AID05212]",
+    "lat": 22.337916,
+    "lng": 114.13523
+  },
+  {
+    "key": "AID05213",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近地利亞修女紀念學校(吉利徑) - 南行 [AID05213]",
+    "lat": 22.337177,
+    "lng": 114.139463
+  },
+  {
+    "key": "AID05214",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近荔枝角消防局 - 南行 [AID05214]",
+    "lat": 22.33651,
+    "lng": 114.1432
+  },
+  {
+    "key": "AID05215",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "荔枝角道近永新工業大廈 - 南行 [AID05215]",
+    "lat": 22.335228,
+    "lng": 114.147404
+  },
+  {
+    "key": "AID05216",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近宇晴軒 - 南行[AID05216]",
+    "lat": 22.335427,
+    "lng": 114.150131
+  },
+  {
+    "key": "AID05217",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近西九龍法院大樓 - 南行 [AID05217]",
+    "lat": 22.331617,
+    "lng": 114.153471
+  },
+  {
+    "key": "AID05218",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近通州街公園 - 南行 [AID05218]",
+    "lat": 22.32731,
+    "lng": 114.158859
+  },
+  {
+    "key": "AID05219",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊近詩歌舞遊樂場 -南行[AID05219]",
+    "lat": 22.324493,
+    "lng": 114.162752
+  },
+  {
+    "key": "AID05220",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊近福強工業大廈 - 南行 [AID05220]",
+    "lat": 22.322091,
+    "lng": 114.16546
+  },
+  {
+    "key": "AID05221",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊近櫻桃街公園 - 南行 (1) [AID05221]",
+    "lat": 22.31856,
+    "lng": 114.166198
+  },
+  {
+    "key": "AID05222",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊近櫻桃街公園 - 南行 (2) [AID05222]",
+    "lat": 22.314875,
+    "lng": 114.166742
+  },
+  {
+    "key": "AID05223",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍走廊近駿發花園 - 南行 [AID05223]",
+    "lat": 22.311335,
+    "lng": 114.167208
+  },
+  {
+    "key": "AID05224",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道近循道中學 - 東行 [AID05224]",
+    "lat": 22.308988,
+    "lng": 114.171643
+  },
+  {
+    "key": "AID05225",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道近拔萃女書院 - 東行 [AID05225]",
+    "lat": 22.307109,
+    "lng": 114.174409
+  },
+  {
+    "key": "AID05226",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "加士居道近槍會山軍營 - 東行 [AID05226]",
+    "lat": 22.305999,
+    "lng": 114.177835
+  },
+  {
+    "key": "AID05227",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "漆咸道北近港鐵何文田站 - 東行 [AID05227]",
+    "lat": 22.308437,
+    "lng": 114.182591
+  },
+  {
+    "key": "AID05232",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近億京中心 - 東行 [AID05232]",
+    "lat": 22.320815,
+    "lng": 114.205925
+  },
+  {
+    "key": "AID05233",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近九龍灣車輛扣留及驗車中心 - 東行 [AID05233]",
+    "lat": 22.318729,
+    "lng": 114.208127
+  },
+  {
+    "key": "AID05234",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近九龍灣驗車中心 - 東行 [AID05234]",
+    "lat": 22.318141,
+    "lng": 114.211427
+  },
+  {
+    "key": "AID05235",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟福道近觀塘道休憩處 - 東行 [AID05235]",
+    "lat": 22.316081,
+    "lng": 114.216561
+  },
+  {
+    "key": "AID07101",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "環保大道近蓬萊路 - 西行 [AID07101]",
+    "lat": 22.310137,
+    "lng": 114.266367
+  },
+  {
+    "key": "AID07102",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "環保大道近香港單車館 - 西行 [AID07102]",
+    "lat": 22.313399,
+    "lng": 114.263632
+  },
+  {
+    "key": "AID07103",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將軍澳隧道公路近將軍澳電話機房 - 西行 [AID07103]",
+    "lat": 22.31639,
+    "lng": 114.259422
+  },
+  {
+    "key": "AID07104",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將軍澳隧道公路近將軍澳隧道入口 - 西行 [AID07104]",
+    "lat": 22.319995,
+    "lng": 114.255425
+  },
+  {
+    "key": "AID07105",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近連德道 - 西行 [AID07105]",
+    "lat": 22.314836,
+    "lng": 114.239854
+  },
+  {
+    "key": "AID07106",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近將軍澳道變電站 - 西行 [AID07106]",
+    "lat": 22.313049,
+    "lng": 114.237107
+  },
+  {
+    "key": "AID07107",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近油塘電話機房 - 西行 [AID07107]",
+    "lat": 22.310324,
+    "lng": 114.23105
+  },
+  {
+    "key": "AID07108",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近翠屛道 - 西行 [AID07108]",
+    "lat": 22.310894,
+    "lng": 114.22842
+  },
+  {
+    "key": "AID07109",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近嘉域大廈 - 西行 [AID07109]",
+    "lat": 22.313677,
+    "lng": 114.222976
+  },
+  {
+    "key": "AID07110",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近勵業街 - 西行 [AID07110]",
+    "lat": 22.315394,
+    "lng": 114.21825
+  },
+  {
+    "key": "AID07111",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近欣榮大廈 - 西行 [AID07111]",
+    "lat": 22.31898,
+    "lng": 114.214757
+  },
+  {
+    "key": "AID07112",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近福淘街 - 西行 [AID07112]",
+    "lat": 22.323252,
+    "lng": 114.214321
+  },
+  {
+    "key": "AID07113",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近九龍灣聖若翰天主敎小學 - 西行 [AID07113]",
+    "lat": 22.328553,
+    "lng": 114.21241
+  },
+  {
+    "key": "AID07114",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近彩石裡 - 西行 [AID07114]",
+    "lat": 22.33064,
+    "lng": 114.210023
+  },
+  {
+    "key": "AID07115",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "龍翔道近坪石邨 - 西行 [AID07115]",
+    "lat": 22.33195,
+    "lng": 114.208247
+  },
+  {
+    "key": "AID07116",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近彩虹邨金漢樓 - 西行 [AID07116]",
+    "lat": 22.336501,
+    "lng": 114.207102
+  },
+  {
+    "key": "AID07117",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近鑽石山港鐡站 - 西行 [AID07117]",
+    "lat": 22.339148,
+    "lng": 114.202764
+  },
+  {
+    "key": "AID07118",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近蒲崗村道 - 西行 [AID07118]",
+    "lat": 22.341704,
+    "lng": 114.197775
+  },
+  {
+    "key": "AID07119",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近黃大仙下邨（二區）龍安樓 - 西行 [AID07119]",
+    "lat": 22.341678,
+    "lng": 114.19294
+  },
+  {
+    "key": "AID07120",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近天馬苑 - 西行 [AID07120]",
+    "lat": 22.342545,
+    "lng": 114.18631
+  },
+  {
+    "key": "AID07121",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "龍翔道近香港電臺 - 西行 [AID07121]",
+    "lat": 22.343177,
+    "lng": 114.184223
+  },
+  {
+    "key": "AID07122",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "龍翔道近龍翔道公園 - 西行 [AID07122]",
+    "lat": 22.344099,
+    "lng": 114.180942
+  },
+  {
+    "key": "AID07123",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "龍翔道近碧華閣 - 西行 [AID07123]",
+    "lat": 22.344722,
+    "lng": 114.176913
+  },
+  {
+    "key": "AID07124",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近觀景台 - 西行 [AID07124]",
+    "lat": 22.34334,
+    "lng": 114.171642
+  },
+  {
+    "key": "AID07125",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近畢架山花園 - 西行 (1) [AID07125]",
+    "lat": 22.341814,
+    "lng": 114.169545
+  },
+  {
+    "key": "AID07126",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近畢架山花園 - 西行 (2) [AID07126]",
+    "lat": 22.341922,
+    "lng": 114.164721
+  },
+  {
+    "key": "AID07127",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近大窩坪 - 西行 [AID07127]",
+    "lat": 22.341217,
+    "lng": 114.162546
+  },
+  {
+    "key": "AID07128",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近呈祥道 - 西行 [AID07128]",
+    "lat": 22.342499,
+    "lng": 114.159275
+  },
+  {
+    "key": "AID07129",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近爾登豪庭 - 西行 [AID07129]",
+    "lat": 22.34277,
+    "lng": 114.154479
+  },
+  {
+    "key": "AID07130",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近明愛醫院 - 西行 [AID07130]",
+    "lat": 22.34165,
+    "lng": 114.15178
+  },
+  {
+    "key": "AID07131",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近龍翔工業大廈 - 西行 [AID07131]",
+    "lat": 22.34024,
+    "lng": 114.148257
+  },
+  {
+    "key": "AID07132",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近中華電力 - 西行 [AID07132]",
+    "lat": 22.341052,
+    "lng": 114.142937
+  },
+  {
+    "key": "AID07133",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近荔枝角公園體育館 - 西行 [AID07133]",
+    "lat": 22.341051,
+    "lng": 114.138695
+  },
+  {
+    "key": "AID07134",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近清麗苑 - 西行 [AID07134]",
+    "lat": 22.339371,
+    "lng": 114.136103
+  },
+  {
+    "key": "AID07201",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近清麗苑 - 東行 [AID07201]",
+    "lat": 22.339967,
+    "lng": 114.136152
+  },
+  {
+    "key": "AID07202",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近中華電力 - 東行 [AID07202]",
+    "lat": 22.339959,
+    "lng": 114.14151
+  },
+  {
+    "key": "AID07203",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近國際學校 - 東行 [AID07203]",
+    "lat": 22.339888,
+    "lng": 114.145733
+  },
+  {
+    "key": "AID07204",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近龍翔工業大廈 - 東行 [AID07204]",
+    "lat": 22.340276,
+    "lng": 114.147801
+  },
+  {
+    "key": "AID07205",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近明愛醫院 - 東行 [AID07205]",
+    "lat": 22.341848,
+    "lng": 114.152246
+  },
+  {
+    "key": "AID07206",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近爾登豪庭 - 東行 [AID07206]",
+    "lat": 22.342806,
+    "lng": 114.155275
+  },
+  {
+    "key": "AID07207",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近大窩坪 - 東行 [AID07207]",
+    "lat": 22.341082,
+    "lng": 114.161799
+  },
+  {
+    "key": "AID07208",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近筆架山花園第二期15座 - 東行 [AID07208]",
+    "lat": 22.341958,
+    "lng": 114.165575
+  },
+  {
+    "key": "AID07209",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近畢架山花園 -東行 (2) [AID07209]",
+    "lat": 22.342247,
+    "lng": 114.169963
+  },
+  {
+    "key": "AID07210",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "龍翔道近觀景台 - 東行 [AID07210]",
+    "lat": 22.342771,
+    "lng": 114.17435
+  },
+  {
+    "key": "AID07211",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "龍翔道近碧華閣 - 東行 [AID07211]",
+    "lat": 22.344767,
+    "lng": 114.17767
+  },
+  {
+    "key": "AID07212",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近龍翔道公園 - 東行 [AID07212]",
+    "lat": 22.344026,
+    "lng": 114.182777
+  },
+  {
+    "key": "AID07213",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近尚禦 - 東行 [AID07213]",
+    "lat": 22.343015,
+    "lng": 114.184621
+  },
+  {
+    "key": "AID07214",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近黃大仙中心北館 - 東行 [AID07214]",
+    "lat": 22.341723,
+    "lng": 114.190941
+  },
+  {
+    "key": "AID07215",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近豪苑 - 東行 [AID07215]",
+    "lat": 22.341722,
+    "lng": 114.19695
+  },
+  {
+    "key": "AID07216",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近龍蟠苑商塲 - 東行 [AID07216]",
+    "lat": 22.340846,
+    "lng": 114.199862
+  },
+  {
+    "key": "AID07217",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近南蓮園池 - 東行 [AID07217]",
+    "lat": 22.338389,
+    "lng": 114.204055
+  },
+  {
+    "key": "AID07218",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道近牛池灣村遊樂塲 - 東行 [AID07218]",
+    "lat": 22.336194,
+    "lng": 114.207384
+  },
+  {
+    "key": "AID07219",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近彩石裡 - 東行 [AID07219]",
+    "lat": 22.330016,
+    "lng": 114.210887
+  },
+  {
+    "key": "AID07220",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近啟泰苑 - 東行 [AID07220]",
+    "lat": 22.328065,
+    "lng": 114.212963
+  },
+  {
+    "key": "AID07221",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近牛頭角下邨 - 東行 [AID07221]",
+    "lat": 22.322141,
+    "lng": 114.214427
+  },
+  {
+    "key": "AID07222",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近常怡道 - 東行 [AID07222]",
+    "lat": 22.31898,
+    "lng": 114.214795
+  },
+  {
+    "key": "AID07223",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近富裕大廈 - 東行 [AID07223]",
+    "lat": 22.316298,
+    "lng": 114.216435
+  },
+  {
+    "key": "AID07224",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近觀塘道休憩花園 - 東行 [AID07224]",
+    "lat": 22.314626,
+    "lng": 114.220462
+  },
+  {
+    "key": "AID07225",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近康寧道 - 東行 [AID07225]",
+    "lat": 22.313316,
+    "lng": 114.223927
+  },
+  {
+    "key": "AID07226",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近香港學生輔助會 - 東行 [AID07226]",
+    "lat": 22.311237,
+    "lng": 114.227896
+  },
+  {
+    "key": "AID07227",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近觀塘游泳池 - 東行 [AID07227]",
+    "lat": 22.311019,
+    "lng": 114.231593
+  },
+  {
+    "key": "AID07228",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近翠屏南邨 - 東行 [AID07228]",
+    "lat": 22.312219,
+    "lng": 114.235039
+  },
+  {
+    "key": "AID07229",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將軍澳隧道公路近將軍澳隧道入口 - 東行 [AID07229]",
+    "lat": 22.321234,
+    "lng": 114.251446
+  },
+  {
+    "key": "AID07230",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將軍澳隧道公路近寶康公園 - 東行 [AID07230]",
+    "lat": 22.318956,
+    "lng": 114.256298
+  },
+  {
+    "key": "AID07231",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "環保大道近將軍澳隧道公路 - 東行 [AID07231]",
+    "lat": 22.315631,
+    "lng": 114.260557
+  },
+  {
+    "key": "AID07232",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "環保大道近昭信路 - 東行 [AID07232]",
+    "lat": 22.312748,
+    "lng": 114.264525
+  },
+  {
+    "key": "AID08101",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳灣 - 西行 (1) [AID08101]",
+    "lat": 22.327592,
+    "lng": 114.025326
+  },
+  {
+    "key": "AID08102",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳灣 - 西行 (2) [AID08102]",
+    "lat": 22.32524,
+    "lng": 114.020913
+  },
+  {
+    "key": "AID08103",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳石灘 - 西行 [AID08103]",
+    "lat": 22.32501,
+    "lng": 114.01639
+  },
+  {
+    "key": "AID08104",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路深水角配電站 - 西行 (1) [AID08104]",
+    "lat": 22.32477,
+    "lng": 114.011682
+  },
+  {
+    "key": "AID08105",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路深水角配電站 - 西行 (2) [AID08105]",
+    "lat": 22.323068,
+    "lng": 114.007258
+  },
+  {
+    "key": "AID08106",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路深水角配電站 - 西行 (3) [AID08106]",
+    "lat": 22.321104,
+    "lng": 114.002941
+  },
+  {
+    "key": "AID08107",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近東葉坑 - 西行 [AID08107]",
+    "lat": 22.318598,
+    "lng": 113.999023
+  },
+  {
+    "key": "AID08108",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近警察車輛扣留中心 - 西行 [AID08108]",
+    "lat": 22.315299,
+    "lng": 113.996689
+  },
+  {
+    "key": "AID08109",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近小蠔灣污水處理廠 - 西行 [AID08109]",
+    "lat": 22.31209,
+    "lng": 113.993393
+  },
+  {
+    "key": "AID08110",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近小蠔灣政府維修廠 - 西行 [AID08110]",
+    "lat": 22.309439,
+    "lng": 113.988893
+  },
+  {
+    "key": "AID08111",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近港鐵小蠔灣車廠 - 西行 (2) [AID08111]",
+    "lat": 22.307032,
+    "lng": 113.98484
+  },
+  {
+    "key": "AID08112",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 西行 (1) [AID08112]",
+    "lat": 22.304535,
+    "lng": 113.980874
+  },
+  {
+    "key": "AID08113",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 西行 (2) [AID08113]",
+    "lat": 22.302164,
+    "lng": 113.97682
+  },
+  {
+    "key": "AID08114",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 西行 (3) [AID08114]",
+    "lat": 22.300091,
+    "lng": 113.972573
+  },
+  {
+    "key": "AID08115",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 西行 (4) [AID08115]",
+    "lat": 22.298766,
+    "lng": 113.968023
+  },
+  {
+    "key": "AID08116",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 西行 (5) [AID08116]",
+    "lat": 22.297958,
+    "lng": 113.964395
+  },
+  {
+    "key": "AID08117",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近迎東邨 - 西行 (1) [AID08117]",
+    "lat": 22.296378,
+    "lng": 113.958332
+  },
+  {
+    "key": "AID08118",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近迎東邨 - 西行 (2) [AID08118]",
+    "lat": 22.294631,
+    "lng": 113.955297
+  },
+  {
+    "key": "AID08119",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近映灣園1期 - 西行 [AID08119]",
+    "lat": 22.292479,
+    "lng": 113.952875
+  },
+  {
+    "key": "AID08120",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近映灣園3期 - 西行 [AID08120]",
+    "lat": 22.290244,
+    "lng": 113.94986
+  },
+  {
+    "key": "AID08121",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌(北) - 西行 (1) [AID08121]",
+    "lat": 22.289505,
+    "lng": 113.944699
+  },
+  {
+    "key": "AID08122",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌(北) - 西行 (2) [AID08122]",
+    "lat": 22.290999,
+    "lng": 113.94066
+  },
+  {
+    "key": "AID08201",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌(北) - 東行 (1) [AID08201]",
+    "lat": 22.293803,
+    "lng": 113.937919
+  },
+  {
+    "key": "AID08202",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌(北) - 東行(2) [AID08202]",
+    "lat": 22.291909,
+    "lng": 113.93961
+  },
+  {
+    "key": "AID08203",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌(北) - 東行(3) [AID08203]",
+    "lat": 22.289604,
+    "lng": 113.944185
+  },
+  {
+    "key": "AID08204",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近映灣園1期 - 東行 [AID08204]",
+    "lat": 22.289737,
+    "lng": 113.948697
+  },
+  {
+    "key": "AID08205",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近映灣園3期 - 東行 [AID08205]",
+    "lat": 22.292108,
+    "lng": 113.952526
+  },
+  {
+    "key": "AID08206",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近迎東邨 - 東行 (1) [AID08206]",
+    "lat": 22.294885,
+    "lng": 113.955569
+  },
+  {
+    "key": "AID08207",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近迎東邨 - 東行 (2) [AID08207]",
+    "lat": 22.296542,
+    "lng": 113.958739
+  },
+  {
+    "key": "AID08208",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 東行 (1) [AID08208]",
+    "lat": 22.297376,
+    "lng": 113.961805
+  },
+  {
+    "key": "AID08209",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 東行 (2) [AID08209]",
+    "lat": 22.298303,
+    "lng": 113.965976
+  },
+  {
+    "key": "AID08210",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 東行 (3) [AID08210]",
+    "lat": 22.299547,
+    "lng": 113.971098
+  },
+  {
+    "key": "AID08211",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 東行 (4) [AID08211]",
+    "lat": 22.301213,
+    "lng": 113.974939
+  },
+  {
+    "key": "AID08212",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近大蠔灣 - 東行 (5) [AID08212]",
+    "lat": 22.303431,
+    "lng": 113.979109
+  },
+  {
+    "key": "AID08213",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近港鐵小蠔灣車廠 - 東行 (1) [AID08213]",
+    "lat": 22.305919,
+    "lng": 113.983075
+  },
+  {
+    "key": "AID08214",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近港鐵小蠔灣車廠 - 東行 (2) [AID08214]",
+    "lat": 22.308127,
+    "lng": 113.986633
+  },
+  {
+    "key": "AID08215",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近港鐵小蠔灣車廠 - 東行 (3) [AID08215]",
+    "lat": 22.310479,
+    "lng": 113.990707
+  },
+  {
+    "key": "AID08216",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近小蠔灣污水處理廠 - 東行 [AID08216]",
+    "lat": 22.313428,
+    "lng": 113.995031
+  },
+  {
+    "key": "AID08217",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山廢物轉運站 - 東行 [AID08217]",
+    "lat": 22.31698,
+    "lng": 113.997783
+  },
+  {
+    "key": "AID08218",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近東葉坑 - 東行 (1) [AID08218]",
+    "lat": 22.32019,
+    "lng": 114.00106
+  },
+  {
+    "key": "AID08219",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近東葉坑 - 東行 (2) [AID08219]",
+    "lat": 22.322208,
+    "lng": 114.005347
+  },
+  {
+    "key": "AID08220",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近東葉坑 - 東行 (3) [AID08220]",
+    "lat": 22.324109,
+    "lng": 114.009684
+  },
+  {
+    "key": "AID08221",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近打棚埔 - 東行 [AID08221]",
+    "lat": 22.325098,
+    "lng": 114.014118
+  },
+  {
+    "key": "AID08222",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳灣 - 東行 (1) [AID08222]",
+    "lat": 22.32494,
+    "lng": 114.019117
+  },
+  {
+    "key": "AID08223",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳灣 - 東行 (2) [AID08223]",
+    "lat": 22.325829,
+    "lng": 114.02262
+  },
+  {
+    "key": "AID09101",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近荃灣路 - 東行 [AID09101]",
+    "lat": 22.374334,
+    "lng": 114.103022
+  },
+  {
+    "key": "AID09102",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近柴灣角熟食市場 - 東行 [AID09102]",
+    "lat": 22.374687,
+    "lng": 114.105051
+  },
+  {
+    "key": "AID09103",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近南豐紗廠 - 東行 [AID09103]",
+    "lat": 22.37561,
+    "lng": 114.108876
+  },
+  {
+    "key": "AID09104",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近愉景新城 - 東行 [AID09104]",
+    "lat": 22.376578,
+    "lng": 114.113828
+  },
+  {
+    "key": "AID09105",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近荃錦交匯處 - 東行 [AID09105]",
+    "lat": 22.375452,
+    "lng": 114.120315
+  },
+  {
+    "key": "AID09106",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近石圍角邨 - 東行 [AID09106]",
+    "lat": 22.376419,
+    "lng": 114.123062
+  },
+  {
+    "key": "AID09107",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近路德會呂明才中學 - 東行 [AID09107]",
+    "lat": 22.378145,
+    "lng": 114.127683
+  },
+  {
+    "key": "AID09108",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近和宜合道交匯處 - 東行 [AID09108]",
+    "lat": 22.37998,
+    "lng": 114.132101
+  },
+  {
+    "key": "AID09109",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近可風中學 - 東行 [AID09109]",
+    "lat": 22.381652,
+    "lng": 114.135848
+  },
+  {
+    "key": "AID09110",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "城門隧道公路近沙田入口 - 東行 [AID09110]",
+    "lat": 22.380871,
+    "lng": 114.167057
+  },
+  {
+    "key": "AID09111",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近普光明寺 - 東行 [AID09111]",
+    "lat": 22.382469,
+    "lng": 114.173942
+  },
+  {
+    "key": "AID09112",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近美田路 - 東行 [AID09112]",
+    "lat": 22.380004,
+    "lng": 114.177263
+  },
+  {
+    "key": "AID09113",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近松嶺路 - 東行 [AID09113]",
+    "lat": 22.37809,
+    "lng": 114.17935
+  },
+  {
+    "key": "AID09114",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近香港文化博物館 - 東行 [AID09114]",
+    "lat": 22.378649,
+    "lng": 114.184817
+  },
+  {
+    "key": "AID09115",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近港鐵沙田站 - 東行 [AID09115]",
+    "lat": 22.38369,
+    "lng": 114.18866
+  },
+  {
+    "key": "AID09116",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近禾輋邨 - 東行 [AID09116]",
+    "lat": 22.39042,
+    "lng": 114.19509
+  },
+  {
+    "key": "AID09118",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近火炭鐵路大樓 - 北行 [AID09118]",
+    "lat": 22.393729,
+    "lng": 114.199025
+  },
+  {
+    "key": "AID09119",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近沙田馬場 - 北行 (1) [AID09119]",
+    "lat": 22.397684,
+    "lng": 114.201454
+  },
+  {
+    "key": "AID09120",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近沙田馬場 - 北行 (2) [AID09120]",
+    "lat": 22.399526,
+    "lng": 114.20262
+  },
+  {
+    "key": "AID09121",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近沙田馬場 - 北行 (3) [AID09121]",
+    "lat": 22.4033,
+    "lng": 114.20532
+  },
+  {
+    "key": "AID09122",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近沙田污水處理廠 - 北行 [AID09122]",
+    "lat": 22.406307,
+    "lng": 114.209769
+  },
+  {
+    "key": "AID09123",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近馬料水秤車站 - 北行 [AID09123]",
+    "lat": 22.409079,
+    "lng": 114.211848
+  },
+  {
+    "key": "AID09151",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近高爾夫景園 - 東行 [AID09151]",
+    "lat": 22.502184,
+    "lng": 114.116385
+  },
+  {
+    "key": "AID09152",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近高爾夫御苑 - 東行 [AID09152]",
+    "lat": 22.50103,
+    "lng": 114.121702
+  },
+  {
+    "key": "AID09153",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近彩園邨彩麗樓 - 東行 [AID09153]",
+    "lat": 22.499839,
+    "lng": 114.124453
+  },
+  {
+    "key": "AID09154",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近掃管埔路 - 東行 [AID09154]",
+    "lat": 22.498387,
+    "lng": 114.129721
+  },
+  {
+    "key": "AID09155",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近粉嶺游樂場 - 東行 [AID09155]",
+    "lat": 22.493828,
+    "lng": 114.13635
+  },
+  {
+    "key": "AID09156",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近港鐵粉嶺站 - 東行 [AID09156]",
+    "lat": 22.491517,
+    "lng": 114.13877
+  },
+  {
+    "key": "AID09157",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近碧湖花園 - 東行 [AID09157]",
+    "lat": 22.488412,
+    "lng": 114.143999
+  },
+  {
+    "key": "AID09201",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近可風中學 - 西行 [AID09201]",
+    "lat": 22.381679,
+    "lng": 114.136334
+  },
+  {
+    "key": "AID09202",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近和宜合道交匯處 - 西行 [AID09202]",
+    "lat": 22.38073,
+    "lng": 114.133295
+  },
+  {
+    "key": "AID09203",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近路德會呂明才中學 - 西行 [AID09203]",
+    "lat": 22.378444,
+    "lng": 114.12847
+  },
+  {
+    "key": "AID09204",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近石圍角邨 - 西行 [AID09204]",
+    "lat": 22.376193,
+    "lng": 114.122577
+  },
+  {
+    "key": "AID09205",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近荃錦交匯處 - 西行 [AID09205]",
+    "lat": 22.375253,
+    "lng": 114.119567
+  },
+  {
+    "key": "AID09206",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近愉景新城 - 西行 [AID09206]",
+    "lat": 22.376533,
+    "lng": 114.113439
+  },
+  {
+    "key": "AID09207",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近南豐紗廠 - 西行 [AID09207]",
+    "lat": 22.375574,
+    "lng": 114.109653
+  },
+  {
+    "key": "AID09208",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近柴灣角熟食市場 - 西行 [AID09208]",
+    "lat": 22.375031,
+    "lng": 114.105944
+  },
+  {
+    "key": "AID09251",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近牽晴間 - 西行 [AID09251]",
+    "lat": 22.487744,
+    "lng": 114.145963
+  },
+  {
+    "key": "AID09252",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近粉嶺中心 - 西行 [AID09252]",
+    "lat": 22.488484,
+    "lng": 114.143523
+  },
+  {
+    "key": "AID09253",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近港鐵粉嶺站 - 西行 [AID09253]",
+    "lat": 22.492158,
+    "lng": 114.137886
+  },
+  {
+    "key": "AID09254",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近掃管埔路出口 - 西行 [AID09254]",
+    "lat": 22.495895,
+    "lng": 114.133725
+  },
+  {
+    "key": "AID09255",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近掃管埔路入口 - 西行 [AID09255]",
+    "lat": 22.498215,
+    "lng": 114.129556
+  },
+  {
+    "key": "AID09256",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近彩園邨彩麗樓 - 西行 [AID09256]",
+    "lat": 22.499731,
+    "lng": 114.124754
+  },
+  {
+    "key": "AID09257",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路高爾夫禦園 - 西行 [AID09257]",
+    "lat": 22.501201,
+    "lng": 114.121362
+  },
+  {
+    "key": "AID09258",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近高爾夫景園 - 西行 [AID09258]",
+    "lat": 22.502229,
+    "lng": 114.116784
+  },
+  {
+    "key": "AID09301",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (1) [AID09301]",
+    "lat": 22.50737,
+    "lng": 114.14072
+  },
+  {
+    "key": "AID09302",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (2) [AID09302]",
+    "lat": 22.50736,
+    "lng": 114.14488
+  },
+  {
+    "key": "AID09303",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (3) [AID09303]",
+    "lat": 22.50484,
+    "lng": 114.14621
+  },
+  {
+    "key": "AID09304",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (4) [AID09304]",
+    "lat": 22.50009,
+    "lng": 114.14784
+  },
+  {
+    "key": "AID09305",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (5) [AID09305]",
+    "lat": 22.49821,
+    "lng": 114.14758
+  },
+  {
+    "key": "AID09306",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (6) [AID09306]",
+    "lat": 22.49545,
+    "lng": 114.14635
+  },
+  {
+    "key": "AID09307",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (7) [AID09307]",
+    "lat": 22.49203,
+    "lng": 114.14754
+  },
+  {
+    "key": "AID09308",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 西行 (8) [AID09308]",
+    "lat": 22.48733,
+    "lng": 114.14808
+  },
+  {
+    "key": "AID09401",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (1) [AID09401]",
+    "lat": 22.48518,
+    "lng": 114.15199
+  },
+  {
+    "key": "AID09402",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (2) [AID09402]",
+    "lat": 22.48785,
+    "lng": 114.14865
+  },
+  {
+    "key": "AID09403",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (3) [AID09403]",
+    "lat": 22.4917,
+    "lng": 114.14763
+  },
+  {
+    "key": "AID09404",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (4) [AID09404]",
+    "lat": 22.49531,
+    "lng": 114.1464
+  },
+  {
+    "key": "AID09405",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (5) [AID09405]",
+    "lat": 22.49999,
+    "lng": 114.14787
+  },
+  {
+    "key": "AID09406",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (6) [AID09406]",
+    "lat": 22.5033,
+    "lng": 114.14653
+  },
+  {
+    "key": "AID09407",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (7) [AID09407]",
+    "lat": 22.50751,
+    "lng": 114.14465
+  },
+  {
+    "key": "AID09408",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (8) [AID09408]",
+    "lat": 22.5074,
+    "lng": 114.14071
+  },
+  {
+    "key": "AID09409",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺繞道 - 東行 (9) [AID09409]",
+    "lat": 22.5066,
+    "lng": 114.13849
+  },
+  {
+    "key": "AID10101",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近福亨村 - 北行 (1) [AID10101]",
+    "lat": 22.416723,
+    "lng": 113.990429
+  },
+  {
+    "key": "AID10102",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近福亨村 - 北行 (2) [AID10102]",
+    "lat": 22.419098,
+    "lng": 113.98994
+  },
+  {
+    "key": "AID10103",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近福亨村 - 北行 (3) [AID10103]",
+    "lat": 22.41985,
+    "lng": 113.992407
+  },
+  {
+    "key": "AID10104",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近豫豐花園 - 北行 [AID10104]",
+    "lat": 22.418915,
+    "lng": 113.988037
+  },
+  {
+    "key": "AID10105",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近青亦路 - 北行 [AID10105]",
+    "lat": 22.422839,
+    "lng": 113.984826
+  },
+  {
+    "key": "AID10106",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近麥園圍路 - 北行 [AID10106]",
+    "lat": 22.425898,
+    "lng": 113.983113
+  },
+  {
+    "key": "AID10107",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近亦園路 - 北行 (1) [AID10107]",
+    "lat": 22.430151,
+    "lng": 113.982524
+  },
+  {
+    "key": "AID10108",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近亦園路 - 北行 (2) [AID10108]",
+    "lat": 22.434316,
+    "lng": 113.984267
+  },
+  {
+    "key": "AID10109",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近新生新村 - 北行 [AID10109]",
+    "lat": 22.438318,
+    "lng": 113.985349
+  },
+  {
+    "key": "AID10110",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近廈村路 - 北行 [AID10110]",
+    "lat": 22.443338,
+    "lng": 113.984856
+  },
+  {
+    "key": "AID10111",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近新圍污水處理廠 - 北行 [AID10111]",
+    "lat": 22.446793,
+    "lng": 113.981626
+  },
+  {
+    "key": "AID10112",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近直升機停機坪 - 北行 [AID10112]",
+    "lat": 22.448721,
+    "lng": 113.977582
+  },
+  {
+    "key": "AID10113",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近鰲磡石機電室 - 北行 [AID10113]",
+    "lat": 22.452554,
+    "lng": 113.973885
+  },
+  {
+    "key": "AID10114",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (1) [AID10114]",
+    "lat": 22.455215,
+    "lng": 113.97186
+  },
+  {
+    "key": "AID10115",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (2) [AID10115]",
+    "lat": 22.458689,
+    "lng": 113.969533
+  },
+  {
+    "key": "AID10116",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (3) [AID10116]",
+    "lat": 22.462578,
+    "lng": 113.967409
+  },
+  {
+    "key": "AID10117",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (4) [AID10117]",
+    "lat": 22.467117,
+    "lng": 113.964429
+  },
+  {
+    "key": "AID10118",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (5) [AID10118]",
+    "lat": 22.470292,
+    "lng": 113.961675
+  },
+  {
+    "key": "AID10119",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (6) [AID10119]",
+    "lat": 22.473674,
+    "lng": 113.958181
+  },
+  {
+    "key": "AID10120",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 北行 (7) [AID10120]",
+    "lat": 22.476958,
+    "lng": 113.954874
+  },
+  {
+    "key": "AID10201",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (1) [AID10201]",
+    "lat": 22.476695,
+    "lng": 113.955155
+  },
+  {
+    "key": "AID10202",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (2) [AID10202]",
+    "lat": 22.473511,
+    "lng": 113.958454
+  },
+  {
+    "key": "AID10203",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (3) [AID10203]",
+    "lat": 22.470337,
+    "lng": 113.961723
+  },
+  {
+    "key": "AID10204",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (4) [AID10204]",
+    "lat": 22.46663,
+    "lng": 113.964887
+  },
+  {
+    "key": "AID10205",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (5) [AID10205]",
+    "lat": 22.462606,
+    "lng": 113.967477
+  },
+  {
+    "key": "AID10206",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (6) [AID10206]",
+    "lat": 22.458148,
+    "lng": 113.969942
+  },
+  {
+    "key": "AID10207",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "深圳灣公路大橋 - 南行 (7) [AID10207]",
+    "lat": 22.454755,
+    "lng": 113.972289
+  },
+  {
+    "key": "AID10208",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近鰲磡石機電室 - 南行 [AID10208]",
+    "lat": 22.452662,
+    "lng": 113.974011
+  },
+  {
+    "key": "AID10209",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近直升機停機坪 - 南行 [AID10209]",
+    "lat": 22.449975,
+    "lng": 113.976658
+  },
+  {
+    "key": "AID10210",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近廈邨秤車站 - 南行 [AID10210]",
+    "lat": 22.447757,
+    "lng": 113.979799
+  },
+  {
+    "key": "AID10211",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近新圍污水處理廠 - 南行 [AID10211]",
+    "lat": 22.446081,
+    "lng": 113.982511
+  },
+  {
+    "key": "AID10212",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近廈村路 - 南行 [AID10212]",
+    "lat": 22.44369,
+    "lng": 113.984613
+  },
+  {
+    "key": "AID10213",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近新生新村 - 南行 [AID10213]",
+    "lat": 22.43951,
+    "lng": 113.985571
+  },
+  {
+    "key": "AID10214",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近亦園路 - 南行 (1) [AID10214]",
+    "lat": 22.435093,
+    "lng": 113.984576
+  },
+  {
+    "key": "AID10215",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近亦園路 - 南行 (2) [AID10215]",
+    "lat": 22.431389,
+    "lng": 113.982833
+  },
+  {
+    "key": "AID10216",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近麥園圍路 - 南行 [AID10216]",
+    "lat": 22.425555,
+    "lng": 113.983278
+  },
+  {
+    "key": "AID10217",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近青亦路 - 南行 [AID10217]",
+    "lat": 22.423182,
+    "lng": 113.984622
+  },
+  {
+    "key": "AID10218",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "港深西部公路近福亨村 - 南行 [AID10218]",
+    "lat": 22.419251,
+    "lng": 113.989513
+  },
+  {
+    "key": "AID90008",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近禾輋邨 - 西行 [AID90008]",
+    "lat": 22.38977,
+    "lng": 114.19433
+  },
+  {
+    "key": "AID90009",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近瀝源邨 - 西行 [AID90009]",
+    "lat": 22.38577,
+    "lng": 114.19031
+  },
+  {
+    "key": "BC101F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近錦繡花園 [BC101F]",
+    "lat": 22.473225,
+    "lng": 114.05564
+  },
+  {
+    "key": "BC102F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近米埔 [BC102F]",
+    "lat": 22.492765,
+    "lng": 114.064981
+  },
+  {
+    "key": "BC103F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新深路迴旋處 [BC103F]",
+    "lat": 22.502122,
+    "lng": 114.081632
+  },
+  {
+    "key": "BC702F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路近米埔 [BC702F]",
+    "lat": 22.486322,
+    "lng": 114.058495
+  },
+  {
+    "key": "CK001F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "中九龍繞道(油麻地段) 油麻地交匯處 [CK001F]",
+    "lat": 22.31086,
+    "lng": 114.16573
+  },
+  {
+    "key": "CK002F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "中九龍繞道(油麻地段) 啟德交匯處 [CK002F]",
+    "lat": 22.32284,
+    "lng": 114.20083
+  },
+  {
+    "key": "CW103F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "中環及灣仔繞道中環入口 [CW103F]",
+    "lat": 22.287376,
+    "lng": 114.156972
+  },
+  {
+    "key": "CW803F",
+    "region": "香港島",
+    "district": "東區",
+    "description": "中環及灣仔繞道城市花園入口 [CW803F]",
+    "lat": 22.289887,
+    "lng": 114.191702
+  },
+  {
+    "key": "FH104F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 [FH104F]",
+    "lat": 22.504035,
+    "lng": 114.094994
+  },
+  {
+    "key": "FH106F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路上水迴旋處 [FH106F]",
+    "lat": 22.50053,
+    "lng": 114.12399
+  },
+  {
+    "key": "FH107F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近百和路 [FH107F]",
+    "lat": 22.49919,
+    "lng": 114.12667
+  },
+  {
+    "key": "FH706F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近港鐵粉嶺站 [FH706F]",
+    "lat": 22.491625,
+    "lng": 114.138625
+  },
+  {
+    "key": "FH707F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路-和合石交匯處 [FH707F]",
+    "lat": 22.48737,
+    "lng": 114.146514
+  },
+  {
+    "key": "FH708F",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路-粉嶺公路轉車站 [FH708F]",
+    "lat": 22.48251,
+    "lng": 114.15382
+  },
+  {
+    "key": "FH711F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "粉嶺公路近康樂園 [FH711F]",
+    "lat": 22.465575,
+    "lng": 114.150359
+  },
+  {
+    "key": "H106F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道中近交易廣場 [H106F]",
+    "lat": 22.285967,
+    "lng": 114.155749
+  },
+  {
+    "key": "H107F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "畢打街 [H107F]",
+    "lat": 22.281425,
+    "lng": 114.15707
+  },
+  {
+    "key": "H108F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "皇后大道中近雪廠街 [H108F]",
+    "lat": 22.280369,
+    "lng": 114.157652
+  },
+  {
+    "key": "H109F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "皇后大道中近花園道 [H109F]",
+    "lat": 22.279827,
+    "lng": 114.161669
+  },
+  {
+    "key": "H110F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道中近信德中心 [H110F]",
+    "lat": 22.28705,
+    "lng": 114.15305
+  },
+  {
+    "key": "H130F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "薄扶林道近蒲飛路 [H130F]",
+    "lat": 22.281791,
+    "lng": 114.132307
+  },
+  {
+    "key": "H132F2",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "薄扶林道近士美菲路 [H132F2]",
+    "lat": 22.27763,
+    "lng": 114.13078
+  },
+  {
+    "key": "H138F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "紅棉路近香港公園體育館 [H138F]",
+    "lat": 22.27739,
+    "lng": 114.15884
+  },
+  {
+    "key": "H201F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "軒尼詩道近軍器廠街 [H201F]",
+    "lat": 22.277832,
+    "lng": 114.168501
+  },
+  {
+    "key": "H203F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "怡和街近軒尼詩道 [H203F]",
+    "lat": 22.280117,
+    "lng": 114.184618
+  },
+  {
+    "key": "H204F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "菲林明道近港灣道 [H204F]",
+    "lat": 22.280541,
+    "lng": 114.174448
+  },
+  {
+    "key": "H207F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "海底隧道香港入口 [H207F]",
+    "lat": 22.281282,
+    "lng": 114.18192
+  },
+  {
+    "key": "H209F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "皇后大道東近司徒拔道 [H209F]",
+    "lat": 22.275042,
+    "lng": 114.178369
+  },
+  {
+    "key": "H210F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "香港仔隧道灣仔入口 [H210F]",
+    "lat": 22.2747,
+    "lng": 114.17936
+  },
+  {
+    "key": "H214F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "夏慤道近紅十字會總部 [H214F]",
+    "lat": 22.27948,
+    "lng": 114.16624
+  },
+  {
+    "key": "H215F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近灣仔交匯處 [H215F]",
+    "lat": 22.28192,
+    "lng": 114.18015
+  },
+  {
+    "key": "H216F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近時代廣場 [H216F]",
+    "lat": 22.279304,
+    "lng": 114.181406
+  },
+  {
+    "key": "H222F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近新鴻基中心 [H222F]",
+    "lat": 22.279711,
+    "lng": 114.176544
+  },
+  {
+    "key": "H305F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "高士威道近興發街 [H305F]",
+    "lat": 22.281751,
+    "lng": 114.191226
+  },
+  {
+    "key": "H307F",
+    "region": "香港島",
+    "district": "東區",
+    "description": "英皇道近電廠街 [H307F]",
+    "lat": 22.290221,
+    "lng": 114.195273
+  },
+  {
+    "key": "H401F",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近香港仔隧道 [H401F]",
+    "lat": 22.250559,
+    "lng": 114.170695
+  },
+  {
+    "key": "H421F",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔隧道香港仔入口 [H421F]",
+    "lat": 22.24986,
+    "lng": 114.17557
+  },
+  {
+    "key": "H422F1",
+    "region": "香港島",
+    "district": "南區",
+    "description": "黃竹坑道近香港仔工業學校 [H422F1]",
+    "lat": 22.248283,
+    "lng": 114.1611
+  },
+  {
+    "key": "H422F2",
+    "region": "香港島",
+    "district": "南區",
+    "description": "鴨利洲橋道近香港仔警署 [H422F2]",
+    "lat": 22.248256,
+    "lng": 114.160644
+  },
+  {
+    "key": "H429F",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海傍道近魚市場 [H429F]",
+    "lat": 22.24845,
+    "lng": 114.1505
+  },
+  {
+    "key": "H702F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "西區海底隧道香港入口 [H702F]",
+    "lat": 22.290327,
+    "lng": 114.142387
+  },
+  {
+    "key": "H703F",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "干諾道西 [H703F]",
+    "lat": 22.28871,
+    "lng": 114.142678
+  },
+  {
+    "key": "H801F",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近嘉華國際中心 [H801F]",
+    "lat": 22.294013,
+    "lng": 114.205405
+  },
+  {
+    "key": "H802F",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近海裕街 [H802F]",
+    "lat": 22.291067,
+    "lng": 114.211964
+  },
+  {
+    "key": "H803F",
+    "region": "香港島",
+    "district": "東區",
+    "description": "東區走廊近鰂魚涌公園 [H803F]",
+    "lat": 22.288266,
+    "lng": 114.221143
+  },
+  {
+    "key": "H903F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "摩利臣山道近體育道 [H903F]",
+    "lat": 22.275737,
+    "lng": 114.180853
+  },
+  {
+    "key": "H904F",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "堅拿道天橋近告士打道 [H904F]",
+    "lat": 22.279394,
+    "lng": 114.181367
+  },
+  {
+    "key": "HH001F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "香園圍公路近粉嶺公路交滙處 [HH001F]",
+    "lat": 22.477866,
+    "lng": 114.153593
+  },
+  {
+    "key": "HH002F",
+    "region": "新界",
+    "district": "北區",
+    "description": "香園圍公路近長山隧道北出入口 [HH002F]",
+    "lat": 22.53048,
+    "lng": 114.17071
+  },
+  {
+    "key": "HH003F",
+    "region": "新界",
+    "district": "北區",
+    "description": "香園圍公路近坪洋交滙處 [HH003F]",
+    "lat": 22.539093,
+    "lng": 114.161826
+  },
+  {
+    "key": "HH004F",
+    "region": "新界",
+    "district": "北區",
+    "description": "香園圍公路近蓮麻坑路交滙處 [HH004F]",
+    "lat": 22.545891,
+    "lng": 114.152706
+  },
+  {
+    "key": "K101F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "梳士巴利道近彌敦道 [K101F]",
+    "lat": 22.294584,
+    "lng": 114.172585
+  },
+  {
+    "key": "K102F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "梳士巴利道近漆咸道 [K102F]",
+    "lat": 22.295577,
+    "lng": 114.17537
+  },
+  {
+    "key": "K104F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "廣東道近中港城 [K104F]",
+    "lat": 22.30085,
+    "lng": 114.16814
+  },
+  {
+    "key": "K106F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "漆咸道近柯士甸道 [K106F]",
+    "lat": 22.302703,
+    "lng": 114.177272
+  },
+  {
+    "key": "K107F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "海底隧道九龍入口 [K107F]",
+    "lat": 22.30349,
+    "lng": 114.18073
+  },
+  {
+    "key": "K108F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "佐敦道近渡船街 [K108F]",
+    "lat": 22.30582,
+    "lng": 114.16712
+  },
+  {
+    "key": "K109F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "漆咸道近公主道 [K109F]",
+    "lat": 22.305574,
+    "lng": 114.178825
+  },
+  {
+    "key": "K111F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "窩打老道/渡船街 [K111F]",
+    "lat": 22.312166,
+    "lng": 114.166897
+  },
+  {
+    "key": "K112F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "窩打老道近東方街 [K112F]",
+    "lat": 22.313178,
+    "lng": 114.171653
+  },
+  {
+    "key": "K121F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "廣東道近梳士巴利道 [K121F]",
+    "lat": 22.296273,
+    "lng": 114.169266
+  },
+  {
+    "key": "K123F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "公主道近京士柏 [K123F]",
+    "lat": 22.31047,
+    "lng": 114.17802
+  },
+  {
+    "key": "K202F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "亞皆老街近染布房街 [K202F]",
+    "lat": 22.319815,
+    "lng": 114.172808
+  },
+  {
+    "key": "K205F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "彌敦道近荔枝角道 [K205F]",
+    "lat": 22.322308,
+    "lng": 114.168634
+  },
+  {
+    "key": "K209F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "界限街近大坑東道 [K209F]",
+    "lat": 22.326606,
+    "lng": 114.17206
+  },
+  {
+    "key": "K221F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "櫻桃街近海泓道 [K221F]",
+    "lat": 22.318307,
+    "lng": 114.163539
+  },
+  {
+    "key": "K305F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "長沙灣道近光昌街 [K305F]",
+    "lat": 22.338669,
+    "lng": 114.151898
+  },
+  {
+    "key": "K325F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "葵涌道近美孚新邨 [K325F]",
+    "lat": 22.3369,
+    "lng": 114.14106
+  },
+  {
+    "key": "K404F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "啟德隧道九龍城入口 [K404F]",
+    "lat": 22.314045,
+    "lng": 114.187492
+  },
+  {
+    "key": "K405F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "馬頭圍道近農圃道 [K405F]",
+    "lat": 22.322172,
+    "lng": 114.187435
+  },
+  {
+    "key": "K408F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道/培正道 [K408F]",
+    "lat": 22.317269,
+    "lng": 114.178573
+  },
+  {
+    "key": "K409F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "公主道/亞皆老街 [K409F]",
+    "lat": 22.321287,
+    "lng": 114.178049
+  },
+  {
+    "key": "K502F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "窩打老道/歌和老街 [K502F]",
+    "lat": 22.340143,
+    "lng": 114.179058
+  },
+  {
+    "key": "K505F",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道/竹園道 [K505F]",
+    "lat": 22.342907,
+    "lng": 114.184592
+  },
+  {
+    "key": "K506F",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "太子道西天橋近世運公園 [K506F]",
+    "lat": 22.327699,
+    "lng": 114.19059
+  },
+  {
+    "key": "K508F",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "龍翔道/蒲崗村道 [K508F]",
+    "lat": 22.34132,
+    "lng": 114.1991
+  },
+  {
+    "key": "K521F",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "太子道東近新蒲崗 [K521F]",
+    "lat": 22.332575,
+    "lng": 114.196123
+  },
+  {
+    "key": "K602F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "鯉魚門道近茶果嶺道 [K602F]",
+    "lat": 22.310135,
+    "lng": 114.229283
+  },
+  {
+    "key": "K607F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "秀茂坪道近協和街 [K607F]",
+    "lat": 22.324007,
+    "lng": 114.225891
+  },
+  {
+    "key": "K613F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "啟祥道近宏照道 [K613F]",
+    "lat": 22.325357,
+    "lng": 114.208789
+  },
+  {
+    "key": "K614F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "龍翔道/清水灣道 [K614F]",
+    "lat": 22.333999,
+    "lng": 114.20849
+  },
+  {
+    "key": "K621F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近龍翔道 [K621F]",
+    "lat": 22.3314,
+    "lng": 114.2091
+  },
+  {
+    "key": "K627F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "清水灣道近飛鵝山道 [K627F]",
+    "lat": 22.33419,
+    "lng": 114.22336
+  },
+  {
+    "key": "K701F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳藍田隧道 (藍田入口) [K701F]",
+    "lat": 22.30226,
+    "lng": 114.23342
+  },
+  {
+    "key": "K702F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將藍隧道茶果嶺道迴旋處 [K702F]",
+    "lat": 22.30029,
+    "lng": 114.23069
+  },
+  {
+    "key": "K802F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "呈祥道近明愛醫院 [K802F]",
+    "lat": 22.34253,
+    "lng": 114.15381
+  },
+  {
+    "key": "K804F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "龍翔道近澤安邨 [K804F]",
+    "lat": 22.342094,
+    "lng": 114.16475
+  },
+  {
+    "key": "K809F2",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近九龍灣港鐵站 [K809F2]",
+    "lat": 22.319477,
+    "lng": 114.214834
+  },
+  {
+    "key": "K810F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘道近牛頭角港鐵站 [K810F]",
+    "lat": 22.314644,
+    "lng": 114.219938
+  },
+  {
+    "key": "K811F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "將軍澳道近翠屏南邨 [K811F]",
+    "lat": 22.312093,
+    "lng": 114.234146
+  },
+  {
+    "key": "K812F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近麗港城 [K812F]",
+    "lat": 22.30909,
+    "lng": 114.2298
+  },
+  {
+    "key": "K813F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近勵業街 [K813F]",
+    "lat": 22.312306,
+    "lng": 114.217433
+  },
+  {
+    "key": "K814F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "觀塘繞道近啟祥道 [K814F]",
+    "lat": 22.32452,
+    "lng": 114.20426
+  },
+  {
+    "key": "K816F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍走廊近南昌邨 [K816F]",
+    "lat": 22.325044,
+    "lng": 114.161829
+  },
+  {
+    "key": "K901F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西區海底隧道九龍入口 [K901F]",
+    "lat": 22.30813,
+    "lng": 114.16112
+  },
+  {
+    "key": "K911F",
+    "region": "九龍",
+    "district": "油尖旺區",
+    "description": "西九龍公路油麻地北交匯處 [K911F]",
+    "lat": 22.314387,
+    "lng": 114.161481
+  },
+  {
+    "key": "K914F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "西九龍公路近荔灣交匯處 [K914F]",
+    "lat": 22.330892,
+    "lng": 114.142745
+  },
+  {
+    "key": "K931F",
+    "region": "九龍",
+    "district": "黃大仙區",
+    "description": "大老山隧道九龍入口 [K931F]",
+    "lat": 22.33406,
+    "lng": 114.20563
+  },
+  {
+    "key": "K952F",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "東區海底隧道九龍入口 [K952F]",
+    "lat": 22.301401,
+    "lng": 114.233967
+  },
+  {
+    "key": "NH101F",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近粉嶺公路 [NH101F]",
+    "lat": 22.488024,
+    "lng": 114.146419
+  },
+  {
+    "key": "NH109F",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近馬適路 [NH109F]",
+    "lat": 22.500411,
+    "lng": 114.13422
+  },
+  {
+    "key": "NH113F",
+    "region": "新界",
+    "district": "北區",
+    "description": "新運路近龍琛路 [NH113F]",
+    "lat": 22.503054,
+    "lng": 114.126735
+  },
+  {
+    "key": "NH115F",
+    "region": "新界",
+    "district": "北區",
+    "description": "沙頭角公路近馬適路 [NH115F]",
+    "lat": 22.50155,
+    "lng": 114.14679
+  },
+  {
+    "key": "NL022F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "東榮路 [NL022F]",
+    "lat": 22.30805,
+    "lng": 113.93874
+  },
+  {
+    "key": "NL121F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "北大嶼山公路近欣澳 [NL121F]",
+    "lat": 22.324987,
+    "lng": 114.020495
+  },
+  {
+    "key": "NL124F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近小蠔灣 [NL124F]",
+    "lat": 22.310082,
+    "lng": 113.990493
+  },
+  {
+    "key": "NL126F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近白芒 [NL126F]",
+    "lat": 22.29826,
+    "lng": 113.96577
+  },
+  {
+    "key": "NL128F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "北大嶼山公路近東涌 [NL128F]",
+    "lat": 22.28946,
+    "lng": 113.94729
+  },
+  {
+    "key": "NL131F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "港珠澳大橋香港口岸入境客車通關廣場 [NL131F]",
+    "lat": 22.31876,
+    "lng": 113.95529
+  },
+  {
+    "key": "NL184F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "港珠澳大橋香港口岸出境客車通關廣場 [NL184F]",
+    "lat": 22.31524,
+    "lng": 113.95746
+  },
+  {
+    "key": "NL206F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "順朗路近北大嶼山公路 [NL206F]",
+    "lat": 22.299646,
+    "lng": 113.970999
+  },
+  {
+    "key": "PB106F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "竹篙灣公路 [PB106F]",
+    "lat": 22.32538,
+    "lng": 114.035782
+  },
+  {
+    "key": "RT115F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "龍門路近湖翠路 [RT115F]",
+    "lat": 22.376166,
+    "lng": 113.96014
+  },
+  {
+    "key": "RT116F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "皇珠路近屯門鄉事會路 [RT116F]",
+    "lat": 22.38562,
+    "lng": 113.97526
+  },
+  {
+    "key": "SM933F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路 [SM933F]",
+    "lat": 22.377783,
+    "lng": 114.182448
+  },
+  {
+    "key": "SM934F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道沙田入口 [SM934F]",
+    "lat": 22.38164,
+    "lng": 114.17548
+  },
+  {
+    "key": "SM936F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路 [SM936F]",
+    "lat": 22.376537,
+    "lng": 114.123052
+  },
+  {
+    "key": "ST106F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田圍路/沙瀝公路 [ST106F]",
+    "lat": 22.377917,
+    "lng": 114.199887
+  },
+  {
+    "key": "ST109F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近濱景花園 [ST109F]",
+    "lat": 22.389204,
+    "lng": 114.203278
+  },
+  {
+    "key": "ST112F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "美田路近車公廟路迴旋處 [ST112F]",
+    "lat": 22.37139,
+    "lng": 114.1787
+  },
+  {
+    "key": "ST114F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段 [ST114F]",
+    "lat": 22.38408,
+    "lng": 114.18944
+  },
+  {
+    "key": "ST115F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "火炭路 [ST115F]",
+    "lat": 22.38907,
+    "lng": 114.19813
+  },
+  {
+    "key": "ST117F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "西沙路近馬鞍山運動場 [ST117F]",
+    "lat": 22.42227,
+    "lng": 114.22775
+  },
+  {
+    "key": "ST119F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "西沙路/錦英路 [ST119F]",
+    "lat": 22.42656,
+    "lng": 114.23909
+  },
+  {
+    "key": "ST701F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近沙田污水處理廠 [ST701F]",
+    "lat": 22.40698,
+    "lng": 114.21063
+  },
+  {
+    "key": "ST703F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路近港鐵馬場站 [ST703F]",
+    "lat": 22.394885,
+    "lng": 114.199657
+  },
+  {
+    "key": "ST712F1",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田醫院 [ST712F1]",
+    "lat": 22.398423,
+    "lng": 114.212321
+  },
+  {
+    "key": "ST714F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近大石鼓 [ST714F]",
+    "lat": 22.387893,
+    "lng": 114.211163
+  },
+  {
+    "key": "ST715F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙瀝公路近威爾斯親王醫院 [ST715F]",
+    "lat": 22.3776,
+    "lng": 114.200431
+  },
+  {
+    "key": "ST721F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近圓州角公園 [ST721F]",
+    "lat": 22.383804,
+    "lng": 114.201461
+  },
+  {
+    "key": "ST725F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近新田圍邨 [ST725F]",
+    "lat": 22.36913,
+    "lng": 114.18753
+  },
+  {
+    "key": "ST731F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近恆安邨 [ST731F]",
+    "lat": 22.413743,
+    "lng": 114.227933
+  },
+  {
+    "key": "ST732F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近耀安邨 [ST732F]",
+    "lat": 22.41757,
+    "lng": 114.233296
+  },
+  {
+    "key": "ST748F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路(沙田段)北行近沙田港鐵站 [ST748F]",
+    "lat": 22.38372,
+    "lng": 114.18862
+  },
+  {
+    "key": "ST750F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路(沙田段)南行近連城廣場 [ST750F]",
+    "lat": 22.38259,
+    "lng": 114.18794
+  },
+  {
+    "key": "ST922F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近紅梅谷路 [ST922F]",
+    "lat": 22.36499,
+    "lng": 114.1824
+  },
+  {
+    "key": "ST942F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山隧道沙田入口 [ST942F]",
+    "lat": 22.382069,
+    "lng": 114.209375
+  },
+  {
+    "key": "SW103F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "港深西部公路近青磚圍 [SW103F]",
+    "lat": 22.426992,
+    "lng": 113.982439
+  },
+  {
+    "key": "SW108F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近丹桂村 [SW108F]",
+    "lat": 22.424389,
+    "lng": 113.99715
+  },
+  {
+    "key": "SW109F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近洪天路 [SW109F]",
+    "lat": 22.428068,
+    "lng": 114.001118
+  },
+  {
+    "key": "SW111F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近唐人新村交匯處 [SW111F]",
+    "lat": 22.43783,
+    "lng": 114.01207
+  },
+  {
+    "key": "SW112F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近十八鄉 [SW112F]",
+    "lat": 22.433815,
+    "lng": 114.0317
+  },
+  {
+    "key": "SW113F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近博愛交匯處 [SW113F]",
+    "lat": 22.443376,
+    "lng": 114.039229
+  },
+  {
+    "key": "TC001F",
+    "region": "新界",
+    "district": "離島區",
+    "description": "屯門-赤鱲角隧道南面入口 [TC001F]",
+    "lat": 22.31537,
+    "lng": 113.959797
+  },
+  {
+    "key": "TC002F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "龍門路迴旋處近屯門至赤鱲角連接路 [TC002F]",
+    "lat": 22.372131,
+    "lng": 113.953067
+  },
+  {
+    "key": "TC003F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門-赤鱲角隧道北面入口 [TC003F]",
+    "lat": 22.36462,
+    "lng": 113.94778
+  },
+  {
+    "key": "TC101F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "長青橋 [TC101F]",
+    "lat": 22.34896,
+    "lng": 114.11235
+  },
+  {
+    "key": "TC104F",
+    "region": "九龍",
+    "district": "深水埗區",
+    "description": "青葵公路近四號貨櫃碼頭 [TC104F]",
+    "lat": 22.338512,
+    "lng": 114.132133
+  },
+  {
+    "key": "TC302F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "長青公路近金竹角 [TC302F]",
+    "lat": 22.344727,
+    "lng": 114.093242
+  },
+  {
+    "key": "TC551F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "汲水門橋 [TC551F]",
+    "lat": 22.345238,
+    "lng": 114.057226
+  },
+  {
+    "key": "TC560F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青馬大橋 [TC560F]",
+    "lat": 22.351101,
+    "lng": 114.074065
+  },
+  {
+    "key": "TC573F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青嶼幹線近收費廣場 [TC573F]",
+    "lat": 22.337339,
+    "lng": 114.038945
+  },
+  {
+    "key": "TC604F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "汀九橋 [TC604F]",
+    "lat": 22.360299,
+    "lng": 114.081767
+  },
+  {
+    "key": "TC612F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路至汀九橋 [TC612F]",
+    "lat": 22.37039,
+    "lng": 114.073721
+  },
+  {
+    "key": "TDS10001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近香港賽馬會職員宿舍 - 南行 [TDS10001]",
+    "lat": 22.394415,
+    "lng": 114.199414
+  },
+  {
+    "key": "TDS10002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近新界區消防總部 - 南行 [TDS10002]",
+    "lat": 22.390857,
+    "lng": 114.198734
+  },
+  {
+    "key": "TDS10003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近威爾斯親王醫院 - 南行 [TDS10003]",
+    "lat": 22.380039,
+    "lng": 114.200295
+  },
+  {
+    "key": "TDS10004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近圓洲角公園 - 南行 [TDS10004]",
+    "lat": 22.383452,
+    "lng": 114.201374
+  },
+  {
+    "key": "TDS10005",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近大涌橋路 - 南行 [TDS10005]",
+    "lat": 22.387733,
+    "lng": 114.20053
+  },
+  {
+    "key": "TDS10006",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近沙田圍路 - 南行 [TDS10006]",
+    "lat": 22.377077,
+    "lng": 114.198974
+  },
+  {
+    "key": "TDS10007",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近沙田頭 - 南行 [TDS10007]",
+    "lat": 22.372138,
+    "lng": 114.189924
+  },
+  {
+    "key": "TDS10008",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近博康邨 - 南行 [TDS10008]",
+    "lat": 22.373863,
+    "lng": 114.193701
+  },
+  {
+    "key": "TDS10009",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田路近水泉澳邨 - 南行 [TDS10009]",
+    "lat": 22.374603,
+    "lng": 114.196177
+  },
+  {
+    "key": "TDS10010",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近沙田官立小學 - 南行 [TDS10010]",
+    "lat": 22.367858,
+    "lng": 114.187195
+  },
+  {
+    "key": "TDS10011",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近紅梅谷路 - 南行 [TDS10011]",
+    "lat": 22.364652,
+    "lng": 114.18204
+  },
+  {
+    "key": "TDS10012",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近世界花園 - 南行 [TDS10012]",
+    "lat": 22.362873,
+    "lng": 114.179632
+  },
+  {
+    "key": "TDS10013",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "獅子山隧道公路近仁安醫院 - 南行 [TDS10013]",
+    "lat": 22.360254,
+    "lng": 114.176399
+  },
+  {
+    "key": "TDS20001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近香港駕駛學院 - 沙田 - 南行 [TDS20001]",
+    "lat": 22.380985,
+    "lng": 114.21021
+  },
+  {
+    "key": "TDS20002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近石門河濱花園 - 南行 [TDS20002]",
+    "lat": 22.384055,
+    "lng": 114.210638
+  },
+  {
+    "key": "TDS20003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田廢物轉運站 - 南行 [TDS20003]",
+    "lat": 22.387776,
+    "lng": 114.211357
+  },
+  {
+    "key": "TDS20004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近石門交匯處 - 南行 [TDS20004]",
+    "lat": 22.391993,
+    "lng": 114.209775
+  },
+  {
+    "key": "TDS20005",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田醫院 - 南行(2) [TDS20005]",
+    "lat": 22.397502,
+    "lng": 114.211194
+  },
+  {
+    "key": "TDS20006",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田醫院 - 南行(1) [TDS20006]",
+    "lat": 22.400842,
+    "lng": 114.213895
+  },
+  {
+    "key": "TDS20007",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近亞公角漁民新村 - 南行 [TDS20007]",
+    "lat": 22.403767,
+    "lng": 114.217946
+  },
+  {
+    "key": "TDS20008",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近沙田污水處理廠 - 南行 [TDS20008]",
+    "lat": 22.407181,
+    "lng": 114.216519
+  },
+  {
+    "key": "TDS20009",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大老山公路近香港凱悅酒店 - 沙田 - 南行 [TDS20009]",
+    "lat": 22.411282,
+    "lng": 114.21282
+  },
+  {
+    "key": "TDS30001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近河背 - 南行 [TDS30001]",
+    "lat": 22.412699,
+    "lng": 114.062035
+  },
+  {
+    "key": "TDS30002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近八鄉車廠 - 南行 [TDS30002]",
+    "lat": 22.424169,
+    "lng": 114.064191
+  },
+  {
+    "key": "TDS30003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦上路港鐵站 - 南行 (1) [TDS30003]",
+    "lat": 22.427781,
+    "lng": 114.063994
+  },
+  {
+    "key": "TDS30004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦上路港鐵站 - 南行 (2) [TDS30004]",
+    "lat": 22.433559,
+    "lng": 114.061862
+  },
+  {
+    "key": "TDS30005",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近錦上路港鐵站 - 南行 (3) [TDS30005]",
+    "lat": 22.437205,
+    "lng": 114.058828
+  },
+  {
+    "key": "TDS30006",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近凹頭濾水廠 - 南行 [TDS30006]",
+    "lat": 22.439578,
+    "lng": 114.055251
+  },
+  {
+    "key": "TDS30007",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近元朗公路 - 南行 (1) [TDS30007]",
+    "lat": 22.443259,
+    "lng": 114.050993
+  },
+  {
+    "key": "TDS30008",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近元朗公路 - 南行 (2) [TDS30008]",
+    "lat": 22.448919,
+    "lng": 114.048414
+  },
+  {
+    "key": "TDS30009",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近元朗公路 - 南行 (3) [TDS30009]",
+    "lat": 22.453778,
+    "lng": 114.049526
+  },
+  {
+    "key": "TDS90001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近香港凱悅酒店 - 沙田 - 南行 [TDS90001]",
+    "lat": 22.409458,
+    "lng": 114.211926
+  },
+  {
+    "key": "TDS90002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近香港賽馬會馬房 - 南行 [TDS90002]",
+    "lat": 22.405991,
+    "lng": 114.209225
+  },
+  {
+    "key": "TDS90003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近馬場港鐵站 - 南行 [TDS90003]",
+    "lat": 22.401504,
+    "lng": 114.203873
+  },
+  {
+    "key": "TDS90004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近駿景廣場 - 南行 [TDS90004]",
+    "lat": 22.398677,
+    "lng": 114.202085
+  },
+  {
+    "key": "TDS90005",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近香港賽馬會職員宿舍 - 南行 [TDS90005]",
+    "lat": 22.395372,
+    "lng": 114.199958
+  },
+  {
+    "key": "TDS90010",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路沙田段近沙田港鐵站 - 西行 [TDS90010]",
+    "lat": 22.380049,
+    "lng": 114.186109
+  },
+  {
+    "key": "TDS90011",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近香港文化博物館 - 西行 [TDS90011]",
+    "lat": 22.37799,
+    "lng": 114.183205
+  },
+  {
+    "key": "TDS90012",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道近美林邨 - 西行 [TDS90012]",
+    "lat": 22.378361,
+    "lng": 114.17904
+  },
+  {
+    "key": "TDS90013",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道公路近美城苑 - 西行 [TDS90013]",
+    "lat": 22.380329,
+    "lng": 114.176923
+  },
+  {
+    "key": "TDS90014",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道近普光明寺 - 西行 [TDS90014]",
+    "lat": 22.382587,
+    "lng": 114.172777
+  },
+  {
+    "key": "TDS90015",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "城門隧道近信善玄宮 - 西行 [TDS90015]",
+    "lat": 22.381404,
+    "lng": 114.169271
+  },
+  {
+    "key": "TDS90016",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近荃灣路 - 西行 [TDS90016]",
+    "lat": 22.373756,
+    "lng": 114.101624
+  },
+  {
+    "key": "TDS90017",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近油柑頭村 - 西行 [TDS90017]",
+    "lat": 22.372174,
+    "lng": 114.098032
+  },
+  {
+    "key": "TDS90018",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近油柑頭濾水廠 - 西行 [TDS90018]",
+    "lat": 22.369463,
+    "lng": 114.094742
+  },
+  {
+    "key": "TDS90019",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近恒麗苑 - 西行 [TDS90019]",
+    "lat": 22.370273,
+    "lng": 114.090314
+  },
+  {
+    "key": "TDS90020",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 西行(1) [TDS90020]",
+    "lat": 22.369439,
+    "lng": 114.084926
+  },
+  {
+    "key": "TDS90021",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 西行(2) [TDS90021]",
+    "lat": 22.371739,
+    "lng": 114.079254
+  },
+  {
+    "key": "TDS90022",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 西行(3) [TDS90022]",
+    "lat": 22.371049,
+    "lng": 114.073866
+  },
+  {
+    "key": "TDS90023",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 西行(4) [TDS90023]",
+    "lat": 22.367896,
+    "lng": 114.071897
+  },
+  {
+    "key": "TDS90024",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 西行(5) [TDS90024]",
+    "lat": 22.365835,
+    "lng": 114.067996
+  },
+  {
+    "key": "TDS90025",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (1) [TDS90025]",
+    "lat": 22.366682,
+    "lng": 114.065607
+  },
+  {
+    "key": "TDS90026",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (2) [TDS90026]",
+    "lat": 22.369244,
+    "lng": 114.061682
+  },
+  {
+    "key": "TDS90027",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (3) [TDS90027]",
+    "lat": 22.368059,
+    "lng": 114.058925
+  },
+  {
+    "key": "TDS90028",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (4) [TDS90028]",
+    "lat": 22.366791,
+    "lng": 114.054062
+  },
+  {
+    "key": "TDS90029",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (5) [TDS90029]",
+    "lat": 22.365523,
+    "lng": 114.049228
+  },
+  {
+    "key": "TDS90030",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 西行 (6) [TDS90030]",
+    "lat": 22.365511,
+    "lng": 114.045772
+  },
+  {
+    "key": "TDS90031",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近豪景花園 - 西行 (1) [TDS90031]",
+    "lat": 22.364207,
+    "lng": 114.041297
+  },
+  {
+    "key": "TDS90032",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近豪景花園 - 西行 (2) [TDS90032]",
+    "lat": 22.361197,
+    "lng": 114.037397
+  },
+  {
+    "key": "TDS90033",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近嘉龍村 - 西行 (1) [TDS90033]",
+    "lat": 22.358439,
+    "lng": 114.033448
+  },
+  {
+    "key": "TDS90034",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近嘉龍村 - 西行 (2) [TDS90034]",
+    "lat": 22.355888,
+    "lng": 114.028461
+  },
+  {
+    "key": "TDS90035",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近大欖 - 西行 [TDS90035]",
+    "lat": 22.356145,
+    "lng": 114.023189
+  },
+  {
+    "key": "TDS90036",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近屯門公路巴士轉乘站- 西行(1) [TDS90036]",
+    "lat": 22.358579,
+    "lng": 114.018914
+  },
+  {
+    "key": "TDS90037",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近屯門公路巴士轉乘站- 西行(2) [TDS90037]",
+    "lat": 22.362242,
+    "lng": 114.015755
+  },
+  {
+    "key": "TDS90038",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近懲教署已婚職員宿舍 - 西行 [TDS90038]",
+    "lat": 22.364868,
+    "lng": 114.0138
+  },
+  {
+    "key": "TDS90039",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青欖路 - 西行 [TDS90039]",
+    "lat": 22.366635,
+    "lng": 114.010623
+  },
+  {
+    "key": "TDS90040",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近冠發街 - 西行 [TDS90040]",
+    "lat": 22.367243,
+    "lng": 114.004923
+  },
+  {
+    "key": "TDS90041",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近小秀村 - 西行 [TDS90041]",
+    "lat": 22.368296,
+    "lng": 114.001242
+  },
+  {
+    "key": "TDS90042",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近掃管笏路 - 西行 [TDS90042]",
+    "lat": 22.372474,
+    "lng": 113.998324
+  },
+  {
+    "key": "TDS90043",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近哈羅香港國際學校 - 西行 (1) [TDS90043]",
+    "lat": 22.375882,
+    "lng": 113.993455
+  },
+  {
+    "key": "TDS90044",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近哈羅香港國際學校 - 西行 (2) [TDS90044]",
+    "lat": 22.375247,
+    "lng": 113.991252
+  },
+  {
+    "key": "TDS90045",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青山灣入境事務中心 - 西行 [TDS90045]",
+    "lat": 22.376958,
+    "lng": 113.987016
+  },
+  {
+    "key": "TDS90046",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青山灣泳灘 - 西行 [TDS90046]",
+    "lat": 22.381828,
+    "lng": 113.981775
+  },
+  {
+    "key": "TDS90048",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近新墟街市 - 北行 [TDS90048]",
+    "lat": 22.397074,
+    "lng": 113.976238
+  },
+  {
+    "key": "TDS90049",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近新墟遊樂場 - 北行 [TDS90049]",
+    "lat": 22.399946,
+    "lng": 113.976778
+  },
+  {
+    "key": "TDS90051",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近輕鐵鳳地站 - 北行 [TDS90051]",
+    "lat": 22.406567,
+    "lng": 113.97806
+  },
+  {
+    "key": "TDS90052",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近港鐵兆康站 - 北行(1) [TDS90052]",
+    "lat": 22.410207,
+    "lng": 113.97888
+  },
+  {
+    "key": "TDS90053",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近港鐵兆康站 - 北行(2) [TDS90053]",
+    "lat": 22.412403,
+    "lng": 113.979645
+  },
+  {
+    "key": "TDS90055",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 東行 (1) [TDS90055]",
+    "lat": 22.415926,
+    "lng": 113.988556
+  },
+  {
+    "key": "TDS90056",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 東行 (2) [TDS90056]",
+    "lat": 22.418405,
+    "lng": 113.992457
+  },
+  {
+    "key": "TDS90057",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 東行 (3) [TDS90057]",
+    "lat": 22.423511,
+    "lng": 113.995675
+  },
+  {
+    "key": "TDS90058",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近丹桂村 - 東行 [TDS90058]",
+    "lat": 22.425094,
+    "lng": 113.998257
+  },
+  {
+    "key": "TDS90059",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近水庫路 - 東行 [TDS90059]",
+    "lat": 22.427815,
+    "lng": 114.000711
+  },
+  {
+    "key": "TDS90060",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近洪天路 - 東行 (1) [TDS90060]",
+    "lat": 22.431944,
+    "lng": 114.002541
+  },
+  {
+    "key": "TDS90061",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近洪天路 - 東行 (2) [TDS90061]",
+    "lat": 22.436183,
+    "lng": 114.006198
+  },
+  {
+    "key": "TDS90062",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近唐人新村路 - 東行 [TDS90062]",
+    "lat": 22.437488,
+    "lng": 114.010345
+  },
+  {
+    "key": "TDS90063",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近唐人新村交匯處 - 東行 [TDS90063]",
+    "lat": 22.437934,
+    "lng": 114.013802
+  },
+  {
+    "key": "TDS90064",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近欖口村 - 東行 [TDS90064]",
+    "lat": 22.436385,
+    "lng": 114.018263
+  },
+  {
+    "key": "TDS90065",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近公庵路 - 東行 [TDS90065]",
+    "lat": 22.435206,
+    "lng": 114.022908
+  },
+  {
+    "key": "TDS90066",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近深涌村 - 東行 [TDS90066]",
+    "lat": 22.434317,
+    "lng": 114.028008
+  },
+  {
+    "key": "TDS90067",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近十八鄉交匯處 - 東行 (1) [TDS90067]",
+    "lat": 22.434729,
+    "lng": 114.033652
+  },
+  {
+    "key": "TDS90068",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近十八鄉交匯處 - 東行 (2) [TDS90068]",
+    "lat": 22.437676,
+    "lng": 114.037379
+  },
+  {
+    "key": "TDS90069",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近博愛交匯處 - 東行 (1) [TDS90069]",
+    "lat": 22.441489,
+    "lng": 114.039405
+  },
+  {
+    "key": "TDS90070",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近博愛交匯處 - 東行 (2) [TDS90070]",
+    "lat": 22.446519,
+    "lng": 114.040003
+  },
+  {
+    "key": "TDS90071",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近朗暉路 - 東行 [TDS90071]",
+    "lat": 22.449042,
+    "lng": 114.044304
+  },
+  {
+    "key": "TDS90072",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近青朗公路 - 東行 [TDS90072]",
+    "lat": 22.452359,
+    "lng": 114.048294
+  },
+  {
+    "key": "TDS90073",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近沙埔村 - 北行 [TDS90073]",
+    "lat": 22.455992,
+    "lng": 114.051361
+  },
+  {
+    "key": "TDS90074",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近模範鄉 - 北行 [TDS90074]",
+    "lat": 22.460165,
+    "lng": 114.052688
+  },
+  {
+    "key": "TDS90075",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近壆圍 - 北行 [TDS90075]",
+    "lat": 22.464257,
+    "lng": 114.053675
+  },
+  {
+    "key": "TDS90076",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近錦壆路東 - 北行 [TDS90076]",
+    "lat": 22.468421,
+    "lng": 114.054692
+  },
+  {
+    "key": "TDS90077",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近錦綉花園大道 - 北行 [TDS90077]",
+    "lat": 22.472783,
+    "lng": 114.055815
+  },
+  {
+    "key": "TDS90078",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近真善路 - 北行 [TDS90078]",
+    "lat": 22.477814,
+    "lng": 114.057803
+  },
+  {
+    "key": "TDS90079",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近洋葵徑 - 北行 [TDS90079]",
+    "lat": 22.481734,
+    "lng": 114.058334
+  },
+  {
+    "key": "TDS90080",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近加州花園大道 - 北行 [TDS90080]",
+    "lat": 22.48494,
+    "lng": 114.058525
+  },
+  {
+    "key": "TDS90081",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近米埔新村 - 北行 [TDS90081]",
+    "lat": 22.490152,
+    "lng": 114.06061
+  },
+  {
+    "key": "TDS90082",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近新田足球場 - 北行 [TDS90082]",
+    "lat": 22.492521,
+    "lng": 114.064709
+  },
+  {
+    "key": "TDS90083",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近米埔隴 - 北行 [TDS90083]",
+    "lat": 22.493535,
+    "lng": 114.06844
+  },
+  {
+    "key": "TDS90084",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近青龍村 - 北行 [TDS90084]",
+    "lat": 22.495119,
+    "lng": 114.07425
+  },
+  {
+    "key": "TDS90085",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近文天祥公園 - 北行 [TDS90085]",
+    "lat": 22.497587,
+    "lng": 114.078534
+  },
+  {
+    "key": "TDS90086",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "粉嶺公路近新田交匯處 - 東行 [TDS90086]",
+    "lat": 22.501933,
+    "lng": 114.08237
+  },
+  {
+    "key": "TDS90087",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "粉嶺公路近洲頭村 - 東行 (1) [TDS90087]",
+    "lat": 22.503651,
+    "lng": 114.085771
+  },
+  {
+    "key": "TDS90088",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "粉嶺公路近洲頭村 - 東行 (2) [TDS90088]",
+    "lat": 22.504231,
+    "lng": 114.089599
+  },
+  {
+    "key": "TDS90089",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 東行 (1) [TDS90089]",
+    "lat": 22.503845,
+    "lng": 114.095159
+  },
+  {
+    "key": "TDS90090",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 東行 (2) [TDS90090]",
+    "lat": 22.503504,
+    "lng": 114.099688
+  },
+  {
+    "key": "TDS90091",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 東行 (3) [TDS90091]",
+    "lat": 22.503208,
+    "lng": 114.103634
+  },
+  {
+    "key": "TDS90092",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 東行 (4) [TDS90092]",
+    "lat": 22.502867,
+    "lng": 114.108124
+  },
+  {
+    "key": "TDS91001",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近油柑頭村 - 東行 [TDS91001]",
+    "lat": 22.373005,
+    "lng": 114.099187
+  },
+  {
+    "key": "TDS91002",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近油柑頭二號配水庫 - 東行 [TDS91002]",
+    "lat": 22.370916,
+    "lng": 114.093003
+  },
+  {
+    "key": "TDS91003",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近恒麗苑 - 東行 [TDS91003]",
+    "lat": 22.36974,
+    "lng": 114.089567
+  },
+  {
+    "key": "TDS91004",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 東行 (1) [TDS91004]",
+    "lat": 22.369494,
+    "lng": 114.086188
+  },
+  {
+    "key": "TDS91005",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 東行 (2) [TDS91005]",
+    "lat": 22.370928,
+    "lng": 114.082206
+  },
+  {
+    "key": "TDS91006",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 東行 (3) [TDS91006]",
+    "lat": 22.371422,
+    "lng": 114.077225
+  },
+  {
+    "key": "TDS91007",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 東行 (4) [TDS91007]",
+    "lat": 22.3702,
+    "lng": 114.073274
+  },
+  {
+    "key": "TDS91008",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近汀九 - 東行 (5) [TDS91008]",
+    "lat": 22.366686,
+    "lng": 114.071063
+  },
+  {
+    "key": "TDS91009",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (1) [TDS91009]",
+    "lat": 22.366529,
+    "lng": 114.065888
+  },
+  {
+    "key": "TDS91010",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (2) [TDS91010]",
+    "lat": 22.36855,
+    "lng": 114.063304
+  },
+  {
+    "key": "TDS91011",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (3) [TDS91011]",
+    "lat": 22.368357,
+    "lng": 114.059411
+  },
+  {
+    "key": "TDS91012",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (4) [TDS91012]",
+    "lat": 22.366909,
+    "lng": 114.054625
+  },
+  {
+    "key": "TDS91013",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (5) [TDS91013]",
+    "lat": 22.365678,
+    "lng": 114.0515
+  },
+  {
+    "key": "TDS91014",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近深井 - 東行 (6) [TDS91014]",
+    "lat": 22.36572,
+    "lng": 114.046878
+  },
+  {
+    "key": "TDS91015",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近豪景花園 - 東行 (1) [TDS91015]",
+    "lat": 22.364832,
+    "lng": 114.042937
+  },
+  {
+    "key": "TDS91016",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近豪景花園 - 東行 (2) [TDS91016]",
+    "lat": 22.360862,
+    "lng": 114.037009
+  },
+  {
+    "key": "TDS91017",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路近嘉龍村 - 東行 (1) [TDS91017]",
+    "lat": 22.357698,
+    "lng": 114.032468
+  },
+  {
+    "key": "TDS91018",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近嘉龍村 - 東行 (2) [TDS91018]",
+    "lat": 22.356203,
+    "lng": 114.027839
+  },
+  {
+    "key": "TDS91019",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近大欖 - 東行 [TDS91019]",
+    "lat": 22.357038,
+    "lng": 114.021867
+  },
+  {
+    "key": "TDS91020",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近屯門公路巴士轉乘站 - 東行 (1) [TDS91020]",
+    "lat": 22.3594,
+    "lng": 114.018205
+  },
+  {
+    "key": "TDS91021",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近屯門公路巴士轉乘站 - 東行 (2) [TDS91021]",
+    "lat": 22.363099,
+    "lng": 114.015045
+  },
+  {
+    "key": "TDS91022",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近懲教署已婚職員宿舍 - 東行 [TDS91022]",
+    "lat": 22.365292,
+    "lng": 114.01344
+  },
+  {
+    "key": "TDS91023",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近冠發街 - 東行 [TDS91023]",
+    "lat": 22.366885,
+    "lng": 114.008302
+  },
+  {
+    "key": "TDS91024",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近愛琴灣 - 東行 [TDS91024]",
+    "lat": 22.367196,
+    "lng": 114.003554
+  },
+  {
+    "key": "TDS91025",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近小秀村 - 東行 [TDS91025]",
+    "lat": 22.36992,
+    "lng": 113.999939
+  },
+  {
+    "key": "TDS91026",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近掃管笏路 - 東行 [TDS91026]",
+    "lat": 22.37389,
+    "lng": 113.997419
+  },
+  {
+    "key": "TDS91027",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近哈羅香港國際學校 - 東行 (1) [TDS91027]",
+    "lat": 22.375737,
+    "lng": 113.992911
+  },
+  {
+    "key": "TDS91028",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近哈羅香港國際學校 - 東行 (2) [TDS91028]",
+    "lat": 22.375047,
+    "lng": 113.9903
+  },
+  {
+    "key": "TDS91029",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青山灣入境事務中心 - 東行 [TDS91029]",
+    "lat": 22.377373,
+    "lng": 113.986666
+  },
+  {
+    "key": "TDS91030",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青山灣泳灘 - 東行 [TDS91030]",
+    "lat": 22.38163,
+    "lng": 113.982009
+  },
+  {
+    "key": "TDS91031",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近屯門兆麟政府綜合大樓 - 南行 [TDS91031]",
+    "lat": 22.383831,
+    "lng": 113.980073
+  },
+  {
+    "key": "TDS91032",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近置樂花園 - 南行 [TDS91032]",
+    "lat": 22.386232,
+    "lng": 113.979147
+  },
+  {
+    "key": "TDS91035",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近新墟遊樂場 - 南行 [TDS91035]",
+    "lat": 22.400443,
+    "lng": 113.977156
+  },
+  {
+    "key": "TDS91037",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近輕鐵鳳地站 - 南行 [TDS91037]",
+    "lat": 22.406983,
+    "lng": 113.978341
+  },
+  {
+    "key": "TDS91038",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近港鐵兆康站 - 南行 [TDS91038]",
+    "lat": 22.412466,
+    "lng": 113.979878
+  },
+  {
+    "key": "TDS91040",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 西行 (1) [TDS91040]",
+    "lat": 22.416416,
+    "lng": 113.990167
+  },
+  {
+    "key": "TDS91041",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 西行 (2) [TDS91041]",
+    "lat": 22.419516,
+    "lng": 113.992854
+  },
+  {
+    "key": "TDS91042",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "元朗公路近港深西部公路 - 西行 (3) [TDS91042]",
+    "lat": 22.422742,
+    "lng": 113.994695
+  },
+  {
+    "key": "TDS91043",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近水庫路 - 西行 [TDS91043]",
+    "lat": 22.426767,
+    "lng": 114.000061
+  },
+  {
+    "key": "TDS91044",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近洪天路 - 西行 (1) [TDS91044]",
+    "lat": 22.431176,
+    "lng": 114.002251
+  },
+  {
+    "key": "TDS91045",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近洪天路 - 西行 (2) [TDS91045]",
+    "lat": 22.435125,
+    "lng": 114.004403
+  },
+  {
+    "key": "TDS91046",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近唐人新村路 - 西行 [TDS91046]",
+    "lat": 22.437062,
+    "lng": 114.008655
+  },
+  {
+    "key": "TDS91047",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近唐人新村交匯處 - 西行 [TDS91047]",
+    "lat": 22.437942,
+    "lng": 114.013365
+  },
+  {
+    "key": "TDS91048",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近欖口村 - 西行 [TDS91048]",
+    "lat": 22.436574,
+    "lng": 114.017884
+  },
+  {
+    "key": "TDS91049",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近公庵路 - 西行 [TDS91049]",
+    "lat": 22.435278,
+    "lng": 114.02247
+  },
+  {
+    "key": "TDS91050",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近深涌村 - 西行 [TDS91050]",
+    "lat": 22.434389,
+    "lng": 114.027591
+  },
+  {
+    "key": "TDS91051",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近十八鄉交匯處 - 西行 (1) [TDS91051]",
+    "lat": 22.434177,
+    "lng": 114.032176
+  },
+  {
+    "key": "TDS91052",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近十八鄉交匯處 - 西行 (2) [TDS91052]",
+    "lat": 22.437929,
+    "lng": 114.03767
+  },
+  {
+    "key": "TDS91053",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近博愛交匯處 - 西行 (1) [TDS91053]",
+    "lat": 22.441859,
+    "lng": 114.039405
+  },
+  {
+    "key": "TDS91054",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近博愛交匯處 - 西行 (2) [TDS91054]",
+    "lat": 22.445986,
+    "lng": 114.039741
+  },
+  {
+    "key": "TDS91055",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近朗暉路 - 西行 [TDS91055]",
+    "lat": 22.448779,
+    "lng": 114.042798
+  },
+  {
+    "key": "TDS91056",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近青朗公路 - 西行 (1) [TDS91056]",
+    "lat": 22.448719,
+    "lng": 114.046568
+  },
+  {
+    "key": "TDS91057",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "元朗公路近青朗公路 - 西行 (2) [TDS91057]",
+    "lat": 22.452116,
+    "lng": 114.049198
+  },
+  {
+    "key": "TDS91058",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近沙埔村 - 南行 [TDS91058]",
+    "lat": 22.455396,
+    "lng": 114.050924
+  },
+  {
+    "key": "TDS91059",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近模範鄉 - 南行 [TDS91059]",
+    "lat": 22.459723,
+    "lng": 114.052581
+  },
+  {
+    "key": "TDS91060",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近壆圍 - 南行 [TDS91060]",
+    "lat": 22.463868,
+    "lng": 114.053578
+  },
+  {
+    "key": "TDS91061",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近錦壆路東 - 南行 [TDS91061]",
+    "lat": 22.467996,
+    "lng": 114.054585
+  },
+  {
+    "key": "TDS91062",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近錦綉花園大道 - 南行 [TDS91062]",
+    "lat": 22.473226,
+    "lng": 114.055922
+  },
+  {
+    "key": "TDS91063",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近真善路 - 南行 [TDS91063]",
+    "lat": 22.47739,
+    "lng": 114.057648
+  },
+  {
+    "key": "TDS91064",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近洋葵徑 - 南行 [TDS91064]",
+    "lat": 22.481292,
+    "lng": 114.058305
+  },
+  {
+    "key": "TDS91065",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近加州花園大道 - 南行 [TDS91065]",
+    "lat": 22.485373,
+    "lng": 114.058554
+  },
+  {
+    "key": "TDS91066",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近米埔新村 - 南行 [TDS91066]",
+    "lat": 22.489809,
+    "lng": 114.0603
+  },
+  {
+    "key": "TDS91067",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近新田足球場 - 南行 [TDS91067]",
+    "lat": 22.492385,
+    "lng": 114.064243
+  },
+  {
+    "key": "TDS91068",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近米埔隴 - 南行 [TDS91068]",
+    "lat": 22.493933,
+    "lng": 114.069907
+  },
+  {
+    "key": "TDS91069",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近青龍村 - 南行 [TDS91069]",
+    "lat": 22.495372,
+    "lng": 114.075183
+  },
+  {
+    "key": "TDS91070",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近文天祥公園 - 南行 [TDS91070]",
+    "lat": 22.497198,
+    "lng": 114.078253
+  },
+  {
+    "key": "TDS91071",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "新田公路近新田交匯處 - 南行 [TDS91071]",
+    "lat": 22.500532,
+    "lng": 114.080768
+  },
+  {
+    "key": "TDS91072",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "粉嶺公路近洲頭村 - 西行 (1) [TDS91072]",
+    "lat": 22.502701,
+    "lng": 114.083575
+  },
+  {
+    "key": "TDS91073",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "粉嶺公路近洲頭村 - 西行 (2) [TDS91073]",
+    "lat": 22.504203,
+    "lng": 114.088647
+  },
+  {
+    "key": "TDS91074",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 西行 (1) [TDS91074]",
+    "lat": 22.50389,
+    "lng": 114.094624
+  },
+  {
+    "key": "TDS91075",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 西行 (2) [TDS91075]",
+    "lat": 22.50354,
+    "lng": 114.099183
+  },
+  {
+    "key": "TDS91076",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 西行 (3) [TDS91076]",
+    "lat": 22.503091,
+    "lng": 114.105179
+  },
+  {
+    "key": "TDS91077",
+    "region": "新界",
+    "district": "北區",
+    "description": "粉嶺公路近古洞 - 西行 (4) [TDS91077]",
+    "lat": 22.502633,
+    "lng": 114.110583
+  },
+  {
+    "key": "TDSAPR10001",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海傍道近香港仔魚類批發市場 - 東行 [TDSAPR10001]",
+    "lat": 22.248634,
+    "lng": 114.149711
+  },
+  {
+    "key": "TDSAPR20001",
+    "region": "香港島",
+    "district": "南區",
+    "description": "香港仔海傍道近香港仔魚類批發市場 - 西行 [TDSAPR20001]",
+    "lat": 22.248408,
+    "lng": 114.149391
+  },
+  {
+    "key": "TDSCPRHSK10001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路藍地段近藍地寵物公園 - 北行 [TDSCPRHSK10001]",
+    "lat": 22.422425,
+    "lng": 113.985507
+  },
+  {
+    "key": "TDSCPRHSK10002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路洪水橋段近順達街 - 北行 [TDSCPRHSK10002]",
+    "lat": 22.427098,
+    "lng": 113.989891
+  },
+  {
+    "key": "TDSCPRHSK10003",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路洪水橋段近田廈路 - 北行 [TDSCPRHSK10003]",
+    "lat": 22.430679,
+    "lng": 113.993723
+  },
+  {
+    "key": "TDSCPRHSK10004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路洪水橋段近洪水橋輕鐵站 - 北行 [TDSCPRHSK10004]",
+    "lat": 22.434514,
+    "lng": 113.998954
+  },
+  {
+    "key": "TDSCPRHSK20001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路洪水橋段近順達街 - 南行 [TDSCPRHSK20001]",
+    "lat": 22.42577,
+    "lng": 113.98864
+  },
+  {
+    "key": "TDSCPRHSK20002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路洪水橋段近田廈路 - 南行 [TDSCPRHSK20002]",
+    "lat": 22.429603,
+    "lng": 113.992403
+  },
+  {
+    "key": "TDSCPRHSK20003",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路洪水橋段近洪水橋大街 - 南行 [TDSCPRHSK20003]",
+    "lat": 22.432343,
+    "lng": 113.995926
+  },
+  {
+    "key": "TDSCPRKC10001",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青山公路葵涌段近城門道 - 東行 [TDSCPRKC10001]",
+    "lat": 22.370287,
+    "lng": 114.122181
+  },
+  {
+    "key": "TDSCPRKC10002",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青山公路葵涌段近國瑞路公園 - 東行 [TDSCPRKC10002]",
+    "lat": 22.370858,
+    "lng": 114.128472
+  },
+  {
+    "key": "TDSCPRKC10003",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路葵涌段近業成街遊樂場 - 南行 [TDSCPRKC10003]",
+    "lat": 22.360123,
+    "lng": 114.135369
+  },
+  {
+    "key": "TDSCPRKC10004",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路葵涌段近大窩交匯處 - 南行 [TDSCPRKC10004]",
+    "lat": 22.352979,
+    "lng": 114.132993
+  },
+  {
+    "key": "TDSCPRKC20001",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青山公路荃灣段近德士古道天橋 - 西行 [TDSCPRKC20001]",
+    "lat": 22.370323,
+    "lng": 114.122657
+  },
+  {
+    "key": "TDSCPRKC20002",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青山公路葵涌段近國瑞路公園 - 西行 (1) [TDSCPRKC20002]",
+    "lat": 22.370903,
+    "lng": 114.12887
+  },
+  {
+    "key": "TDSCPRKC20003",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "青山公路葵涌段近國瑞路公園 - 西行 (2) [TDSCPRKC20003]",
+    "lat": 22.370804,
+    "lng": 114.13056
+  },
+  {
+    "key": "TDSCPRKC20004",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路葵涌段近中葵涌公園 - 北行 (1) [TDSCPRKC20004]",
+    "lat": 22.359246,
+    "lng": 114.134535
+  },
+  {
+    "key": "TDSCPRKC20005",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路葵涌段近中葵涌公園 - 北行 (2) [TDSCPRKC20005]",
+    "lat": 22.355056,
+    "lng": 114.133283
+  },
+  {
+    "key": "TDSCPRLT10001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路藍地段近藍地交匯處 - 北行 [TDSCPRLT10001]",
+    "lat": 22.417155,
+    "lng": 113.9816
+  },
+  {
+    "key": "TDSCPRLT10002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路藍地段近妙法寺 - 北行 [TDSCPRLT10002]",
+    "lat": 22.420155,
+    "lng": 113.983373
+  },
+  {
+    "key": "TDSCPRLT20001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路藍地段近藍地大街 - 南行 [TDSCPRLT20001]",
+    "lat": 22.419053,
+    "lng": 113.982646
+  },
+  {
+    "key": "TDSCPRLT20002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青山公路藍地段近福亨遊樂場 - 南行 [TDSCPRLT20002]",
+    "lat": 22.420463,
+    "lng": 113.983664
+  },
+  {
+    "key": "TDSCPRPS10001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近洪天路 - 東行 [TDSCPRPS10001]",
+    "lat": 22.435852,
+    "lng": 114.000817
+  },
+  {
+    "key": "TDSCPRPS10002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近灰沙圍 - 東行 [TDSCPRPS10002]",
+    "lat": 22.438801,
+    "lng": 114.005399
+  },
+  {
+    "key": "TDSCPRPS10003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近唐人新村遊樂場 - 東行 [TDSCPRPS10003]",
+    "lat": 22.441008,
+    "lng": 114.008922
+  },
+  {
+    "key": "TDSCPRPS10004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近屏山輕鐵站 - 東行 [TDSCPRPS10004]",
+    "lat": 22.442827,
+    "lng": 114.012349
+  },
+  {
+    "key": "TDSCPRPS20001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近洪天路 - 西行 [TDSCPRPS20001]",
+    "lat": 22.436739,
+    "lng": 114.002127
+  },
+  {
+    "key": "TDSCPRPS20002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近灰沙圍 - 西行 [TDSCPRPS20002]",
+    "lat": 22.439045,
+    "lng": 114.005797
+  },
+  {
+    "key": "TDSCPRPS20003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近唐人新村遊樂場 - 西行 [TDSCPRPS20003]",
+    "lat": 22.441289,
+    "lng": 114.009398
+  },
+  {
+    "key": "TDSCPRPS20004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路屏山段近朗天路 - 西行 [TDSCPRPS20004]",
+    "lat": 22.443806,
+    "lng": 114.016156
+  },
+  {
+    "key": "TDSIEC10001",
+    "region": "香港島",
+    "district": "中西區",
+    "description": "夏愨道近添美道 - 東行 [TDSIEC10001]",
+    "lat": 22.280405,
+    "lng": 114.164309
+  },
+  {
+    "key": "TDSIEC10002",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "夏愨道近香港演藝學院 - 東行 [TDSIEC10002]",
+    "lat": 22.279611,
+    "lng": 114.168947
+  },
+  {
+    "key": "TDSIEC10003",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近告士打道花園 - 東行 [TDSIEC10003]",
+    "lat": 22.279259,
+    "lng": 114.172518
+  },
+  {
+    "key": "TDSIEC10004",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近史釗域道 - 東行 [TDSIEC10004]",
+    "lat": 22.27972,
+    "lng": 114.176719
+  },
+  {
+    "key": "TDSIEC20001",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近菲林明道 - 西行 [TDSIEC20001]",
+    "lat": 22.279431,
+    "lng": 114.174303
+  },
+  {
+    "key": "TDSIEC20002",
+    "region": "香港島",
+    "district": "灣仔區",
+    "description": "告士打道近灣仔運動場 - 西行 [TDSIEC20002]",
+    "lat": 22.280153,
+    "lng": 114.178262
+  },
+  {
+    "key": "TDSJCR10001",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近粉嶺官立小學 - 南行 [TDSJCR10001]",
+    "lat": 22.493739,
+    "lng": 114.142978
+  },
+  {
+    "key": "TDSJCR10002",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近粉嶺公路 - 南行 [TDSJCR10002]",
+    "lat": 22.489685,
+    "lng": 114.146195
+  },
+  {
+    "key": "TDSJCR20001",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近粉嶺官立小學 - 北行 [TDSJCR20001]",
+    "lat": 22.493514,
+    "lng": 114.143347
+  },
+  {
+    "key": "TDSJCR20002",
+    "region": "新界",
+    "district": "北區",
+    "description": "馬會道近粉嶺公路 - 北行 [TDSJCR20002]",
+    "lat": 22.488629,
+    "lng": 114.146322
+  },
+  {
+    "key": "TDSLFR10001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "龍富路近皇珠路 - 東行 [TDSLFR10001]",
+    "lat": 22.386969,
+    "lng": 113.969018
+  },
+  {
+    "key": "TDSLFR10002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "皇珠路近海皇路 - 東行 [TDSLFR10002]",
+    "lat": 22.386023,
+    "lng": 113.971214
+  },
+  {
+    "key": "TDSLFR10003",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "皇珠路近屯門鄉事會路 - 東行 [TDSLFR10003]",
+    "lat": 22.385613,
+    "lng": 113.975177
+  },
+  {
+    "key": "TDSLFR20001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "皇珠路近海皇路 - 西行 [TDSLFR20001]",
+    "lat": 22.38632,
+    "lng": 113.970398
+  },
+  {
+    "key": "TDSLFR20002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "皇珠路近屯門鄉事會路 - 西行 [TDSLFR20002]",
+    "lat": 22.38564,
+    "lng": 113.975526
+  },
+  {
+    "key": "TDSLTR10001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近天福路 - 南行 [TDSLTR10001]",
+    "lat": 22.451023,
+    "lng": 114.009172
+  },
+  {
+    "key": "TDSLTR10002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近庸園路 - 南行 [TDSLTR10002]",
+    "lat": 22.447288,
+    "lng": 114.012723
+  },
+  {
+    "key": "TDSLTR10003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近水邊圍交匯處 - 南行 [TDSLTR10003]",
+    "lat": 22.444583,
+    "lng": 114.01666
+  },
+  {
+    "key": "TDSLTR10004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近唐人新村交匯處 - 南行 [TDSLTR10004]",
+    "lat": 22.44154,
+    "lng": 114.016382
+  },
+  {
+    "key": "TDSLTR20001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近天福路 - 北行 [TDSLTR20001]",
+    "lat": 22.450265,
+    "lng": 114.009455
+  },
+  {
+    "key": "TDSLTR20002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近庸園路 - 北行 [TDSLTR20002]",
+    "lat": 22.447901,
+    "lng": 114.011615
+  },
+  {
+    "key": "TDSLTR20003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近水邊圍交匯處 - 北行 [TDSLTR20003]",
+    "lat": 22.445053,
+    "lng": 114.016611
+  },
+  {
+    "key": "TDSLTR20004",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近唐人新村交匯處 - 北行 [TDSLTR20004]",
+    "lat": 22.441097,
+    "lng": 114.016266
+  },
+  {
+    "key": "TDSMOSB10001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近恆輝街公園 - 東行 [TDSMOSB10001]",
+    "lat": 22.414727,
+    "lng": 114.229138
+  },
+  {
+    "key": "TDSMOSB10002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近馬鞍山消防局 - 東行 [TDSMOSB10002]",
+    "lat": 22.418654,
+    "lng": 114.234219
+  },
+  {
+    "key": "TDSMOSB10003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近馬鞍山配水庫 - 東行 [TDSMOSB10003]",
+    "lat": 22.42268,
+    "lng": 114.238728
+  },
+  {
+    "key": "TDSMOSB10004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近利安邨 - 東行 [TDSMOSB10004]",
+    "lat": 22.425107,
+    "lng": 114.242769
+  },
+  {
+    "key": "TDSMOSB10005",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近樟木頭 - 東行 [TDSMOSB10005]",
+    "lat": 22.428754,
+    "lng": 114.246851
+  },
+  {
+    "key": "TDSMOSB20001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近恆輝街公園 - 西行 [TDSMOSB20001]",
+    "lat": 22.414601,
+    "lng": 114.229342
+  },
+  {
+    "key": "TDSMOSB20002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近馬鞍山消防局 - 西行 [TDSMOSB20002]",
+    "lat": 22.417408,
+    "lng": 114.232859
+  },
+  {
+    "key": "TDSMOSB20003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近馬鞍山配水庫 - 西行 [TDSMOSB20003]",
+    "lat": 22.420784,
+    "lng": 114.236483
+  },
+  {
+    "key": "TDSMOSB20004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近利安邨 - 西行 [TDSMOSB20004]",
+    "lat": 22.424105,
+    "lng": 114.241904
+  },
+  {
+    "key": "TDSMOSB20005",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近烏溪沙港鐵站 - 西行 [TDSMOSB20005]",
+    "lat": 22.427851,
+    "lng": 114.245597
+  },
+  {
+    "key": "TDSMOSB20006",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山繞道近樟木頭 - 西行 [TDSMOSB20006]",
+    "lat": 22.42925,
+    "lng": 114.2486
+  },
+  {
+    "key": "TDSMOSR10001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山路近亞公角漁民新村 - 北行 [TDSMOSR10001]",
+    "lat": 22.404273,
+    "lng": 114.218441
+  },
+  {
+    "key": "TDSMOSR10002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山路近大水坑港鐵站 - 北行 [TDSMOSR10002]",
+    "lat": 22.408191,
+    "lng": 114.222317
+  },
+  {
+    "key": "TDSMOSR10003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山路近恆泰路 - 北行 [TDSMOSR10003]",
+    "lat": 22.412814,
+    "lng": 114.225689
+  },
+  {
+    "key": "TDSMOSR20001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山路近大水坑港鐵站 - 南行 [TDSMOSR20001]",
+    "lat": 22.40866,
+    "lng": 114.223182
+  },
+  {
+    "key": "TDSMOSR20002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "馬鞍山路近恆泰路 - 南行 [TDSMOSR20002]",
+    "lat": 22.413103,
+    "lng": 114.226117
+  },
+  {
+    "key": "TDSNCWBR10001",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近聖若瑟英文中學 - 東行 [TDSNCWBR10001]",
+    "lat": 22.333085,
+    "lng": 114.218566
+  },
+  {
+    "key": "TDSNCWBR10002",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近順利紀律部隊宿舍 - 東行 (1) [TDSNCWBR10002]",
+    "lat": 22.331956,
+    "lng": 114.220749
+  },
+  {
+    "key": "TDSNCWBR10003",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近順利紀律部隊宿舍 - 東行 (2) [TDSNCWBR10003]",
+    "lat": 22.332976,
+    "lng": 114.222099
+  },
+  {
+    "key": "TDSNCWBR10004",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近新清水灣道休憩處 - 東行 [TDSNCWBR10004]",
+    "lat": 22.33414,
+    "lng": 114.223526
+  },
+  {
+    "key": "TDSNCWBR20001",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近順利紀律部隊宿舍 - 西行 (1) [TDSNCWBR20001]",
+    "lat": 22.331721,
+    "lng": 114.220769
+  },
+  {
+    "key": "TDSNCWBR20002",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近順利紀律部隊宿舍 - 西行 (2) [TDSNCWBR20002]",
+    "lat": 22.333039,
+    "lng": 114.221798
+  },
+  {
+    "key": "TDSNCWBR20003",
+    "region": "九龍",
+    "district": "觀塘區",
+    "description": "新清水灣道近新清水灣道休憩處 - 西行 [TDSNCWBR20003]",
+    "lat": 22.334104,
+    "lng": 114.224177
+  },
+  {
+    "key": "TDSNCWBR20004",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "新清水灣道近安秀道 - 西行 [TDSNCWBR20004]",
+    "lat": 22.334554,
+    "lng": 114.230535
+  },
+  {
+    "key": "TDSPBH10001",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "竹篙灣公路近北大嶼山公路 - 南行 [TDSPBH10001]",
+    "lat": 22.329947,
+    "lng": 114.032526
+  },
+  {
+    "key": "TDSPBH10002",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "竹篙灣公路近迪欣湖活動中心 - 南行 [TDSPBH10002]",
+    "lat": 22.325498,
+    "lng": 114.035744
+  },
+  {
+    "key": "TDSPBH20001",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "竹篙灣公路近北大嶼山公路 - 北行 [TDSPBH20001]",
+    "lat": 22.328232,
+    "lng": 114.033256
+  },
+  {
+    "key": "TDSPBH20002",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "竹篙灣公路近迪欣湖活動中心 - 北行 [TDSPBH20002]",
+    "lat": 22.324803,
+    "lng": 114.036676
+  },
+  {
+    "key": "TDSPERE10001",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "太子道東近打鼓嶺道 - 北行 [TDSPERE10001]",
+    "lat": 22.327951,
+    "lng": 114.191454
+  },
+  {
+    "key": "TDSPERE10002",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "太子道東近李求恩紀念中學 - 北行 [TDSPERE10002]",
+    "lat": 22.331464,
+    "lng": 114.195249
+  },
+  {
+    "key": "TDSPERE20001",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "太子道東近富豪東方酒店 - 南行 [TDSPERE20001]",
+    "lat": 22.329152,
+    "lng": 114.192784
+  },
+  {
+    "key": "TDSPERE20002",
+    "region": "九龍",
+    "district": "九龍城區",
+    "description": "太子道東近李求恩紀念中學 - 南行 [TDSPERE20002]",
+    "lat": 22.331274,
+    "lng": 114.195036
+  },
+  {
+    "key": "TDSSPWR10001",
+    "region": "香港島",
+    "district": "南區",
+    "description": "薄扶林道近聖保羅書院小學 - 東行 [TDSSPWR10001]",
+    "lat": 22.25479,
+    "lng": 114.138321
+  },
+  {
+    "key": "TDSSPWR10002",
+    "region": "香港島",
+    "district": "南區",
+    "description": "石排灣道近華貴邨 - 東行 [TDSSPWR10002]",
+    "lat": 22.250474,
+    "lng": 114.141242
+  },
+  {
+    "key": "TDSSPWR10003",
+    "region": "香港島",
+    "district": "南區",
+    "description": "石排灣道近石排灣道遊樂場 - 東行 [TDSSPWR10003]",
+    "lat": 22.249392,
+    "lng": 114.145035
+  },
+  {
+    "key": "TDSSPWR20001",
+    "region": "香港島",
+    "district": "南區",
+    "description": "石排灣道近華富道 - 西行 [TDSSPWR20001]",
+    "lat": 22.252362,
+    "lng": 114.140456
+  },
+  {
+    "key": "TDSSPWR20002",
+    "region": "香港島",
+    "district": "南區",
+    "description": "石排灣道近華貴邨 - 西行 [TDSSPWR20002]",
+    "lat": 22.249933,
+    "lng": 114.141475
+  },
+  {
+    "key": "TDSSPWR20003",
+    "region": "香港島",
+    "district": "南區",
+    "description": "石排灣道近石排灣道遊樂場 - 西行 [TDSSPWR20003]",
+    "lat": 22.249238,
+    "lng": 114.145055
+  },
+  {
+    "key": "TDSTCKR10001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近城門河第一海濱花園 - 北行 [TDSTCKR10001]",
+    "lat": 22.37696,
+    "lng": 114.190488
+  },
+  {
+    "key": "TDSTCKR10002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近沙田圍路 - 北行 [TDSTCKR10002]",
+    "lat": 22.381277,
+    "lng": 114.194654
+  },
+  {
+    "key": "TDSTCKR10003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近崗背街休憩花園 - 北行 [TDSTCKR10003]",
+    "lat": 22.382658,
+    "lng": 114.196004
+  },
+  {
+    "key": "TDSTCKR10004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近沙田路 - 北行 [TDSTCKR10004]",
+    "lat": 22.387922,
+    "lng": 114.200889
+  },
+  {
+    "key": "TDSTCKR20001",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近沙田圍路 - 南行 [TDSTCKR20001]",
+    "lat": 22.380455,
+    "lng": 114.193906
+  },
+  {
+    "key": "TDSTCKR20002",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近崗背街休憩花園 - 南行 [TDSTCKR20002]",
+    "lat": 22.382387,
+    "lng": 114.195722
+  },
+  {
+    "key": "TDSTCKR20003",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近沙田路 - 南行 [TDSTCKR20003]",
+    "lat": 22.386595,
+    "lng": 114.199976
+  },
+  {
+    "key": "TDSTCKR20004",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大涌橋路近城門河第二海濱花園 - 南行 [TDSTCKR20004]",
+    "lat": 22.388274,
+    "lng": 114.201617
+  },
+  {
+    "key": "TDSTKR10001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近雅景花園 - 東行 [TDSTKR10001]",
+    "lat": 22.459516,
+    "lng": 114.198744
+  },
+  {
+    "key": "TDSTKR10002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近珀麗高爾夫球會高爾夫練習場 - 東行 [TDSTKR10002]",
+    "lat": 22.460772,
+    "lng": 114.19481
+  },
+  {
+    "key": "TDSTKR10003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近大貴街 - 東行 [TDSTKR10003]",
+    "lat": 22.462217,
+    "lng": 114.18933
+  },
+  {
+    "key": "TDSTKR10004",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近汀慶路 - 東行 [TDSTKR10004]",
+    "lat": 22.462217,
+    "lng": 114.186153
+  },
+  {
+    "key": "TDSTKR10005",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近大富街變電站 - 東行 [TDSTKR10005]",
+    "lat": 22.459815,
+    "lng": 114.183287
+  },
+  {
+    "key": "TDSTKR10006",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近鳳園路 - 東行 [TDSTKR10006]",
+    "lat": 22.459111,
+    "lng": 114.180119
+  },
+  {
+    "key": "TDSTKR10007",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近魚角村休憩處 - 東行 [TDSTKR10007]",
+    "lat": 22.45726,
+    "lng": 114.177545
+  },
+  {
+    "key": "TDSTKR10008",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近頌雅路 - 東行 [TDSTKR10008]",
+    "lat": 22.456005,
+    "lng": 114.171405
+  },
+  {
+    "key": "TDSTKR20001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近三門仔路 - 西行 [TDSTKR20001]",
+    "lat": 22.460139,
+    "lng": 114.203
+  },
+  {
+    "key": "TDSTKR20002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近雅景花園 - 西行 [TDSTKR20002]",
+    "lat": 22.459697,
+    "lng": 114.197112
+  },
+  {
+    "key": "TDSTKR20003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近露輝路 - 西行 [TDSTKR20003]",
+    "lat": 22.461567,
+    "lng": 114.191963
+  },
+  {
+    "key": "TDSTKR20004",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近汀慶路 - 西行 [TDSTKR20004]",
+    "lat": 22.462217,
+    "lng": 114.187134
+  },
+  {
+    "key": "TDSTKR20005",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近大富街變電站 - 西行 [TDSTKR20005]",
+    "lat": 22.460791,
+    "lng": 114.184054
+  },
+  {
+    "key": "TDSTKR20006",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近大發街 - 西行 [TDSTKR20006]",
+    "lat": 22.459093,
+    "lng": 114.18077
+  },
+  {
+    "key": "TDSTKR20007",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近魚角 - 西行 [TDSTKR20007]",
+    "lat": 22.458019,
+    "lng": 114.177661
+  },
+  {
+    "key": "TDSTKR20008",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近大福街 - 西行 [TDSTKR20008]",
+    "lat": 22.456646,
+    "lng": 114.176952
+  },
+  {
+    "key": "TDSTKR20009",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "汀角路近安埔路 - 西行 [TDSTKR20009]",
+    "lat": 22.455689,
+    "lng": 114.174348
+  },
+  {
+    "key": "TDSTPR10001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路元洲仔段近廣宏街 - 南行 [TDSTPR10001]",
+    "lat": 22.446198,
+    "lng": 114.174591
+  },
+  {
+    "key": "TDSTPR10002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔滘食水抽水站 - 南行 [TDSTPR10002]",
+    "lat": 22.442107,
+    "lng": 114.179478
+  },
+  {
+    "key": "TDSTPR10003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近逸遙路 - 南行 [TDSTPR10003]",
+    "lat": 22.437465,
+    "lng": 114.182596
+  },
+  {
+    "key": "TDSTPR10004",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近荔枝坑 - 南行 [TDSTPR10004]",
+    "lat": 22.433835,
+    "lng": 114.184733
+  },
+  {
+    "key": "TDSTPR10005",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔滘花園 - 南行 [TDSTPR10005]",
+    "lat": 22.432706,
+    "lng": 114.18618
+  },
+  {
+    "key": "TDSTPR10006",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔滘公園 - 南行 [TDSTPR10006]",
+    "lat": 22.432715,
+    "lng": 114.190406
+  },
+  {
+    "key": "TDSTPR10007",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近香港日本人學校大埔校 - 南行 [TDSTPR10007]",
+    "lat": 22.431567,
+    "lng": 114.194291
+  },
+  {
+    "key": "TDSTPR10008",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近保良局田家炳千禧小學 - 南行 [TDSTPR10008]",
+    "lat": 22.42931,
+    "lng": 114.19635
+  },
+  {
+    "key": "TDSTPR10009",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近樟樹灘路 - 南行 [TDSTPR10009]",
+    "lat": 22.425101,
+    "lng": 114.196602
+  },
+  {
+    "key": "TDSTPR10010",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近觀海崇庭 - 南行 [TDSTPR10010]",
+    "lat": 22.42241,
+    "lng": 114.196543
+  },
+  {
+    "key": "TDSTPR10011",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近大埔尾 - 南行 [TDSTPR10011]",
+    "lat": 22.419638,
+    "lng": 114.197806
+  },
+  {
+    "key": "TDSTPR10012",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近赤泥坪 - 南行 [TDSTPR10012]",
+    "lat": 22.419484,
+    "lng": 114.200321
+  },
+  {
+    "key": "TDSTPR10013",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近大學道 - 南行 [TDSTPR10013]",
+    "lat": 22.417704,
+    "lng": 114.203487
+  },
+  {
+    "key": "TDSTPR10014",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近雍雅山 - 南行 [TDSTPR10014]",
+    "lat": 22.415401,
+    "lng": 114.205896
+  },
+  {
+    "key": "TDSTPR10015",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近香港凱悅酒店 - 南行 [TDSTPR10015]",
+    "lat": 22.409621,
+    "lng": 114.210809
+  },
+  {
+    "key": "TDSTPR10016",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近九肚山路 - 南行 [TDSTPR10016]",
+    "lat": 22.405874,
+    "lng": 114.207904
+  },
+  {
+    "key": "TDSTPR20001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔滘食水抽水站 - 北行 [TDSTPR20001]",
+    "lat": 22.442414,
+    "lng": 114.178963
+  },
+  {
+    "key": "TDSTPR20002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近燕子里 - 北行 [TDSTPR20002]",
+    "lat": 22.439894,
+    "lng": 114.182441
+  },
+  {
+    "key": "TDSTPR20003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近荔枝坑 - 北行 [TDSTPR20003]",
+    "lat": 22.435921,
+    "lng": 114.183567
+  },
+  {
+    "key": "TDSTPR20004",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔滘公園 - 北行 [TDSTPR20004]",
+    "lat": 22.432606,
+    "lng": 114.190163
+  },
+  {
+    "key": "TDSTPR20005",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近香港日本人學校大埔校 - 北行 [TDSTPR20005]",
+    "lat": 22.43173,
+    "lng": 114.194009
+  },
+  {
+    "key": "TDSTPR20006",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近保良局田家炳千禧小學 - 北行 [TDSTPR20006]",
+    "lat": 22.429671,
+    "lng": 114.196224
+  },
+  {
+    "key": "TDSTPR20007",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近樟樹灘路 - 北行 [TDSTPR20007]",
+    "lat": 22.42642,
+    "lng": 114.196369
+  },
+  {
+    "key": "TDSTPR20008",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近觀海崇庭 - 北行 [TDSTPR20008]",
+    "lat": 22.423232,
+    "lng": 114.196359
+  },
+  {
+    "key": "TDSTPR20009",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔公路大埔滘段近大埔尾 - 北行 [TDSTPR20009]",
+    "lat": 22.420071,
+    "lng": 114.196096
+  },
+  {
+    "key": "TDSTPR20010",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近赤泥坪 - 北行 [TDSTPR20010]",
+    "lat": 22.419376,
+    "lng": 114.198641
+  },
+  {
+    "key": "TDSTPR20011",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近大學道 - 北行 [TDSTPR20011]",
+    "lat": 22.417948,
+    "lng": 114.202652
+  },
+  {
+    "key": "TDSTPR20012",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近雍雅山 - 北行 [TDSTPR20012]",
+    "lat": 22.415681,
+    "lng": 114.205595
+  },
+  {
+    "key": "TDSTPR20013",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近大學港鐵站 - 北行 [TDSTPR20013]",
+    "lat": 22.412438,
+    "lng": 114.209421
+  },
+  {
+    "key": "TDSTPR20014",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "大埔公路馬料水段近沙田污水處理廠 - 北行 [TDSTPR20014]",
+    "lat": 22.406794,
+    "lng": 114.209827
+  },
+  {
+    "key": "TDSTPTWR10001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近大埔藝術中心 - 東行 [TDSTPTWR10001]",
+    "lat": 22.451101,
+    "lng": 114.167907
+  },
+  {
+    "key": "TDSTPTWR10002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近新界北總區警察總部 - 東行 [TDSTPTWR10002]",
+    "lat": 22.451101,
+    "lng": 114.172405
+  },
+  {
+    "key": "TDSTPTWR20001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近新界北總區警察總部 - 西行 [TDSTPTWR20001]",
+    "lat": 22.451074,
+    "lng": 114.17157
+  },
+  {
+    "key": "TDSTPTWR20002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近完善公園 - 西行 [TDSTPTWR20002]",
+    "lat": 22.451029,
+    "lng": 114.176418
+  },
+  {
+    "key": "TDSTTR10001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青田路近青田遊樂場 - 東行 [TDSTTR10001]",
+    "lat": 22.40522,
+    "lng": 113.969399
+  },
+  {
+    "key": "TDSTTR10002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青田路近屯門鄧肇堅運動場 - 東行 [TDSTTR10002]",
+    "lat": 22.405172,
+    "lng": 113.974129
+  },
+  {
+    "key": "TDSTTR10003",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青田路近屯門醫院 - 東行 [TDSTTR10003]",
+    "lat": 22.405788,
+    "lng": 113.975905
+  },
+  {
+    "key": "TDSTTR20001",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青田路近青田遊樂場 - 西行 [TDSTTR20001]",
+    "lat": 22.40532,
+    "lng": 113.969875
+  },
+  {
+    "key": "TDSTTR20002",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "青田路近屯門醫院 - 西行 [TDSTTR20002]",
+    "lat": 22.40577,
+    "lng": 113.976255
+  },
+  {
+    "key": "TDSTYR10001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近天華路 - 北行 [TDSTYR10001]",
+    "lat": 22.462357,
+    "lng": 113.99338
+  },
+  {
+    "key": "TDSTYR10002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近天秀路 - 北行 [TDSTYR10002]",
+    "lat": 22.468374,
+    "lng": 113.996073
+  },
+  {
+    "key": "TDSTYR10003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近天月路 - 北行 [TDSTYR10003]",
+    "lat": 22.470606,
+    "lng": 113.99713
+  },
+  {
+    "key": "TDSTYR20001",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近天秀路 - 南行 [TDSTYR20001]",
+    "lat": 22.466595,
+    "lng": 113.99525
+  },
+  {
+    "key": "TDSTYR20002",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近天月路 - 南行 [TDSTYR20002]",
+    "lat": 22.470968,
+    "lng": 113.997324
+  },
+  {
+    "key": "TDSTYR20003",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "天影路近流浮山消防局暨救護站 - 西行 [TDSTYR20003]",
+    "lat": 22.471596,
+    "lng": 114.001763
+  },
+  {
+    "key": "TDSYSR10001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近元洲仔公園 - 北行 [TDSYSR10001]",
+    "lat": 22.446478,
+    "lng": 114.176845
+  },
+  {
+    "key": "TDSYSR10002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近大埔太和路 - 北行 [TDSYSR10002]",
+    "lat": 22.451932,
+    "lng": 114.177273
+  },
+  {
+    "key": "TDSYSR10003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近大發街 - 北行 [TDSYSR10003]",
+    "lat": 22.454,
+    "lng": 114.177992
+  },
+  {
+    "key": "TDSYSR20001",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近大埔太和路 - 南行 [TDSYSR20001]",
+    "lat": 22.450388,
+    "lng": 114.177069
+  },
+  {
+    "key": "TDSYSR20002",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近大發街 - 南行 [TDSYSR20002]",
+    "lat": 22.452952,
+    "lng": 114.17772
+  },
+  {
+    "key": "TDSYSR20003",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近大福街 - 南行 [TDSYSR20003]",
+    "lat": 22.456104,
+    "lng": 114.177652
+  },
+  {
+    "key": "TH101F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "吐露港公路近馬料水交匯處 [TH101F]",
+    "lat": 22.41242,
+    "lng": 114.21251
+  },
+  {
+    "key": "TH110F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "吐露港公路近香港科學園 [TH110F]",
+    "lat": 22.438223,
+    "lng": 114.196818
+  },
+  {
+    "key": "TH114F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "吐露港公路近元洲仔交匯處 [TH114F]",
+    "lat": 22.444789,
+    "lng": 114.177642
+  },
+  {
+    "key": "TH701F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "吐露港公路近梅樹坑 [TH701F]",
+    "lat": 22.45417,
+    "lng": 114.15138
+  },
+  {
+    "key": "TH703F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "吐露港公路近馬窩 [TH703F]",
+    "lat": 22.440679,
+    "lng": 114.159272
+  },
+  {
+    "key": "TI101F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路近洪水橋 [TI101F]",
+    "lat": 22.43566,
+    "lng": 114.00056
+  },
+  {
+    "key": "TK101F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "寶琳北路近寶康路 [TK101F]",
+    "lat": 22.326048,
+    "lng": 114.251158
+  },
+  {
+    "key": "TK105F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "寶順路近將軍澳游泳池 [TK105F]",
+    "lat": 22.31746,
+    "lng": 114.26142
+  },
+  {
+    "key": "TK110F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "翠嶺路近寶順路 [TK110F]",
+    "lat": 22.30529,
+    "lng": 114.25469
+  },
+  {
+    "key": "TK701F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "跨灣大橋近日出康城 [TK701F]",
+    "lat": 22.29197,
+    "lng": 114.26573
+  },
+  {
+    "key": "TK702F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將藍公路近調景嶺 [TK702F]",
+    "lat": 22.29777,
+    "lng": 114.25578
+  },
+  {
+    "key": "TK904F",
+    "region": "新界",
+    "district": "西貢區",
+    "description": "將軍澳隧道將軍澳入口 [TK904F]",
+    "lat": 22.317348,
+    "lng": 114.257685
+  },
+  {
+    "key": "TL101F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青朗公路近高埔新村 [TL101F]",
+    "lat": 22.43755,
+    "lng": 114.05799
+  },
+  {
+    "key": "TL102F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "大欖隧道元朗入口 [TL102F]",
+    "lat": 22.410305,
+    "lng": 114.06058
+  },
+  {
+    "key": "TL103F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "大欖隧道汀九入口 [TL103F]",
+    "lat": 22.375425,
+    "lng": 114.06693
+  },
+  {
+    "key": "TM101F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "湖翠路近湖景路 [TM101F]",
+    "lat": 22.373409,
+    "lng": 113.965417
+  },
+  {
+    "key": "TM103F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "龍門路近屯門康樂體育中心 [TM103F]",
+    "lat": 22.383369,
+    "lng": 113.964392
+  },
+  {
+    "key": "TM118F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "杯渡路近屯門公園 [TM118F]",
+    "lat": 22.394056,
+    "lng": 113.974611
+  },
+  {
+    "key": "TP102F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "完善路近汀角路 [TP102F]",
+    "lat": 22.45689,
+    "lng": 114.177312
+  },
+  {
+    "key": "TP105F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近南運路 [TP105F]",
+    "lat": 22.451191,
+    "lng": 114.172114
+  },
+  {
+    "key": "TP112F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "大埔太和路近大埔公路-大窩 [TP112F]",
+    "lat": 22.452193,
+    "lng": 114.15861
+  },
+  {
+    "key": "TP113F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "粉嶺公路近康樂園路 [TP113F]",
+    "lat": 22.462649,
+    "lng": 114.148902
+  },
+  {
+    "key": "TP114F",
+    "region": "新界",
+    "district": "大埔區",
+    "description": "南運路近廣福道 [TP114F]",
+    "lat": 22.446604,
+    "lng": 114.171939
+  },
+  {
+    "key": "TR101F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路-柴灣角 [TR101F]",
+    "lat": 22.37383,
+    "lng": 114.10208
+  },
+  {
+    "key": "TR103F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路-油柑頭段 [TR103F]",
+    "lat": 22.370336,
+    "lng": 114.089974
+  },
+  {
+    "key": "TR105F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路-汀九段 [TR105F]",
+    "lat": 22.371295,
+    "lng": 114.077701
+  },
+  {
+    "key": "TR107F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路-深井段 [TR107F]",
+    "lat": 22.365592,
+    "lng": 114.069481
+  },
+  {
+    "key": "TR108F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路-深井交匯處 [TR108F]",
+    "lat": 22.369479,
+    "lng": 114.061954
+  },
+  {
+    "key": "TR111F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "屯門公路 -近青龍頭 [TR111F]",
+    "lat": 22.364867,
+    "lng": 114.041646
+  },
+  {
+    "key": "TR114F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路-大欖角段 [TR114F]",
+    "lat": 22.3582,
+    "lng": 114.01926
+  },
+  {
+    "key": "TR116F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路-小欖段 [TR116F]",
+    "lat": 22.367412,
+    "lng": 114.002117
+  },
+  {
+    "key": "TR119F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路-三聖墟 [TR119F]",
+    "lat": 22.383136,
+    "lng": 113.980181
+  },
+  {
+    "key": "TR704F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近青賢街 [TR704F]",
+    "lat": 22.398077,
+    "lng": 113.97646
+  },
+  {
+    "key": "TR706F",
+    "region": "新界",
+    "district": "屯門區",
+    "description": "屯門公路近港鐵兆康站 [TR706F]",
+    "lat": 22.411373,
+    "lng": 113.979326
+  },
+  {
+    "key": "TS101F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "南灣隧道西草灣入口 [TS101F]",
+    "lat": 22.343301,
+    "lng": 114.093864
+  },
+  {
+    "key": "TS102F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "南灣隧道昂船洲大橋入口 [TS102F]",
+    "lat": 22.334755,
+    "lng": 114.106654
+  },
+  {
+    "key": "TS104F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青沙公路近荔枝角 [TS104F]",
+    "lat": 22.342389,
+    "lng": 114.143723
+  },
+  {
+    "key": "TS105F",
+    "region": "新界",
+    "district": "沙田區",
+    "description": "沙田嶺隧道沙田入口 [TS105F]",
+    "lat": 22.367587,
+    "lng": 114.171486
+  },
+  {
+    "key": "TW102F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近貨櫃碼頭 [TW102F]",
+    "lat": 22.340916,
+    "lng": 114.132378
+  },
+  {
+    "key": "TW103F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "荃灣路近荃青交匯處 [TW103F]",
+    "lat": 22.36338,
+    "lng": 114.11713
+  },
+  {
+    "key": "TW105F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵青路近青衣大橋 [TW105F]",
+    "lat": 22.355243,
+    "lng": 114.123128
+  },
+  {
+    "key": "TW108F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "葵涌道近葵興港鐵站 [TW108F]",
+    "lat": 22.360808,
+    "lng": 114.131563
+  },
+  {
+    "key": "TW109F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路近和宜合道 [TW109F]",
+    "lat": 22.364891,
+    "lng": 114.135378
+  },
+  {
+    "key": "TW112F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "和宜合道近梨樹路 [TW112F]",
+    "lat": 22.372459,
+    "lng": 114.136298
+  },
+  {
+    "key": "TW116F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "德士古道天橋近沙咀道 [TW116F]",
+    "lat": 22.366982,
+    "lng": 114.121658
+  },
+  {
+    "key": "TW117F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青山公路近德士古道北 [TW117F]",
+    "lat": 22.370206,
+    "lng": 114.123463
+  },
+  {
+    "key": "TW120F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "荃灣路近大涌道 [TW120F]",
+    "lat": 22.37055,
+    "lng": 114.10837
+  },
+  {
+    "key": "TW121F",
+    "region": "新界",
+    "district": "葵青區",
+    "description": "青葵公路/長青隧道 [TW121F]",
+    "lat": 22.34794,
+    "lng": 114.1107
+  },
+  {
+    "key": "TW701F",
+    "region": "新界",
+    "district": "荃灣區",
+    "description": "象鼻山路近美環街 [TW701F]",
+    "lat": 22.376678,
+    "lng": 114.114585
+  },
+  {
+    "key": "YL101F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "朗天路近朗屏路 [YL101F]",
+    "lat": 22.446407,
+    "lng": 114.016581
+  },
+  {
+    "key": "YL106F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路近元朗 [YL106F]",
+    "lat": 22.44445,
+    "lng": 114.03153
+  },
+  {
+    "key": "YL111F",
+    "region": "新界",
+    "district": "元朗區",
+    "description": "青山公路近博愛交匯處 [YL111F]",
+    "lat": 22.444655,
+    "lng": 114.036109
+  }
+]

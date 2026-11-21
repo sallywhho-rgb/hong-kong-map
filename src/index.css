@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family:
+    "WenQuanYi Micro Hei", "Noto Sans TC", "PingFang HK", "Microsoft JhengHei",
+    sans-serif;
+  color: #1c1917;
+  background: #d9d3c7;
+}
+
+.map-root .maplibregl-ctrl-attrib {
+  font-size: 11px;
+  line-height: 16px;
+  white-space: normal;
+  background: #fff;
+  border-radius: 4px;
+}
+
+.map-root .maplibregl-ctrl-bottom-right {
+  bottom: 8px;
+  left: 8px;
+  right: auto;
+  max-width: calc(100% - 16px);
+}
+
+.map-root .maplibregl-ctrl-bottom-left {
+  left: 8px;
+}
+
+@media (max-width: 1023px) {
+  .map-root .maplibregl-ctrl-bottom-right {
+    top: 80px;
+    right: 8px;
+    bottom: auto;
+    left: auto;
+    max-width: min(18rem, calc(100% - 16px));
+    z-index: 2;
+  }
+
+  .map-root .maplibregl-ctrl-bottom-left {
+    top: 12px;
+    right: 8px;
+    bottom: auto;
+    left: auto;
+  }
+}
