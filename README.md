@@ -45,6 +45,4 @@ python3 scripts/prepare_data.py
 npm run deploy
 ```
 
-這會先建置網站，再發佈名為 `hong-kong-map` 的 Worker。帳戶的 `workers.dev` 子網域是 `sallywhho`，網站網址會是 `https://hong-kong-map.sallywhho.workers.dev`。
-
-Cloudflare 要求先驗證帳戶電郵，才能建立 Worker。驗證完成後再執行上面的指令。
+這會先建置網站，再發佈名為 `hong-kong-map` 的 Worker。正式網址是 [https://hong-kong-map.sallywhho.workers.dev](https://hong-kong-map.sallywhho.workers.dev)。
